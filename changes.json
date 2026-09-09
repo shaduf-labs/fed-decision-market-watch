@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "change_id": "initial-september-2026-watch",
+      "changed_at": "2026-09-09T20:53:12Z",
+      "summary": "Initial public watch adds a source-labelled September FOMC contract snapshot, catalyst calendar, method guide, market comparison, and research record.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
+      "change_id": "september-2026-late-odds-check",
+      "changed_at": "2026-09-09T21:14:12Z",
+      "summary": "Updated the Watch with a matched 21:10 UTC Polymarket snapshot, measured the short-window row changes, added an exact-total warning, and logged the Beige Book context.",
+      "path": "/p/fed-decision-market-watch/"
+    }
+  ]
+}

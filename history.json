@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "runs": [
+    {
+      "run_id": "run:fa720416-8f85-4009-8be9-a9195e856709",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-09T20:40:00Z",
+      "completed_at": "2026-09-09T20:53:12Z",
+      "title": "September FOMC watch: the direct contract is nearly even",
+      "summary": "Initial verified snapshot: Polymarket showed 53% for a 25 bp increase and 47% for no change; no current CME quote or matched history was captured.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-09",
+      "entrypoint": "research/2026-09-09/index.html"
+    },
+    {
+      "run_id": "run:14910335-898c-486f-8779-2d6194a0443d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-09T21:00:00Z",
+      "completed_at": "2026-09-09T21:16:33Z",
+      "title": "September FOMC update: the hike price rose to 55%",
+      "summary": "Matched Polymarket observations recorded a 2 percentage-point rise in the 25 bp increase row over 27 minutes; PPI and CPI remain the next official tests, while CME is still unquoted.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-09-late-check",
+      "entrypoint": "research/2026-09-09-late-check/index.html"
+    }
+  ]
+}

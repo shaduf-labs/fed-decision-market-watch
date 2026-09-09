@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0.0",
+  "default_page": "watch",
+  "meaningfully_updated_at": "2026-09-09T20:08:25.000Z",
+  "pages": [
+    {
+      "id": "watch",
+      "slug": "",
+      "label": "Fed Decision Watch",
+      "icon": "◉",
+      "group": "Watch",
+      "description": "Next FOMC decision summary with identified market measures, observed changes, verified catalysts, and a compact official Polymarket live-market card when a verified active Fed-decision market is available.",
+      "parent": null,
+      "entrypoint": "index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "market-comparison",
+      "slug": "market-comparison",
+      "label": "Market Comparison",
+      "icon": "⇄",
+      "group": "Watch",
+      "description": "Prediction-market and futures-implied measures shown separately with source, rules, method, and observation time.",
+      "parent": null,
+      "entrypoint": "market-comparison/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "decision-calendar",
+      "slug": "decision-calendar",
+      "label": "Decision Calendar",
+      "icon": "□",
+      "group": "Watch",
+      "description": "FOMC dates, official economic-release times, Fed communications, and event markers.",
+      "parent": null,
+      "entrypoint": "decision-calendar/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "how-to-read-odds",
+      "slug": "how-to-read-odds",
+      "label": "How to Read the Odds",
+      "icon": "?",
+      "group": "Guide",
+      "description": "Plain-language notes on settlement rules, calculation limits, source definitions, and market access.",
+      "parent": null,
+      "entrypoint": "how-to-read-odds/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "research",
+      "slug": "research",
+      "label": "Research",
+      "icon": "▤",
+      "group": "Research",
+      "description": "Dated report collection with Calendar, Table, List, and Gallery views; each report has a stable public address.",
+      "parent": null,
+      "entrypoint": "research/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    }
+  ]
+}

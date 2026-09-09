@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "evidence_id": "public-evidence-polymarket-sep-contract",
+      "source_type": "prediction-market contract page",
+      "title": "Polymarket: Fed Decision in September?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-september-762",
+      "claim": "Displayed 53% for a 25 bp increase and 47% for no change; the contract specifies upper-bound target-range change and an FOMC-statement resolution source.",
+      "accessed_at": "2026-09-09T20:43:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-fed-calendar",
+      "source_type": "official calendar",
+      "title": "Federal Reserve: FOMC meeting calendars",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "claim": "Lists the September 15–16, 2026 FOMC meeting and marks it as associated with a Summary of Economic Projections.",
+      "accessed_at": "2026-09-09T20:39:00Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-bls-schedule",
+      "source_type": "official release calendar",
+      "title": "BLS: September 2026 release schedule",
+      "source_url": "https://www.bls.gov/schedule/2026/09_sched_list.htm",
+      "claim": "Schedules August PPI for September 10 at 08:30 ET and August CPI for September 11 at 08:30 ET.",
+      "accessed_at": "2026-09-09T20:42:00Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-waller-speech",
+      "source_type": "official Federal Reserve speech",
+      "title": "Governor Waller: The Economic Outlook and Some Comments on My Policy Communication",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
+      "claim": "Waller said continued inflation progress would make him inclined to support holding, while hot August inflation could lead him to consider a hike.",
+      "accessed_at": "2026-09-09T20:42:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-cme-method",
+      "source_type": "futures-implied probability methodology",
+      "title": "CME: Understanding the FedWatch Tool Methodology",
+      "source_url": "https://www.cmegroup.com/articles/2023/understanding-the-cme-group-fedwatch-tool-methodology.html",
+      "claim": "CME describes FedWatch as an estimate derived from 30-Day Fed Funds futures prices under stated effective-rate and 25 bp increment assumptions.",
+      "accessed_at": "2026-09-09T20:41:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-sep-contract-2110",
+      "source_type": "prediction-market contract page",
+      "title": "Polymarket: Fed Decision in September?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-september-762?marketSlug=will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649&outcomeIndex=0",
+      "claim": "Displayed 55% for a 25 bp increase and 46% for no change; its named resolution is the upper-bound target-range change in the FOMC statement.",
+      "accessed_at": "2026-09-09T21:10:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-beige-book-aug-2026",
+      "source_type": "official Federal Reserve Beige Book summary",
+      "title": "Federal Reserve: August 2026 Beige Book",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/beigebook202608-summary.htm",
+      "claim": "The national summary said activity increased modestly since early July and prices increased moderately; it was based on contacts collected on or before August 24.",
+      "accessed_at": "2026-09-09T21:10:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-iframe-gap",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME identifies FedWatch as probabilities implied by 30-Day Fed Funds futures; the live outcome grid remained inside an unreadable iframe in this check.",
+      "accessed_at": "2026-09-09T21:10:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    }
+  ]
+}

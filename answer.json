@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "status": "current",
+  "current_answer": "For the September 15–16 FOMC decision, the directly observed Polymarket contract displayed 55% for a 25-basis-point increase and 46% for no change when accessed at 21:10 UTC on September 9. Against a matched 20:43 UTC snapshot, the displayed increase row rose 2 percentage points and the no-change row fell 1 percentage point; the cause is not established. PPI on September 10 and CPI on September 11 are the next scheduled official price releases. A current CME FedWatch percentage was not captured because its live grid remains inside an unreadable iframe.",
+  "summary": [
+    "Polymarket's September contract displayed 55% for a 25 bp increase and 46% for no change when accessed September 9, 2026, 21:10 UTC.",
+    "Matched to a 20:43 UTC snapshot, the displayed increase row rose 2 percentage points and the no-change row fell 1 point; no cause is claimed.",
+    "The contract uses the change in the upper bound of the target range and names the FOMC statement as its resolution source.",
+    "PPI on September 10 and CPI on September 11 are the final scheduled BLS price releases before the September 15–16 meeting.",
+    "CME FedWatch remains separately labelled and unquoted because its live grid did not render in this check."
+  ],
+  "uncertainty": [
+    "Polymarket did not display a separate quote timestamp; the 21:10 UTC access time is not a closing quote.",
+    "Other listed outcome rows were below 1%; rounded displayed rows should not be forced into an exact 100% distribution.",
+    "CME FedWatch's live outcome grid remained unavailable to the read-only renderer, so no current futures-implied percentage or cross-market spread is reported.",
+    "The observed Polymarket move is a sequence, not evidence that any release or communication caused it.",
+    "The Beige Book summarizes outside contacts and is not a statement of officials’ views."
+  ],
+  "checked_at": "2026-09-09T21:10:00Z",
+  "meaningfully_updated_at": "2026-09-09T21:10:00Z",
+  "freshness_note": "Direct prediction-market snapshot accessed September 9, 2026, 21:10 UTC. Recheck after PPI, CPI, or any material Fed communication; the contract price can change continuously."
+}
