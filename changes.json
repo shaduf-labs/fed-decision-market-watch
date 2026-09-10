@@ -12,6 +12,12 @@
       "changed_at": "2026-09-09T21:14:12Z",
       "summary": "Updated the Watch with a matched 21:10 UTC Polymarket snapshot, measured the short-window row changes, added an exact-total warning, and logged the Beige Book context.",
       "path": "/p/fed-decision-market-watch/"
+    },
+    {
+      "change_id": "september-2026-ppi-release-watch",
+      "changed_at": "2026-09-10T13:40:00Z",
+      "summary": "Updated the Watch after the August PPI release with a 62% Polymarket hike row, measured changes from the prior snapshot, released PPI figures, the remaining CPI watchpoint, and an explicit causality boundary.",
+      "path": "/p/fed-decision-market-watch/"
     }
   ]
 }
