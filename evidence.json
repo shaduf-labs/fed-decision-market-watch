@@ -120,6 +120,26 @@
       "accessed_at": "2026-09-10T13:40:00Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-sep-contract-1908",
+      "source_type": "prediction-market contract page",
+      "title": "Polymarket: Fed Decision in September?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-september-762/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "claim": "Displayed 63% for a 25 bp increase, 37% for no change, 1% for a 50+ bp increase, and less than 1% for each displayed decrease row; the contract defines settlement by the upper-bound target-range change using the FOMC statement.",
+      "accessed_at": "2026-09-10T19:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-iframe-gap-1908",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME identifies FedWatch as probabilities implied by 30-Day Fed Funds futures; its overview exposed an embedded grid, but direct access to that grid returned an access-denied error in this check.",
+      "accessed_at": "2026-09-10T19:08:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

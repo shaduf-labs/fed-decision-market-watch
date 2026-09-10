@@ -1,26 +1,26 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "For the September 15–16 FOMC decision, the directly observed Polymarket contract displayed 62% for a 25-basis-point increase and 38% for no change when accessed at 13:40 UTC on September 10. Against the matched 21:10 UTC September 9 snapshot, the named increase row was 7 percentage points higher and the no-change row 8 points lower; the pool did not capture a quote around PPI, so it does not assign the move to the release. BLS reported August final-demand PPI up 0.4% in the month and 5.4% over 12 months. CPI is the next scheduled official price release; a current CME FedWatch percentage was not captured because its live grid remains inside an unreadable iframe.",
+  "current_answer": "For the September 15–16 FOMC decision, the directly observed Polymarket contract displayed 63% for a 25-basis-point increase and 37% for no change when accessed at 19:08 UTC on September 10. Against the matched 13:40 UTC snapshot, the named increase row was 1 percentage point higher and the no-change row 1 point lower: a small observed change, not a new causal story about PPI. BLS released August PPI earlier in the day; August CPI is the next scheduled official price release. A current CME FedWatch percentage was not captured because the embedded grid could not be directly accessed.",
   "catalogue_card": {
-    "question": "PPI is out. What do the September Fed odds show?",
-    "text": "Polymarket’s 25 bp hike row was 62% at 13:40 UTC, up 7 points from the last recorded snapshot. BLS released August PPI; CPI is still next, and the cause of the move is unproven."
+    "question": "The hike row is 63%. What could move it next?",
+    "text": "A late Polymarket check put the 25 bp hike row at 63%, only 1 point above the afternoon snapshot. CPI is next; the small move does not show why prices changed."
   },
   "summary": [
-    "Polymarket's September contract displayed 62% for a 25 bp increase and 38% for no change when accessed September 10, 2026, 13:40 UTC.",
-    "Against the September 9, 21:10 UTC snapshot, the named increase row rose 7 percentage points and the no-change row fell 8 points; no cause is claimed.",
-    "BLS reported August final-demand PPI up 0.4% in the month and 5.4% over 12 months.",
+    "Polymarket's September contract displayed 63% for a 25 bp increase and 37% for no change when accessed September 10, 2026, 19:08 UTC.",
+    "Against the matched 13:40 UTC snapshot, the named increase row rose 1 percentage point and the no-change row fell 1 point; this is a small observed move, not proof of a cause.",
+    "BLS reported August final-demand PPI up 0.4% in the month and 5.4% over 12 months earlier on September 10.",
     "August CPI is scheduled for September 11 at 08:30 ET, before the September 15–16 FOMC meeting.",
-    "CME FedWatch remains separately labelled and unquoted because its live grid did not render in this check."
+    "CME FedWatch remains separately labelled and unquoted because its embedded grid was not directly accessible in this check."
   ],
   "uncertainty": [
-    "Polymarket did not display a separate quote timestamp; the 13:40 UTC access time is not a closing quote.",
-    "Other listed outcome rows were small and rounded; displayed rows should not be forced into an exact 100% distribution.",
-    "CME FedWatch's live outcome grid remained unavailable to the read-only renderer, so no current futures-implied percentage or cross-market spread is reported.",
-    "The pool did not capture a Polymarket quote immediately before or after the PPI release, so the observed sequence is not evidence that PPI caused it.",
-    "PPI is one official release; CPI and the Committee's decision remain ahead."
+    "Polymarket did not display a separate quote timestamp; the 19:08 UTC access time is not a closing quote.",
+    "Displayed outcome rows include rounded small outcomes and should not be forced into an exact 100% distribution.",
+    "CME FedWatch's live outcome grid was not directly accessible, so no current futures-implied percentage or cross-market spread is reported.",
+    "The pool did not capture a quote immediately around the PPI release, so PPI is not established as the cause of the observed contract movement.",
+    "CPI and the Committee's decision remain ahead."
   ],
-  "checked_at": "2026-09-10T13:40:00Z",
+  "checked_at": "2026-09-10T19:08:00Z",
   "meaningfully_updated_at": "2026-09-10T13:40:00Z",
-  "freshness_note": "Direct prediction-market snapshot accessed September 10, 2026, 13:40 UTC, after the official PPI release. The contract price can change continuously; recheck after CPI or material Fed communication."
+  "freshness_note": "Direct prediction-market snapshot accessed September 10, 2026, 19:08 UTC. The named rows changed only 1 percentage point from the afternoon snapshot; recheck after CPI or material Fed communication."
 }
