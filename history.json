@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:f8125273-6674-421d-a4dd-614f16d5ed52",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-11T19:01:00Z",
+      "completed_at": "2026-09-11T19:11:38Z",
+      "title": "Late check: the hike row is 82%; the move is small",
+      "summary": "Polymarket showed 82% for a 25 bp increase at 19:06 UTC, only 1 percentage point above the earlier September 11 snapshot. The prior 24-hour move remains unassigned to a cause, and CME is still not directly quoted.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-11-late-check",
+      "entrypoint": "research/2026-09-11-late-check/index.html"
+    },
+    {
       "run_id": "run:cf2796f1-eef2-4626-9e2e-5b78e46ed57b",
       "status": "completed",
       "answer_change": "meaningful_change",

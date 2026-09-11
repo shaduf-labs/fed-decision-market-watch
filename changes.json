@@ -30,6 +30,12 @@
       "changed_at": "2026-09-11T13:34:27Z",
       "summary": "Updated the Watch after the August CPI release with an 81% Polymarket hike row, an 18-point matched change, official CPI figures, a refreshed factual visual, and an explicit causality boundary.",
       "path": "/p/fed-decision-market-watch/"
+    },
+    {
+      "change_id": "september-2026-late-cpi-day-check",
+      "changed_at": "2026-09-11T19:06:03Z",
+      "summary": "Refreshed the Watch with a 19:06 UTC Polymarket snapshot, labelled the +1 and −2 percentage-point same-day change as small, retained the prior larger move’s causality limit, and documented that third-party CME reports are not a current direct comparison.",
+      "path": "/p/fed-decision-market-watch/"
     }
   ]
 }

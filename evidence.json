@@ -180,6 +180,36 @@
       "accessed_at": "2026-09-11T13:34:27Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-sep-contract-1906",
+      "source_type": "prediction-market contract page",
+      "title": "Polymarket: Fed Decision in September?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-september-762/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "claim": "Displayed 82% for a 25 bp increase and 18% for no change; the contract specifies upper-bound target-range change and an FOMC-statement resolution source.",
+      "accessed_at": "2026-09-11T19:06:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-iframe-gap-1906",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME identifies FedWatch as probabilities implied by 30-Day Fed Funds futures; its live grid remained unreadable in this check.",
+      "accessed_at": "2026-09-11T19:06:03Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-vantage-cme-fedwatch-sep10",
+      "source_type": "third-party historical market report",
+      "title": "Vantage Markets: How to Read Fed Rate-Cut Probability Without Guessing the Decision",
+      "source_url": "https://www.vantagemarkets.com/market-analysis/fed-rate-probability-cme-fedwatch-explained/",
+      "claim": "The article reproduced a September 10, 03:25 CT CME FedWatch distribution of 62.4% for a 25 bp hike and 37.6% for no change; it is historical third-party reporting, not a current direct CME observation.",
+      "accessed_at": "2026-09-11T19:06:03Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
