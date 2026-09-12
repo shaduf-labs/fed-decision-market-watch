@@ -210,6 +210,56 @@
       "accessed_at": "2026-09-11T19:06:03Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-sep-contract-20260912-1334",
+      "source_type": "prediction-market contract page",
+      "title": "Polymarket: Fed Decision in September?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-september-762/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "claim": "Displayed 79% for a 25 bp increase and 20% for no change; also displayed small 50+ bp-increase and decrease rows. The contract specifies upper-bound target-range change and an FOMC-statement resolution source.",
+      "accessed_at": "2026-09-12T13:34:14Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-fed-monetary-policy-20260912-1334",
+      "source_type": "official calendar",
+      "title": "Federal Reserve: Monetary Policy",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy.htm",
+      "claim": "Lists the September 15–16 FOMC meeting, a press conference, and the September-meeting minutes release date.",
+      "accessed_at": "2026-09-12T13:34:14Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-grid-gap-20260912-1334",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME identifies FedWatch as probabilities implied by 30-Day Fed Funds futures; the live outcome grid remained inaccessible through its embedded tool in this check.",
+      "accessed_at": "2026-09-12T13:34:14Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-axios-cme-fedwatch-20260911",
+      "source_type": "third-party market report",
+      "title": "Axios: The Fed’s big inflation test",
+      "source_url": "https://www.axios.com/2026/09/11/the-feds-big-inflation-test",
+      "claim": "Axios reported an 85% CME FedWatch rate-increase probability after CPI, up from 72% before the release. It is a time-specific third-party report, not a directly captured current CME grid or a matched cross-market comparison.",
+      "accessed_at": "2026-09-12T13:34:14Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-fed-september-calendar-20260912-1334",
+      "source_type": "official calendar",
+      "title": "Federal Reserve: September 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-september.htm",
+      "claim": "Lists the September 15–16 FOMC meeting, the statement at 14:00 ET and the press conference at 14:30 ET on September 16.",
+      "accessed_at": "2026-09-12T13:34:14Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
     }
   ]
 }

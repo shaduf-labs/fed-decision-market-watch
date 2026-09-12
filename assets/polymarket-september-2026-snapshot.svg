@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="320" viewBox="0 0 920 320" role="img" aria-labelledby="title desc">
   <title id="title">Polymarket September 2026 Fed-decision contract price rows</title>
-  <desc id="desc">A two-bar chart shows selected Polymarket outcome price rows at 82 percent for a 25 basis point increase and 18 percent for no change. Source: Polymarket Fed Decision in September contract, accessed September 11, 2026, 19:06 UTC. This is a point-in-time snapshot, not an exact 100 percent total.</desc>
+  <desc id="desc">A two-bar chart shows selected Polymarket outcome price rows at 79 percent for a 25 basis point increase and 20 percent for no change. Source: Polymarket Fed Decision in September contract, accessed September 12, 2026, 13:34 UTC. This is a point-in-time snapshot, not an exact 100 percent total.</desc>
   <rect width="920" height="320" fill="#10233d" rx="18"/>
   <text x="44" y="50" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Selected contract rows: September FOMC</text>
-  <text x="44" y="76" fill="#aebed4" font-family="Arial, sans-serif" font-size="15">Polymarket “Fed Decision in September?” — accessed Sep. 11, 2026, 19:06 UTC</text>
-  <rect x="78" y="112" width="533" height="134" fill="#c46345" rx="10"/>
-  <rect x="641" y="216" width="117" height="30" fill="#5478b8" rx="10"/>
-  <text x="344" y="193" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="42" font-weight="700">82%</text>
-  <text x="699" y="239" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">18%</text>
-  <text x="344" y="276" text-anchor="middle" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17">25 bp increase</text>
-  <text x="699" y="276" text-anchor="middle" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17">No change</text>
+  <text x="44" y="76" fill="#aebed4" font-family="Arial, sans-serif" font-size="15">Polymarket “Fed Decision in September?” — accessed Sep. 12, 2026, 13:34 UTC</text>
+  <rect x="78" y="112" width="514" height="134" fill="#c46345" rx="10"/>
+  <rect x="641" y="214" width="130" height="32" fill="#5478b8" rx="10"/>
+  <text x="335" y="193" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="42" font-weight="700">79%</text>
+  <text x="706" y="238" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">20%</text>
+  <text x="335" y="276" text-anchor="middle" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17">25 bp increase</text>
+  <text x="706" y="276" text-anchor="middle" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17">No change</text>
   <text x="44" y="304" fill="#aebed4" font-family="Arial, sans-serif" font-size="13">Venue-specific event-contract prices; quote timestamp was not displayed. Rounded rows are not an exact 100% total.</text>
 </svg>

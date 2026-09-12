@@ -36,6 +36,12 @@
       "changed_at": "2026-09-11T19:06:03Z",
       "summary": "Refreshed the Watch with a 19:06 UTC Polymarket snapshot, labelled the +1 and −2 percentage-point same-day change as small, retained the prior larger move’s causality limit, and documented that third-party CME reports are not a current direct comparison.",
       "path": "/p/fed-decision-market-watch/"
+    },
+    {
+      "change_id": "september-2026-premeeting-contract-check",
+      "changed_at": "2026-09-12T13:34:14Z",
+      "summary": "Refreshed the Watch with a 13:34 UTC Polymarket snapshot, measured the −3 and +2 percentage-point named-row changes, added a decision-day interpretation boundary, and retained the direct CME live-grid gap.",
+      "path": "/p/fed-decision-market-watch/"
     }
   ]
 }

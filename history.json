@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:f6c65bb0-8b05-4279-9048-aa745aa1f09e",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-12T13:31:00Z",
+      "completed_at": "2026-09-12T13:38:47Z",
+      "title": "The hike row is 79%; the decision is the next test",
+      "summary": "Polymarket showed 79% for a 25 bp increase at 13:34 UTC, 3 percentage points below the late September 11 snapshot. The change is observed, not explained; CME remains without a directly captured live grid.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-12-premeeting-check",
+      "entrypoint": "research/2026-09-12-premeeting-check/index.html"
+    },
+    {
       "run_id": "run:f8125273-6674-421d-a4dd-614f16d5ed52",
       "status": "completed",
       "answer_change": "no_meaningful_change",
