@@ -260,6 +260,46 @@
       "accessed_at": "2026-09-12T13:34:14Z",
       "relation": "supports",
       "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-economy-20260912-1909",
+      "source_type": "prediction-market listing",
+      "title": "Polymarket Economy: Fed Decision in September?",
+      "source_url": "https://polymarket.com/economy",
+      "claim": "The named market card displayed 80% for a 25 bp increase and 21% for no change. The listing did not display a separate quote timestamp; the pool records the 19:09 UTC access time.",
+      "accessed_at": "2026-09-12T19:09:06Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-bls-september-schedule-20260912-1909",
+      "source_type": "official release calendar",
+      "title": "BLS: September 2026 release schedule",
+      "source_url": "https://www.bls.gov/schedule/2026/09_sched_list.htm",
+      "claim": "Schedules the August U.S. Import and Export Price Indexes for September 16, 2026, at 08:30 ET.",
+      "accessed_at": "2026-09-12T19:09:06Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-fed-september-calendar-20260912-1909",
+      "source_type": "official calendar",
+      "title": "Federal Reserve: September 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-september.htm",
+      "claim": "Lists the September 15–16 FOMC meeting, the statement at 14:00 ET and the press conference at 14:30 ET on September 16.",
+      "accessed_at": "2026-09-12T19:09:06Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-grid-gap-20260912-1909",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME identifies FedWatch as probabilities implied by 30-Day Fed Funds futures; the live outcome grid remained inaccessible through its embedded tool in this check.",
+      "accessed_at": "2026-09-12T19:09:06Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

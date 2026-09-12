@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="320" viewBox="0 0 920 320" role="img" aria-labelledby="title desc">
-  <title id="title">Polymarket September 2026 Fed-decision contract price rows</title>
-  <desc id="desc">A two-bar chart shows selected Polymarket outcome price rows at 79 percent for a 25 basis point increase and 20 percent for no change. Source: Polymarket Fed Decision in September contract, accessed September 12, 2026, 13:34 UTC. This is a point-in-time snapshot, not an exact 100 percent total.</desc>
+  <title id="title">Polymarket September 2026 Fed-decision market card rows</title>
+  <desc id="desc">A two-bar chart shows selected Polymarket Economy listing rows at 80 percent for a 25 basis point increase and 21 percent for no change. Source: Polymarket Economy, named Fed Decision in September market, accessed September 12, 2026, 19:09 UTC. This is a point-in-time listing snapshot, not an exact 100 percent total.</desc>
   <rect width="920" height="320" fill="#10233d" rx="18"/>
-  <text x="44" y="50" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Selected contract rows: September FOMC</text>
-  <text x="44" y="76" fill="#aebed4" font-family="Arial, sans-serif" font-size="15">Polymarket “Fed Decision in September?” — accessed Sep. 12, 2026, 13:34 UTC</text>
-  <rect x="78" y="112" width="514" height="134" fill="#c46345" rx="10"/>
-  <rect x="641" y="214" width="130" height="32" fill="#5478b8" rx="10"/>
-  <text x="335" y="193" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="42" font-weight="700">79%</text>
-  <text x="706" y="238" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">20%</text>
-  <text x="335" y="276" text-anchor="middle" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17">25 bp increase</text>
-  <text x="706" y="276" text-anchor="middle" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17">No change</text>
-  <text x="44" y="304" fill="#aebed4" font-family="Arial, sans-serif" font-size="13">Venue-specific event-contract prices; quote timestamp was not displayed. Rounded rows are not an exact 100% total.</text>
+  <text x="44" y="50" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Selected market-card rows: September FOMC</text>
+  <text x="44" y="76" fill="#aebed4" font-family="Arial, sans-serif" font-size="15">Polymarket Economy “Fed Decision in September?” — accessed Sep. 12, 2026, 19:09 UTC</text>
+  <rect x="78" y="112" width="520" height="134" fill="#c46345" rx="10"/>
+  <rect x="641" y="211" width="137" height="35" fill="#5478b8" rx="10"/>
+  <text x="338" y="193" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="42" font-weight="700">80%</text>
+  <text x="710" y="238" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">21%</text>
+  <text x="338" y="276" text-anchor="middle" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17">25 bp increase</text>
+  <text x="710" y="276" text-anchor="middle" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17">No change</text>
+  <text x="44" y="304" fill="#aebed4" font-family="Arial, sans-serif" font-size="13">Venue-specific event-contract prices; listing did not display a quote timestamp. Rounded rows are not an exact 100% total.</text>
 </svg>

@@ -1,26 +1,26 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "For the September 15–16 FOMC decision, the directly observed Polymarket contract displayed 79% for a 25-basis-point increase and 20% for no change when accessed at 13:34 UTC on September 12. Against the matched 19:06 UTC September 11 snapshot, those named rows changed −3 and +2 percentage points. The page did not show a quote timestamp and displayed small rounded outcomes, so the movement does not establish an explanation. CME FedWatch remains directly unquoted because its live grid was unreadable. An Axios article reported an 85% CME hike probability after CPI, but without a directly inspectable grid or matched observation time; it is not used for a cross-market spread.",
+  "current_answer": "For the September 15–16 FOMC decision, Polymarket’s public Economy listing displayed 80% for a 25-basis-point increase and 21% for no change when accessed at 19:09 UTC on September 12. The pool’s 13:34 UTC contract-page snapshot showed 79% and 20%, so the named displayed rows were each 1 percentage point higher. That is a small update across two views of the same named market, not a new repricing story. The listing did not show a quote timestamp, and rounded rows are not an exact distribution. CME FedWatch remains directly unquoted because its live grid was unreadable. BLS schedules import and export price indexes at 08:30 ET on September 16, before the 14:00 ET statement and 14:30 ET press conference.",
   "catalogue_card": {
-    "question": "The hike row eased to 79%. What matters next?",
-    "text": "Polymarket’s 25 bp hike row was 79% at 13:34 UTC, down 3 points from the late September 11 check. The FOMC statement, projections and press conference are the next test; CME is still not a matched live comparison."
+    "question": "The hike row is 80%. Is that a new repricing?",
+    "text": "Polymarket’s named September hike row was 80% at 19:09 UTC, only 1 point above the afternoon record. The decision-day sequence—not a tiny late check—is the next real test; CME is still not a matched live comparison."
   },
   "summary": [
-    "Polymarket’s September contract displayed 79% for a 25 bp increase and 20% for no change when accessed September 12, 2026, 13:34 UTC.",
-    "Against the 19:06 UTC September 11 snapshot, the named rows changed −3 and +2 percentage points; the observations show a change, not its cause.",
+    "Polymarket’s public Economy listing displayed 80% for a 25 bp increase and 21% for no change in the named September market when accessed September 12, 2026, 19:09 UTC.",
+    "The pool’s 13:34 UTC contract-page snapshot was 79% and 20%, making the named displayed rows 1 percentage point higher each. That is a small update, not a new repricing claim.",
     "The contract resolves on the change in the upper bound of the target range and names the FOMC statement as its resolution source.",
-    "The FOMC statement and projections are scheduled for September 16 at 14:00 ET, followed by the press conference at 14:30 ET.",
-    "CME FedWatch remains separately labelled and directly unquoted because the live grid was not readable. A third-party 85% report is context, not a current matched comparison."
+    "BLS schedules import and export price indexes at 08:30 ET on September 16, before the FOMC statement at 14:00 ET and press conference at 14:30 ET.",
+    "CME FedWatch remains separately labelled and directly unquoted because the live grid was not readable."
   ],
   "uncertainty": [
-    "Polymarket did not display a separate quote timestamp; the 13:34 UTC access time is not a closing quote.",
-    "Displayed outcome rows include small rounded outcomes and should not be forced into an exact 100% distribution.",
-    "The −3 and +2 percentage-point changes are from rounded displayed rows and do not identify a cause.",
-    "CME FedWatch’s live outcome grid was not directly readable, so no current futures-implied percentage or cross-market spread is reported.",
-    "The 85% CME figure in an Axios article is a time-specific third-party report without a directly inspectable grid or matched observation time."
+    "The 19:09 UTC record is the pool access time for the Polymarket Economy listing; the listing did not display a separate quote timestamp.",
+    "The prior 13:34 reading came from the contract page while the later reading came from the same named market’s listing card, so the +1 and +1 differences are a small cross-surface comparison rather than a closing-price series.",
+    "Displayed outcome rows are rounded and should not be forced into an exact 100% distribution.",
+    "The small difference does not identify a cause.",
+    "CME FedWatch’s live outcome grid was not directly readable, so no current futures-implied percentage or cross-market spread is reported."
   ],
-  "checked_at": "2026-09-12T13:34:14Z",
+  "checked_at": "2026-09-12T19:09:06Z",
   "meaningfully_updated_at": "2026-09-12T13:34:14Z",
-  "freshness_note": "Direct prediction-market snapshot accessed September 12, 2026, 13:34 UTC. The named rows changed −3 and +2 percentage points from the late September 11 access. The FOMC statement, projections and press conference are the next primary test."
+  "freshness_note": "Polymarket’s public Economy listing was accessed September 12, 2026, 19:09 UTC and showed a small +1 and +1 percentage-point difference from the pool’s 13:34 contract-page snapshot. The card did not show a separate quote time. BLS import and export prices at 08:30 ET and the FOMC statement at 14:00 ET on September 16 are the next scheduled official events."
 }
