@@ -48,6 +48,12 @@
       "changed_at": "2026-09-12T19:15:21Z",
       "summary": "Refreshed the Watch with an 80% / 21% Polymarket Economy-listing reading, labelled the +1 and +1 percentage-point update as small, added the September 16 BLS import/export release, and retained the direct-CME grid gap.",
       "path": "/p/fed-decision-market-watch/"
+    },
+    {
+      "change_id": "september-2026-two-venue-event-market-check",
+      "changed_at": "2026-09-13T13:41:00Z",
+      "summary": "Added a source- and rule-labelled Kalshi September event reading beside Polymarket, showed the close 78% and 79% headline rows without calling them a consensus, refreshed the factual visual, and retained the direct-CME grid gap.",
+      "path": "/p/fed-decision-market-watch/"
     }
   ]
 }

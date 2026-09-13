@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:a048a184-ff7e-4a9e-9b50-065832e66d56",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-13T13:31:00Z",
+      "completed_at": "2026-09-13T13:41:00Z",
+      "title": "Two event markets put the 25 bp hike near 80%",
+      "summary": "Polymarket’s named hike row was 78% and Kalshi’s main chance row was 79% at 13:39 UTC. The close pair is not a consensus; the September 16 official sequence is next and CME remains without a directly captured live grid.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-13-venue-check",
+      "entrypoint": "research/2026-09-13-venue-check/index.html"
+    },
+    {
       "run_id": "run:ad50c4e1-de63-4b2b-8a81-4561014f8db3",
       "status": "completed",
       "answer_change": "no_meaningful_change",

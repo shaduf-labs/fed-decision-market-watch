@@ -300,6 +300,76 @@
       "accessed_at": "2026-09-12T19:09:06Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-economy-20260913-1339",
+      "source_type": "prediction-market listing",
+      "title": "Polymarket Economy: Fed Decision in September?",
+      "source_url": "https://polymarket.com/economy",
+      "claim": "The named market card displayed 78% for a 25 bp increase and 22% for no change. The listing did not display a separate quote timestamp; the pool records the 13:39 UTC access time.",
+      "accessed_at": "2026-09-13T13:39:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-contract-rules-20260913-1339",
+      "source_type": "prediction-market contract page",
+      "title": "Polymarket: Fed Decision in September?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-september-762?marketSlug=will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615&outcomeIndex=1",
+      "claim": "The contract defines the outcome by the change in the upper bound of the target federal funds range and names the FOMC statement as resolution source.",
+      "accessed_at": "2026-09-13T13:39:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-kalshi-september-event-20260913-1339",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi: Fed decision in September?",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep",
+      "claim": "The direct event page displayed main chance headings of 79% for Hike 25bps and 21% for Fed maintains rate, and identified a September 16, 13:00 EDT start. It also showed an 80¢ Yes quote beside the 79% hike heading.",
+      "accessed_at": "2026-09-13T13:39:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-cftc-feddecision-rulebook-20260913-1339",
+      "source_type": "government-filed contract rulebook",
+      "title": "CFTC: Kalshi FEDDECISION amended contract terms",
+      "source_url": "https://www.cftc.gov/filings/orgrules/rules04142519245.pdf",
+      "claim": "The filed generic FEDDECISION rulebook says its amendment applies to future iterations, defines the underlying as FOMC target-range decisions, and names the Federal Reserve System as source agency.",
+      "accessed_at": "2026-09-13T13:39:33Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-grid-gap-20260913-1339",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME identifies FedWatch as probabilities implied by 30-Day Fed Funds futures; its live outcome grid remained unreadable through the embedded tool in this check.",
+      "accessed_at": "2026-09-13T13:39:33Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-bls-september-schedule-20260913-1339",
+      "source_type": "official release calendar",
+      "title": "BLS: September 2026 release schedule",
+      "source_url": "https://www.bls.gov/schedule/2026/09_sched_list.htm",
+      "claim": "Schedules the August U.S. Import and Export Price Indexes for September 16, 2026, at 08:30 ET.",
+      "accessed_at": "2026-09-13T13:39:33Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-fed-september-calendar-20260913-1339",
+      "source_type": "official calendar",
+      "title": "Federal Reserve: September 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-september.htm",
+      "claim": "Lists the September 15–16 FOMC meeting, the statement at 14:00 ET, and the press conference at 14:30 ET on September 16.",
+      "accessed_at": "2026-09-13T13:39:33Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
     }
   ]
 }
