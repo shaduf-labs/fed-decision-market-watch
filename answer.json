@@ -1,25 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "For the September 15–16 FOMC decision, Polymarket’s public Economy listing displayed 78% for a 25-basis-point increase and 22% for no change when accessed at 13:39 UTC on September 13. Kalshi’s direct September event page displayed main chance rows of 79% for “Hike 25bps” and 21% for “Fed maintains rate” in the same check. The two named event-contract readings are close, but they are not a consensus or a futures-implied CME figure. Polymarket’s 25 bp row was 2 percentage points lower and its no-change row 1 point higher than that listing’s 80% and 21% record at 19:09 UTC on September 12. CME FedWatch’s current grid remained unreadable. The next scheduled decision-day sequence is BLS import/export prices at 08:30 ET, then the FOMC statement at 14:00 ET and press conference at 14:30 ET on September 16.",
+  "current_answer": "For the September 15–16 FOMC decision, Polymarket’s direct event page displayed 79% for a 25-basis-point increase and 22% for no change when accessed at 19:07 UTC on September 13. Kalshi’s direct September page displayed a 79% main chance heading for “Hike 25bps” and 21% for “Fed maintains rate” at the same access time; those Kalshi headline rows matched the pool’s 13:39 UTC record. The direct Polymarket page is not the same surface as the 78% Economy listing captured earlier, so the pool does not call the one-point difference a market move. The close readings are not a consensus or a futures-implied CME figure. CME FedWatch’s current grid remained unreadable. The next official sequence is BLS import/export prices at 08:30 ET, then the FOMC statement at 14:00 ET and press conference at 14:30 ET on September 16.",
   "catalogue_card": {
-    "question": "Two event markets are near 80%. Is that a consensus?",
-    "text": "Polymarket’s named September hike row was 78% and Kalshi’s was 79% at one observed time. The close pair is useful context, not one all-market probability; CME still lacks a directly captured live figure."
+    "question": "Both direct event pages show 79%. What does that actually mean?",
+    "text": "Polymarket and Kalshi each displayed a 79% named 25 bp-hike row at 19:07 UTC. The matching headlines are not a consensus, and a different Polymarket surface showed 78% earlier."
   },
   "summary": [
-    "Polymarket’s public Economy listing displayed 78% for a 25 bp increase and 22% for no change in the named September market when accessed September 13, 2026, 13:39 UTC.",
-    "The same Polymarket listing displayed 80% and 21% when accessed at 19:09 UTC on September 12. The named rows changed by -2 and +1 percentage points; the listing does not explain why.",
-    "Kalshi’s direct September event page displayed main chance rows of 79% for Hike 25bps and 21% for Fed maintains rate at the same access time.",
-    "The two venues’ leading named rows differ by 1 percentage point, but they are separate event contracts, not an aggregated consensus or a CME FedWatch estimate.",
+    "Polymarket’s direct September event page displayed 79% for a 25 bp increase and 22% for no change when accessed September 13, 2026, 19:07 UTC.",
+    "Kalshi’s direct September event page displayed main chance headings of 79% for Hike 25bps and 21% for Fed maintains rate at the same access time; those named headings matched the pool’s 13:39 UTC snapshot.",
+    "The direct Polymarket event-page observation is not like-for-like with the 78% Economy-listing observation at 13:39 UTC, so the pool does not call the one-point difference a price move.",
+    "The matching 79% named hike headings are separate event-contract readings, not an aggregated consensus or a CME FedWatch estimate.",
     "CME FedWatch remains separately labelled and directly unquoted because the live grid was not readable.",
     "BLS schedules import and export price indexes at 08:30 ET on September 16, before the FOMC statement at 14:00 ET and press conference at 14:30 ET."
   ],
   "uncertainty": [
-    "Polymarket’s listing displayed no separate quote timestamp; 13:39 UTC is the pool access time, and the selected rounded rows are not an exact outcome distribution.",
-    "Kalshi’s direct event page showed a 79% main chance heading for a 25 bp hike alongside a 80¢ Yes quote; this update reports the main percentage heading and does not treat the surface as a precise closing-price series.",
-    "The two venues are separate event-contract measures. Their close displayed rows are not an all-market consensus, and CME FedWatch was not directly quoted."
+    "Polymarket’s direct page did not display a separate quote timestamp; 19:07 UTC is the pool access time, and rounded rows are not an exact outcome distribution.",
+    "Polymarket’s earlier Economy-listing observation and its current direct event-page observation are distinct surfaces, not a matched price series.",
+    "Kalshi and Polymarket are separate event-contract measures. Their identical displayed 79% headline rows are not an all-market consensus, and CME FedWatch was not directly quoted."
   ],
-  "checked_at": "2026-09-13T13:39:33Z",
+  "checked_at": "2026-09-13T19:07:58Z",
   "meaningfully_updated_at": "2026-09-13T13:39:33Z",
-  "freshness_note": "Polymarket and Kalshi event pages were accessed September 13, 2026, 13:39 UTC. Neither displayed a separate quote timestamp. Their close named hike rows are not pooled; CME FedWatch’s live grid remains unquoted. The next official watchpoints are BLS import/export prices and the FOMC decision sequence on September 16."
+  "freshness_note": "Polymarket’s direct September event page, Kalshi’s September event page, and CME FedWatch were rechecked September 13, 2026, 19:07 UTC. Neither event page displayed a separate quote timestamp. The two identical 79% hike headings are not pooled; the prior Polymarket 78% Economy-listing reading is a different surface. The next official watchpoints are BLS import/export prices and the FOMC decision sequence on September 16."
 }

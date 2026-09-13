@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="380" viewBox="0 0 920 380" role="img" aria-labelledby="title desc">
-  <title id="title">September 2026 Fed-decision event-market snapshot</title>
-  <desc id="desc">Side-by-side bars show selected displayed event-market rows accessed September 13, 2026, 13:39 UTC: Polymarket 78 percent for a 25 basis point increase and 22 percent for no change; Kalshi 79 percent for a 25 basis point hike and 21 percent for maintaining the rate. These are separate venue-specific contract readings, not a consensus or an exact outcome distribution.</desc>
+  <title id="title">September 2026 Fed-decision direct event-page snapshot</title>
+  <desc id="desc">Side-by-side bars show selected displayed event-market rows accessed September 13, 2026, 19:07 UTC: Polymarket and Kalshi each show 79 percent for a named 25 basis point hike outcome; Polymarket shows 22 percent no change and Kalshi 21 percent maintains rate. These are separate venue-specific contract readings, not a consensus or an exact outcome distribution.</desc>
   <rect width="920" height="380" fill="#10233d" rx="18"/>
-  <text x="44" y="50" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Two event-market readings for the September FOMC</text>
-  <text x="44" y="77" fill="#aebed4" font-family="Arial, sans-serif" font-size="15">Displayed main rows, accessed Sep. 13, 2026, 13:39 UTC · venue-specific contracts, not a consensus</text>
-  <text x="92" y="118" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17" font-weight="700">Polymarket Economy listing</text>
-  <rect x="92" y="138" width="546" height="42" fill="#c46345" rx="8"/>
-  <text x="365" y="167" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">25 bp increase · 78%</text>
+  <text x="44" y="50" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Two direct event-market readings for the September FOMC</text>
+  <text x="44" y="77" fill="#aebed4" font-family="Arial, sans-serif" font-size="15">Displayed main rows, accessed Sep. 13, 2026, 19:07 UTC · venue-specific contracts, not a consensus</text>
+  <text x="92" y="118" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17" font-weight="700">Polymarket September event page</text>
+  <rect x="92" y="138" width="553" height="42" fill="#c46345" rx="8"/>
+  <text x="368" y="167" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">25 bp increase · 79%</text>
   <rect x="92" y="190" width="154" height="42" fill="#5478b8" rx="8"/>
   <text x="169" y="219" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="21" font-weight="700">No change · 22%</text>
   <text x="92" y="274" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17" font-weight="700">Kalshi September event page</text>

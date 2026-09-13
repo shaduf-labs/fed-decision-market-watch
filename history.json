@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:e697a2b4-9ca0-48cd-aaaa-0d9d17a9ea72",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-13T19:01:00Z",
+      "completed_at": "2026-09-13T19:15:22Z",
+      "title": "Late check: the direct hike rows are both 79%",
+      "summary": "Polymarket and Kalshi direct pages each displayed a 79% named 25 bp-hike row at 19:07 UTC. The earlier 78% Polymarket listing is a different surface, not a measured price move; CME remains without a directly captured live grid.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-13-late-direct-check",
+      "entrypoint": "research/2026-09-13-late-direct-check/index.html"
+    },
+    {
       "run_id": "run:a048a184-ff7e-4a9e-9b50-065832e66d56",
       "status": "completed",
       "answer_change": "meaningful_change",
