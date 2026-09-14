@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="380" viewBox="0 0 920 380" role="img" aria-labelledby="title desc">
   <title id="title">September 2026 Fed-decision direct event-page snapshot</title>
-  <desc id="desc">Side-by-side bars show selected displayed event-market rows accessed September 14, 2026, 13:34 UTC: Polymarket shows 80 percent for a named 25 basis point hike outcome and 19 percent no change; Kalshi shows 83 percent for a named 25 basis point hike outcome and 18 percent maintains rate. These are separate venue-specific contract readings, not a consensus or an exact outcome distribution.</desc>
+  <desc id="desc">Side-by-side bars show selected displayed event-market rows checked September 14, 2026, 19:06 UTC: Polymarket shows 80 percent for a named 25 basis point hike outcome and 19 percent no change; Kalshi shows 85 percent for a named 25 basis point hike outcome and 14 percent maintains rate. These are separate venue-specific contract readings, not a consensus or an exact outcome distribution.</desc>
   <rect width="920" height="380" fill="#10233d" rx="18"/>
   <text x="44" y="50" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Two direct event-market readings for the September FOMC</text>
-  <text x="44" y="77" fill="#aebed4" font-family="Arial, sans-serif" font-size="15">Displayed main rows, accessed Sep. 14, 2026, 13:34 UTC · venue-specific contracts, not a consensus</text>
+  <text x="44" y="77" fill="#aebed4" font-family="Arial, sans-serif" font-size="15">Selected displayed rows, checked Sep. 14, 2026, 19:06 UTC · venue-specific contracts, not a consensus</text>
   <text x="92" y="118" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17" font-weight="700">Polymarket September event page</text>
   <rect x="92" y="138" width="560" height="42" fill="#c46345" rx="8"/>
   <text x="372" y="167" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">25 bp increase · 80%</text>
   <rect x="92" y="190" width="133" height="42" fill="#5478b8" rx="8"/>
   <text x="159" y="219" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="20" font-weight="700">No change · 19%</text>
   <text x="92" y="274" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17" font-weight="700">Kalshi September event page</text>
-  <rect x="92" y="294" width="581" height="42" fill="#c46345" rx="8"/>
-  <text x="382" y="323" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Hike 25bps · 83%</text>
-  <rect x="92" y="346" width="126" height="24" fill="#5478b8" rx="8"/>
-  <text x="155" y="365" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Maintains rate · 18%</text>
-  <text x="692" y="176" fill="#aebed4" font-family="Arial, sans-serif" font-size="14">Source: Polymarket</text>
-  <text x="692" y="320" fill="#aebed4" font-family="Arial, sans-serif" font-size="14">Source: Kalshi</text>
+  <rect x="92" y="294" width="595" height="42" fill="#c46345" rx="8"/>
+  <text x="390" y="323" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Hike 25bps · 85%</text>
+  <rect x="92" y="346" width="98" height="24" fill="#5478b8" rx="8"/>
+  <text x="141" y="365" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Maintains rate · 14%</text>
+  <text x="704" y="176" fill="#aebed4" font-family="Arial, sans-serif" font-size="14">Source: Polymarket</text>
+  <text x="704" y="320" fill="#aebed4" font-family="Arial, sans-serif" font-size="14">Source: Kalshi</text>
 </svg>

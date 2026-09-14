@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:d070a67e-69fa-4d27-8979-64bd56db1e18",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-14T19:01:00Z",
+      "completed_at": "2026-09-14T19:13:00Z",
+      "title": "Kalshi’s direct 25 bp-hike heading moved to 85%; Polymarket stayed at 80%",
+      "summary": "Polymarket’s named hike row remained 80% across the pool’s afternoon and evening direct-page checks. Kalshi’s was 85%, up 2 percentage points; its maintain-rate heading was 14%, down 4. The venue-specific readings are not a consensus, and CME remains without a directly captured live grid.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-14-late-contract-check",
+      "entrypoint": "research/2026-09-14-late-contract-check/index.html"
+    },
+    {
       "run_id": "run:ff5618c5-9f36-4b71-a1dc-31df86b0b051",
       "status": "completed",
       "answer_change": "meaningful_change",
