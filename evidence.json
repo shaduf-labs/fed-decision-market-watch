@@ -420,6 +420,56 @@
       "accessed_at": "2026-09-13T19:07:58Z",
       "relation": "supports",
       "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-direct-event-20260914-1334",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket: Fed Decision in September?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-september-762?marketSlug=will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615&outcomeIndex=1",
+      "claim": "The direct page displayed 80% for a 25 bp increase and 19% for no change; the detailed displayed rows also included less than 1% for a 50+ bp decrease, less than 1% for a 25 bp decrease, and 1% for a 50+ bp increase. The 25 bp row showed 80¢ Yes and 21¢ No.",
+      "accessed_at": "2026-09-14T13:34:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-kalshi-september-event-20260914-1334",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi: Fed decision in September?",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep",
+      "claim": "The direct event page displayed main chance headings of 83% for Hike 25bps, 18% for Fed maintains rate, and 1% for Hike >25bps, with a September 16, 13:00 EDT start.",
+      "accessed_at": "2026-09-14T13:34:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-grid-gap-20260914-1334",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME identifies FedWatch as probabilities implied by 30-Day Fed Funds futures; the live outcome grid remained unreadable through the embedded tool in this check.",
+      "accessed_at": "2026-09-14T13:34:52Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-bls-september-schedule-20260914-1334",
+      "source_type": "official release calendar",
+      "title": "BLS: September 2026 release schedule",
+      "source_url": "https://www.bls.gov/schedule/2026/09_sched_list.htm",
+      "claim": "Schedules the August U.S. Import and Export Price Indexes for September 16, 2026, at 08:30 ET.",
+      "accessed_at": "2026-09-14T13:34:52Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-fed-september-calendar-20260914-1334",
+      "source_type": "official calendar",
+      "title": "Federal Reserve: September 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-september.htm",
+      "claim": "Lists the September 15–16 FOMC meeting, the statement at 14:00 ET, and the press conference at 14:30 ET on September 16.",
+      "accessed_at": "2026-09-14T13:34:52Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
     }
   ]
 }

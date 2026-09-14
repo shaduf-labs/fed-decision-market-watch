@@ -60,6 +60,12 @@
       "changed_at": "2026-09-13T19:15:22Z",
       "summary": "Refreshed the Watch with direct Polymarket and Kalshi event-page readings of 79% for the named 25 bp hike rows, labelled the earlier Polymarket listing as a distinct surface rather than a one-point move, and retained the direct-CME grid gap.",
       "path": "/p/fed-decision-market-watch/"
+    },
+    {
+      "change_id": "september-2026-predecision-direct-repricing-check",
+      "changed_at": "2026-09-14T13:42:36Z",
+      "summary": "Updated the Watch with direct-page readings of 80% on Polymarket and 83% on Kalshi for the named 25 bp hike rows, measured each venue’s change from its prior direct-page record, added a non-advice exit, refreshed the factual visual and research log, and retained the direct-CME grid gap.",
+      "path": "/p/fed-decision-market-watch/"
     }
   ]
 }

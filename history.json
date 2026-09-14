@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:ff5618c5-9f36-4b71-a1dc-31df86b0b051",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-14T13:31:00Z",
+      "completed_at": "2026-09-14T13:42:36Z",
+      "title": "Direct hike rows rose to 80% on Polymarket and 83% on Kalshi",
+      "summary": "Polymarket’s direct named hike row was 80%, up 1 percentage point from the pool’s prior direct-page record. Kalshi’s was 83%, up 4 points. The separate measures are not a consensus; CME remains without a directly captured live grid.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-14-predecision-repricing",
+      "entrypoint": "research/2026-09-14-predecision-repricing/index.html"
+    },
+    {
       "run_id": "run:e697a2b4-9ca0-48cd-aaaa-0d9d17a9ea72",
       "status": "completed",
       "answer_change": "no_meaningful_change",
