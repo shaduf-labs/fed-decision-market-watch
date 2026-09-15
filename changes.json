@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "september-2026-evening-direct-check",
+      "changed_at": "2026-09-15T19:15:58Z",
+      "summary": "Refreshed the Watch with a direct 88% Kalshi hike heading, labelled the +1 and −1 point intraday change as small, retained the stale Polymarket direct record and direct-CME gap, and added a plain instrument label for rounded odds headlines.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "september-2026-decision-eve-freshness-check",
       "changed_at": "2026-09-15T13:48:00Z",
       "summary": "Updated the Watch with a current 87% Kalshi hike heading, marked the last directly verified Polymarket row stale after its renderer returned yesterday’s crawl, retained the CME gap, and added the September 15 Board-meeting notice and decision-day schedule.",

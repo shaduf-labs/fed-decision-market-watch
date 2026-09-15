@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="410" viewBox="0 0 920 410" role="img" aria-labelledby="title desc">
   <title id="title">Freshness-aware September 2026 Fed-decision event-market snapshot</title>
-  <desc id="desc">A current Kalshi direct-page observation checked September 15, 2026, 13:33 UTC shows 87 percent for Hike 25bps and 13 percent for Fed maintains rate. The last directly verified Polymarket observation, checked September 14, 2026, 19:06 UTC, shows 80 percent for a 25 basis point increase and 19 percent for no change and is marked stale. These are separate venue-specific contract readings, not a consensus or exact distribution.</desc>
+  <desc id="desc">A current Kalshi direct-page observation checked September 15, 2026, 19:10 UTC shows 88 percent for Hike 25bps and 12 percent for Fed maintains rate. The last directly verified Polymarket observation, checked September 14, 2026, 19:06 UTC, shows 80 percent for a 25 basis point increase and 19 percent for no change and is marked stale. These are separate venue-specific contract readings, not a consensus or exact distribution.</desc>
   <rect width="920" height="410" fill="#10233d" rx="18"/>
   <text x="44" y="50" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">One fresh direct read; one stale direct record</text>
   <text x="44" y="77" fill="#aebed4" font-family="Arial, sans-serif" font-size="15">September FOMC event-contract rows · do not combine into a consensus</text>
-  <text x="92" y="118" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17" font-weight="700">Kalshi September event page · checked Sep. 15, 13:33 UTC</text>
-  <rect x="92" y="138" width="609" height="42" fill="#c46345" rx="8"/>
-  <text x="396" y="167" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Hike 25bps · 87%</text>
-  <rect x="92" y="190" width="91" height="42" fill="#5478b8" rx="8"/>
-  <text x="138" y="219" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="15" font-weight="700">Maintains · 13%</text>
+  <text x="92" y="118" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17" font-weight="700">Kalshi September event page · checked Sep. 15, 19:10 UTC</text>
+  <rect x="92" y="138" width="616" height="42" fill="#c46345" rx="8"/>
+  <text x="400" y="167" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Hike 25bps · 88%</text>
+  <rect x="92" y="190" width="84" height="42" fill="#5478b8" rx="8"/>
+  <text x="134" y="219" text-anchor="middle" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="15" font-weight="700">Maintains · 12%</text>
   <text x="724" y="167" fill="#aebed4" font-family="Arial, sans-serif" font-size="14">Source: Kalshi</text>
   <text x="92" y="278" fill="#dbe6f4" font-family="Arial, sans-serif" font-size="17" font-weight="700">Polymarket September event page · last directly verified Sep. 14, 19:06 UTC</text>
   <text x="92" y="300" fill="#efbf68" font-family="Arial, sans-serif" font-size="14" font-weight="700">STALE: the September 15 renderer reported this content as crawled yesterday</text>

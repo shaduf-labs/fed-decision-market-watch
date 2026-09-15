@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "When checked at 13:33 UTC on September 15, Kalshi’s direct September event page displayed an 87% main chance heading for “Hike 25bps” and 13% for “Fed maintains rate,” versus 85% and 14% at the pool’s 19:06 UTC direct-page record on September 14: +2 and −1 percentage points. The last directly verified Polymarket record is 80% for a 25-basis-point increase and 19% for no change at 19:06 UTC on September 14. Its September 15 renderer returned content marked crawled yesterday, so the pool does not call it a current quote. CME FedWatch’s live grid was not directly readable. The next scheduled public sequence is BLS import and export prices at 08:30 ET and the FOMC statement at 14:00 ET on September 16.",
+  "current_answer": "When checked at 19:10 UTC on September 15, Kalshi’s direct September event page displayed an 88% main chance heading for “Hike 25bps” and 12% for “Fed maintains rate,” versus 87% and 13% at the pool’s 13:33 UTC direct-page record: +1 and −1 percentage points. The last directly verified Polymarket record remains 80% for a 25-basis-point increase and 19% for no change at 19:06 UTC on September 14. Its September 15 renderer again returned content marked crawled yesterday, so the pool does not call it a current quote. CME FedWatch’s live grid was not directly readable. The next scheduled public sequence is BLS import and export prices at 08:30 ET and the FOMC statement at 14:00 ET on September 16.",
   "catalogue_card": {
-    "question": "Why is Kalshi at 87% while the Polymarket record is marked stale?",
-    "text": "Kalshi’s direct 25 bp-hike heading rose 2 points to 87%. The last directly verified Polymarket row is 80%, but today’s renderer served yesterday’s crawl, so it is not a current comparison."
+    "question": "Kalshi is at 88%. Why is Polymarket still not a current comparison?",
+    "text": "Kalshi’s direct 25 bp-hike heading ticked up one point to 88%. Polymarket still renders yesterday’s crawl, so its 80% record stays stale rather than becoming a synthetic consensus."
   },
   "summary": [
-    "Kalshi’s direct September event page displayed an 87% main chance heading for Hike 25bps and 13% for Fed maintains rate when checked September 15, 2026, 13:33 UTC.",
-    "Kalshi’s prior direct-page headings at September 14, 19:06 UTC were 85% and 14%: +2 and −1 percentage points.",
-    "The last directly verified Polymarket record is 80% for a 25 bp increase and 19% for no change at September 14, 19:06 UTC. Its September 15 renderer labelled the identical content as crawled yesterday, so the record is stale.",
-    "The two event-contract measures are not combined. No current CME FedWatch figure or cross-market spread is calculated.",
-    "A closed Board meeting is anticipated at 10:30 ET on September 15 to discuss monetary policy issues. BLS import/export prices at 08:30 ET and the FOMC statement at 14:00 ET follow on September 16."
+    "Kalshi’s direct September event page displayed an 88% main chance heading for Hike 25bps and 12% for Fed maintains rate when checked September 15, 2026, 19:10 UTC.",
+    "The pool’s 13:33 UTC direct-page record was 87% and 13%: +1 and −1 percentage points. This is a small named-heading change, not an explanation or forecast.",
+    "The last directly verified Polymarket record is 80% for a 25 bp increase and 19% for no change at September 14, 19:06 UTC. Its September 15 renderer again marked the same content as crawled yesterday, so the record is stale.",
+    "The two event-contract measures are not combined. CME FedWatch’s live grid was not directly readable, so no current futures-implied figure or cross-market spread is calculated.",
+    "The next scheduled public sequence is BLS import and export prices at 08:30 ET and the FOMC statement at 14:00 ET on September 16; the press conference follows at 14:30 ET."
   ],
   "uncertainty": [
-    "Kalshi did not display a separate quote timestamp; 13:33 UTC is the pool access time, and its visible heading is reported without inferring a precise close or outcome distribution.",
-    "Polymarket’s direct renderer returned content marked crawled yesterday. A third-party page reported different values today without a matched native observation time, so neither establishes a current directly verified Polymarket quote.",
-    "The Kalshi change compares its own direct page with the prior direct-page record and does not establish why the price changed. CME FedWatch was not directly quoted."
+    "Kalshi did not display a separate quote timestamp; 19:10 UTC is the pool access time, and its visible headings are reported without inferring a precise close or outcome distribution.",
+    "Polymarket’s direct renderer again returned content marked crawled yesterday. The last directly verified Polymarket record is therefore stale, not a current quote.",
+    "The small Kalshi change compares named headings on its own direct page and does not establish why the price changed. CME FedWatch was not directly quoted."
   ],
-  "checked_at": "2026-09-15T13:33:26Z",
+  "checked_at": "2026-09-15T19:10:11Z",
   "meaningfully_updated_at": "2026-09-15T13:33:26Z",
-  "freshness_note": "Kalshi’s direct September event page, Polymarket’s direct September event page, CME FedWatch, BLS’s import/export release schedule, and Federal Reserve calendars were checked September 15, 2026, 13:33 UTC. Kalshi did not display a separate quote timestamp. Polymarket’s renderer returned 80% and 19% content labelled crawled yesterday; the pool retains its September 14 direct record as stale rather than treating it as current. The next scheduled public sequence is BLS import/export prices, then the FOMC statement and press conference on September 16."
+  "freshness_note": "Kalshi’s direct September event page, Polymarket’s direct September event page, CME FedWatch, BLS’s import/export release schedule, and Federal Reserve calendars were checked September 15, 2026, at 19:10 UTC. Kalshi did not display a separate quote timestamp. Polymarket’s renderer again returned 80% and 19% content labelled crawled yesterday, so the pool retains the September 14 direct record as stale. CME’s live grid was not readable. The next official public sequence is BLS import/export prices, then the FOMC statement and press conference on September 16."
 }

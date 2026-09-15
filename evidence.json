@@ -590,6 +590,66 @@
       "accessed_at": "2026-09-15T13:33:26Z",
       "relation": "supports",
       "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-kalshi-september-event-20260915-1910",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi: Fed decision in September?",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep",
+      "claim": "The direct event page displayed main chance headings of 88% for Hike 25bps and 12% for Fed maintains rate; it showed 89¢ Yes and 12¢ No beside the hike heading, plus a separate Hike >25bps heading below 1%.",
+      "accessed_at": "2026-09-15T19:10:11Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-direct-renderer-stale-20260915-1910",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket: Fed Decision in September?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-september-762?marketSlug=will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615&outcomeIndex=1",
+      "claim": "The direct renderer returned 80% for a 25 bp increase and 19% for no change, but identified the content as crawled yesterday. The pool retains the September 14 direct record as stale, not current.",
+      "accessed_at": "2026-09-15T19:10:11Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-grid-gap-20260915-1910",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME identifies FedWatch as probabilities implied by 30-Day Fed Funds futures; its live outcome grid remained unreadable through the embedded tool in this check.",
+      "accessed_at": "2026-09-15T19:10:11Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-fed-board-notice-limit-20260915-1910",
+      "source_type": "official Board meeting notice",
+      "title": "Federal Reserve: September 15 closed Board meeting",
+      "source_url": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260915closed.htm",
+      "claim": "The checked page remained an advance notice dated September 10 for an anticipated closed Board meeting and said a final announcement would follow; it did not report matters considered.",
+      "accessed_at": "2026-09-15T19:10:11Z",
+      "relation": "limits",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-bls-import-export-schedule-20260915-1910",
+      "source_type": "official release schedule",
+      "title": "BLS: U.S. Import and Export Price Indexes release schedule",
+      "source_url": "https://www.bls.gov/schedule/news_release/ximpim.htm",
+      "claim": "Schedules the August 2026 U.S. Import and Export Price Indexes release for September 16 at 08:30 ET.",
+      "accessed_at": "2026-09-15T19:10:11Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-fed-september-calendar-20260915-1910",
+      "source_type": "official calendar",
+      "title": "Federal Reserve: September 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-september.htm",
+      "claim": "Lists the September 15–16 FOMC meeting, the statement at 14:00 ET, and the press conference at 14:30 ET on September 16.",
+      "accessed_at": "2026-09-15T19:10:11Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
     }
   ]
 }
