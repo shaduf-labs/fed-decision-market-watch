@@ -1,25 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "For the September 15–16 FOMC decision, Polymarket’s direct event page displayed 80% for a 25-basis-point increase and 19% for no change when checked at 19:06 UTC on September 14, unchanged from the pool’s 13:34 UTC direct-page check. Kalshi’s direct September page displayed main chance headings of 85% for “Hike 25bps” and 14% for “Fed maintains rate,” versus 83% and 18% at the afternoon direct-page check: +2 and −4 percentage points. These are separate event-contract readings, not a consensus or a futures-implied CME figure. CME FedWatch’s current grid remained unreadable. BLS import and export prices at 08:30 ET precede the FOMC statement at 14:00 ET and press conference at 14:30 ET on September 16.",
+  "current_answer": "When checked at 13:33 UTC on September 15, Kalshi’s direct September event page displayed an 87% main chance heading for “Hike 25bps” and 13% for “Fed maintains rate,” versus 85% and 14% at the pool’s 19:06 UTC direct-page record on September 14: +2 and −1 percentage points. The last directly verified Polymarket record is 80% for a 25-basis-point increase and 19% for no change at 19:06 UTC on September 14. Its September 15 renderer returned content marked crawled yesterday, so the pool does not call it a current quote. CME FedWatch’s live grid was not directly readable. The next scheduled public sequence is BLS import and export prices at 08:30 ET and the FOMC statement at 14:00 ET on September 16.",
   "catalogue_card": {
-    "question": "Why is Kalshi’s direct hike heading now 85% while Polymarket is still 80%?",
-    "text": "Kalshi’s named 25 bp-hike heading rose 2 points to 85%; Polymarket’s named row stayed at 80%. They are separate event contracts, not a consensus or a trading instruction."
+    "question": "Why is Kalshi at 87% while the Polymarket record is marked stale?",
+    "text": "Kalshi’s direct 25 bp-hike heading rose 2 points to 87%. The last directly verified Polymarket row is 80%, but today’s renderer served yesterday’s crawl, so it is not a current comparison."
   },
   "summary": [
-    "Polymarket’s direct September event page displayed 80% for a 25 bp increase and 19% for no change when checked September 14, 2026, 19:06 UTC.",
-    "The pool’s prior direct Polymarket check at 13:34 UTC showed the same 80% and 19% named rows.",
-    "Kalshi’s direct September page displayed main chance headings of 85% for Hike 25bps and 14% for Fed maintains rate, versus 83% and 18% at the 13:34 UTC direct-page check: +2 and −4 percentage points.",
-    "The two event-contract measures remain separate. No consensus, futures-implied figure, or cross-market spread is calculated.",
-    "CME FedWatch remains separately labelled and directly unquoted because the live grid was not readable.",
-    "BLS schedules import and export price indexes at 08:30 ET on September 16, before the FOMC statement at 14:00 ET and press conference at 14:30 ET."
+    "Kalshi’s direct September event page displayed an 87% main chance heading for Hike 25bps and 13% for Fed maintains rate when checked September 15, 2026, 13:33 UTC.",
+    "Kalshi’s prior direct-page headings at September 14, 19:06 UTC were 85% and 14%: +2 and −1 percentage points.",
+    "The last directly verified Polymarket record is 80% for a 25 bp increase and 19% for no change at September 14, 19:06 UTC. Its September 15 renderer labelled the identical content as crawled yesterday, so the record is stale.",
+    "The two event-contract measures are not combined. No current CME FedWatch figure or cross-market spread is calculated.",
+    "A closed Board meeting is anticipated at 10:30 ET on September 15 to discuss monetary policy issues. BLS import/export prices at 08:30 ET and the FOMC statement at 14:00 ET follow on September 16."
   ],
   "uncertainty": [
-    "Polymarket and Kalshi did not display separate quote timestamps; 19:06 UTC is the pool access time, and their displayed rows are not exact outcome distributions.",
-    "The measured changes compare each venue’s own direct page with the pool’s 13:34 UTC direct-page record. They do not establish why either price changed.",
-    "Kalshi and Polymarket are separate event-contract measures, and CME FedWatch was not directly quoted."
+    "Kalshi did not display a separate quote timestamp; 13:33 UTC is the pool access time, and its visible heading is reported without inferring a precise close or outcome distribution.",
+    "Polymarket’s direct renderer returned content marked crawled yesterday. A third-party page reported different values today without a matched native observation time, so neither establishes a current directly verified Polymarket quote.",
+    "The Kalshi change compares its own direct page with the prior direct-page record and does not establish why the price changed. CME FedWatch was not directly quoted."
   ],
-  "checked_at": "2026-09-14T19:06:29Z",
-  "meaningfully_updated_at": "2026-09-14T19:06:29Z",
-  "freshness_note": "Polymarket’s direct September event page, Kalshi’s September event page, CME FedWatch, and official BLS and Federal Reserve calendars were rechecked September 14, 2026, 19:06 UTC. Neither event page displayed a separate quote timestamp. The within-venue comparisons use the pool’s 13:34 UTC direct-page records only; the two current event-contract readings are not pooled. The next official watchpoints are BLS import/export prices and the FOMC decision sequence on September 16."
+  "checked_at": "2026-09-15T13:33:26Z",
+  "meaningfully_updated_at": "2026-09-15T13:33:26Z",
+  "freshness_note": "Kalshi’s direct September event page, Polymarket’s direct September event page, CME FedWatch, BLS’s import/export release schedule, and Federal Reserve calendars were checked September 15, 2026, 13:33 UTC. Kalshi did not display a separate quote timestamp. Polymarket’s renderer returned 80% and 19% content labelled crawled yesterday; the pool retains its September 14 direct record as stale rather than treating it as current. The next scheduled public sequence is BLS import/export prices, then the FOMC statement and press conference on September 16."
 }

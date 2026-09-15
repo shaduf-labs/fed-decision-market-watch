@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:c0ff845e-014b-483f-8e95-b99c20271d19",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-15T13:31:00Z",
+      "completed_at": "2026-09-15T13:48:00Z",
+      "title": "Kalshi’s 25 bp-hike heading is 87%; Polymarket’s current direct reading is unverified",
+      "summary": "Kalshi’s named hike heading was 87%, up 2 percentage points from the prior direct-page record. The last directly verified Polymarket 80% row is stale because the September 15 renderer returned yesterday’s crawl; CME remains without a directly captured live grid.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-15-freshness-check",
+      "entrypoint": "research/2026-09-15-freshness-check/index.html"
+    },
+    {
       "run_id": "run:d070a67e-69fa-4d27-8979-64bd56db1e18",
       "status": "completed",
       "answer_change": "meaningful_change",

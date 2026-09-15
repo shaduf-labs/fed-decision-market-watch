@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "september-2026-decision-eve-freshness-check",
+      "changed_at": "2026-09-15T13:48:00Z",
+      "summary": "Updated the Watch with a current 87% Kalshi hike heading, marked the last directly verified Polymarket row stale after its renderer returned yesterday’s crawl, retained the CME gap, and added the September 15 Board-meeting notice and decision-day schedule.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "initial-september-2026-watch",
       "changed_at": "2026-09-09T20:53:12Z",
       "summary": "Initial public watch adds a source-labelled September FOMC contract snapshot, catalyst calendar, method guide, market comparison, and research record.",

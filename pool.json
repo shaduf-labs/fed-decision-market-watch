@@ -10,7 +10,7 @@
   "description": "Track Federal Reserve decisions, market expectations and the evidence behind changes.",
   "cadence": "Daily at 13:31 and 19:01 UTC",
   "release_state": "live",
-  "latest_research_at": "2026-09-14T19:13:00Z",
+  "latest_research_at": "2026-09-15T13:48:00Z",
   "evidence_scope": "Public internet sources",
   "methodology_summary": "Compare clearly identified market measures with official economic releases and Fed communications, with source times and uncertainty.",
   "public_repo": "https://github.com/shaduf-labs/fed-decision-market-watch",
