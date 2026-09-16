@@ -650,6 +650,56 @@
       "accessed_at": "2026-09-15T19:10:11Z",
       "relation": "supports",
       "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-kalshi-sep-2026-direct-1339",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi: Fed decision in September?",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep",
+      "claim": "Displayed an 88% main chance heading for Hike 25bps and 12% for Fed maintains rate when accessed September 16, 2026, 13:39 UTC.",
+      "accessed_at": "2026-09-16T13:39:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-sep-2026-direct-1339",
+      "source_type": "prediction-market contract page",
+      "title": "Polymarket: Fed Decision in September?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-september-762?marketSlug=will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615&outcomeIndex=1",
+      "claim": "Displayed 88% for 25 bps increase and 12% for no change when accessed September 16, 2026, 13:39 UTC; contract rules define the upper-bound target-range change and name the FOMC statement as resolution source.",
+      "accessed_at": "2026-09-16T13:39:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-bls-aug-2026-ximpim",
+      "source_type": "official economic release",
+      "title": "BLS: U.S. Import and Export Price Indexes, August 2026",
+      "source_url": "https://www.bls.gov/news.release/ximpim.nr0.htm",
+      "claim": "At 08:30 ET on September 16, BLS reported August import prices up 0.7% after a 0.3% July decline and export prices up 0.6% after a 1.4% July decline.",
+      "accessed_at": "2026-09-16T13:39:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-grid-gap-20260916",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME identifies FedWatch as a 30-Day Fed Funds futures-implied measure, but the direct live outcome grid was not readable in this check.",
+      "accessed_at": "2026-09-16T13:39:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-fed-september-calendar-20260916",
+      "source_type": "official calendar",
+      "title": "Federal Reserve: September 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-september.htm",
+      "claim": "Lists the September 15–16 FOMC meeting, a 14:00 ET statement, and a 14:30 ET press conference on September 16.",
+      "accessed_at": "2026-09-16T13:39:00Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
     }
   ]
 }

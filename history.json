@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:99311388-9ade-41e2-92a1-ffbfa39b15f6",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-16T13:31:00Z",
+      "completed_at": "2026-09-16T13:50:00Z",
+      "title": "Two direct September event pages display 88% for a 25 bp increase",
+      "summary": "Direct Kalshi and Polymarket pages each displayed 88% for a named 25 bp increase and 12% for hold/no change; BLS released August import and export prices, while the FOMC statement remains the next official test.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-16-decision-day-direct-check",
+      "entrypoint": "research/2026-09-16-decision-day-direct-check/index.html"
+    },
+    {
       "run_id": "run:a276dfcb-f0c6-4f35-970b-ba68bda795fe",
       "status": "completed",
       "answer_change": "no_meaningful_change",
