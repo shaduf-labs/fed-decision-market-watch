@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:f63a9134-6f60-41e5-9eb2-fb146acba5dd",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-16T19:01:00Z",
+      "completed_at": "2026-09-16T19:14:00Z",
+      "title": "The September decision is official; October event pages lean to no change",
+      "summary": "The FOMC raised the target range 25 bp to 3.75%–4.00% in a 12–0 vote. Direct October event pages showed no change at 62% on Kalshi and 66% on Polymarket; CME’s live grid remained unreadable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-16-official-decision-and-october-watch",
+      "entrypoint": "research/2026-09-16-official-decision-and-october-watch/index.html"
+    },
+    {
       "run_id": "run:99311388-9ade-41e2-92a1-ffbfa39b15f6",
       "status": "completed",
       "answer_change": "meaningful_change",

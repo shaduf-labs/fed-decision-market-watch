@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="448" viewBox="0 0 920 448" role="img" aria-labelledby="title desc">
+  <title id="title">September decision and October event-contract snapshot</title>
+  <desc id="desc">The Federal Reserve raised the target range by 25 basis points to 3.75 to 4 percent on September 16, 2026. Direct October event pages accessed at 19:08 UTC showed no change at 62 percent on Kalshi and 66 percent on Polymarket, with 25 basis point increase at 36 percent and 34 percent. The event contracts are separate measures, not a consensus.</desc>
+  <rect width="920" height="448" rx="18" fill="#10233d"/>
+  <text x="44" y="48" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="25" font-weight="700">September is official. October is a new, separate watch.</text>
+  <text x="44" y="75" fill="#aec0d7" font-family="Arial, sans-serif" font-size="15">Sources: Federal Reserve statement released Sep. 16, 2026, 14:00 EDT · venue pages accessed 19:08 UTC</text>
+  <rect x="44" y="100" width="832" height="75" rx="12" fill="#224968"/>
+  <text x="68" y="130" fill="#dceeff" font-family="Arial, sans-serif" font-size="17" font-weight="700">Official September decision · FOMC statement</text>
+  <text x="68" y="157" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">+25 bp · target range 3.75%–4.00% · 12–0 vote</text>
+  <text x="44" y="214" fill="#dceeff" font-family="Arial, sans-serif" font-size="18" font-weight="700">October event-contract rows (not a consensus)</text>
+  <text x="44" y="249" fill="#dceeff" font-family="Arial, sans-serif" font-size="16" font-weight="700">Kalshi · direct October page</text>
+  <rect x="44" y="263" width="372" height="39" rx="7" fill="#507ab7"/>
+  <rect x="416" y="263" width="216" height="39" rx="7" fill="#c46345"/>
+  <text x="230" y="289" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="17" font-weight="700">No change · 62%</text>
+  <text x="524" y="289" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="17" font-weight="700">Hike 25 bp · 36%</text>
+  <text x="44" y="343" fill="#dceeff" font-family="Arial, sans-serif" font-size="16" font-weight="700">Polymarket · direct October page</text>
+  <rect x="44" y="357" width="396" height="39" rx="7" fill="#507ab7"/>
+  <rect x="440" y="357" width="204" height="39" rx="7" fill="#c46345"/>
+  <text x="242" y="383" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="17" font-weight="700">No change · 66%</text>
+  <text x="542" y="383" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="17" font-weight="700">Hike 25 bp · 34%</text>
+  <text x="44" y="426" fill="#efbf68" font-family="Arial, sans-serif" font-size="13">Kalshi hides additional outcomes; Polymarket shows rounded outcome rows. Do not add, average, or trade on this chart.</text>
+</svg>

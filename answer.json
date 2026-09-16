@@ -1,25 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "When checked at 13:39 UTC on September 16, the direct Kalshi and Polymarket September event pages each displayed 88% for their named 25-basis-point increase outcome and 12% for hold/no change. Kalshi’s selected headings matched its September 15, 19:10 UTC direct-page record. Polymarket’s 88% and 12% rows were current again after its September 15 renderer had been stale; versus the last directly verified direct-page record of 80% and 19% on September 14, the named rows were +8 and −7 percentage points across a gap. BLS released August import prices up 0.7% and export prices up 0.6% at 08:30 ET. The FOMC statement at 14:00 ET remains the next official test; CME FedWatch’s live grid was not directly readable.",
+  "current_answer": "The Federal Reserve raised the target range by 25 basis points to 3.75%–4.00% in a 12–0 vote at 14:00 EDT on September 16. At 19:08 UTC, direct October event pages showed no change as the leading named outcome: 62% on Kalshi and 66% on Polymarket; their 25 bp-increase rows were 36% and 34%. These are separate venue-specific contract readings, not a consensus or a futures-implied estimate. CME FedWatch’s live October grid was not directly readable.",
   "catalogue_card": {
-    "question": "Both direct event pages show 88%. Is that a consensus?",
-    "text": "Kalshi and Polymarket each display 88% for their named 25 bp increase row. They are separate contracts, not a pooled market, and the official decision is still ahead."
+    "question": "The Fed hiked. What are named October contracts showing now?",
+    "text": "The official September result is a 25 bp hike. Direct October event pages put no change first at 62% on Kalshi and 66% on Polymarket; those are separate contracts, not a consensus."
   },
   "summary": [
-    "At September 16, 2026, 13:39 UTC, direct Kalshi and Polymarket September event pages each displayed 88% for their named 25 bp increase outcome and 12% for their named hold/no-change outcome.",
-    "Kalshi’s selected headings match the pool’s September 15, 19:10 UTC direct-page record.",
-    "Polymarket’s current 88% and 12% rows compare with 80% and 19% in the last directly verified direct-page record on September 14, 19:06 UTC: +8 and −7 percentage points across a gap. Its September 15 renderer was stale, so the pool does not infer a continuous path or a cause.",
-    "BLS reported August import prices up 0.7% and export prices up 0.6% at 08:30 ET. No matched market readings establish how the contract rows responded.",
-    "The FOMC statement and projections are scheduled for 14:00 ET, with a 14:30 ET press conference. CME FedWatch’s direct live grid was not readable."
+    "The FOMC raised the target range by 25 bp to 3.75%–4.00% in a 12–0 vote at 14:00 EDT on September 16.",
+    "At 19:08 UTC, Kalshi’s direct October event page showed 62% for “Fed maintains rate” and 36% for “Hike 25bps.”",
+    "At the same access time, Polymarket’s direct October contract showed 66% for no change and 34% for a 25 bp increase.",
+    "The September projections show a 4.1% median 2026 federal funds rate, up from 3.8% in June; they are individual projections, not an October decision forecast.",
+    "CME FedWatch’s direct live October grid was not readable."
   ],
   "uncertainty": [
-    "The two 88% readings are separate venue-specific event-contract rows. Matching displayed percentages do not create a consensus, an exact outcome distribution, or a Federal Reserve forecast.",
-    "Neither directly accessible page supplied a separate reliable quote timestamp, so 13:39 UTC is the pool access time. Polymarket’s selected rows are rounded and the September 15 stale-render interval is unobserved.",
-    "Polymarket’s experimental AI-generated page narrative is excluded from the market record. The FOMC statement remains the official decision source.",
-    "The pool did not capture a matched market sequence around the BLS release, and CME FedWatch’s live grid was not directly readable."
+    "The official statement confirms September’s outcome; it does not establish a cause for the earlier prices or predict October.",
+    "Kalshi hides additional October outcomes and Polymarket displays rounded rows. The pool does not normalize, average, or derive a full distribution.",
+    "Neither direct October event page supplied a separate reliable quote time, so 19:08 UTC is the pool access time.",
+    "CME FedWatch’s direct live grid remains unreadable in this environment."
   ],
-  "checked_at": "2026-09-16T13:39:00Z",
-  "meaningfully_updated_at": "2026-09-16T13:39:00Z",
-  "freshness_note": "Kalshi’s direct September event page, Polymarket’s direct September event page, CME FedWatch, the BLS August import/export release, and the Federal Reserve September calendar were checked September 16, 2026, at 13:39 UTC. Kalshi and Polymarket each displayed a named 88% 25 bp-increase row and a named 12% hold/no-change row. Neither page provided a separate reliable quote time. The official decision remains scheduled for 14:00 ET; CME’s live grid was not readable."
+  "checked_at": "2026-09-16T19:08:00Z",
+  "meaningfully_updated_at": "2026-09-16T19:08:00Z",
+  "freshness_note": "The Federal Reserve September 16 statement and projections, direct Kalshi and Polymarket October event pages, CME FedWatch, and the FOMC calendar were checked September 16, 2026, at 19:08 UTC. The official September outcome is known. The named October event rows are current to the pool access time; neither event page provided a separate reliable quote timestamp, and CME’s live grid was unreadable."
 }

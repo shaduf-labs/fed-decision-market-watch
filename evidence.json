@@ -700,6 +700,56 @@
       "accessed_at": "2026-09-16T13:39:00Z",
       "relation": "supports",
       "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-fed-sep16-2026-statement",
+      "source_type": "official FOMC statement",
+      "title": "Federal Reserve: FOMC statement, September 16, 2026",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "claim": "The FOMC voted 12–0 to raise the target range for the federal funds rate by 25 basis points to 3.75%–4.00%, released at 14:00 EDT.",
+      "accessed_at": "2026-09-16T19:08:00Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-fed-sep16-2026-projections",
+      "source_type": "official FOMC projections",
+      "title": "Federal Reserve: September 16, 2026 projections materials",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm",
+      "claim": "The median federal funds rate projection for 2026 is 4.1%, compared with 3.8% in June; projections are submitted by participants under individual assumptions.",
+      "accessed_at": "2026-09-16T19:08:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-kalshi-october-event-1908",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi: Fed decision in October?",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "At pool access time, the direct page displayed 62% for “Fed maintains rate,” 36% for “Hike 25bps,” and 1% for “Hike >25bps”; it hid two further outcomes.",
+      "accessed_at": "2026-09-16T19:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-october-contract-1908",
+      "source_type": "prediction-market contract page",
+      "title": "Polymarket: Fed Decision in October?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "At pool access time, the direct page displayed 66% for no change, 34% for a 25 bp increase, 1.4% for a 25 bp decrease, and less than 1% for each displayed 50+ bp outcome; its rules name the upper-bound target-range change and the October FOMC statement.",
+      "accessed_at": "2026-09-16T19:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-october-gap-1908",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME describes FedWatch as probabilities implied by 30-Day Fed Funds futures prices; its live outcome grid was unreadable in this check.",
+      "accessed_at": "2026-09-16T19:08:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

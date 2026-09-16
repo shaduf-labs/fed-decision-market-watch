@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "september-2026-official-decision-and-october-watch",
+      "changed_at": "2026-09-16T19:10:00Z",
+      "summary": "Replaced the pre-decision September odds lead with the official 25 bp FOMC result, added direct October Kalshi and Polymarket contract rows, separated the September settlement state from the official record, refreshed the factual visual, and retained the direct-CME grid gap.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "september-2026-decision-day-direct-check",
       "changed_at": "2026-09-16T13:50:00Z",
       "summary": "Updated the Watch with direct Kalshi and Polymarket 88% named 25 bp readings, restored Polymarket as a current direct observation while preserving its stale-render gap, added the BLS import/export release, and excluded an experimental AI page narrative from the market record.",
