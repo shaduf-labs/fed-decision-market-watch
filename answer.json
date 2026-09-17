@@ -1,25 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The Federal Reserve raised the target range by 25 basis points to 3.75%–4.00% in a 12–0 vote at 14:00 EDT on September 16. At 19:08 UTC, direct October event pages showed no change as the leading named outcome: 62% on Kalshi and 66% on Polymarket; their 25 bp-increase rows were 36% and 34%. These are separate venue-specific contract readings, not a consensus or a futures-implied estimate. CME FedWatch’s live October grid was not directly readable.",
+  "current_answer": "At 13:34 UTC on September 17, direct October event pages still placed no change first, but the lead had narrowed since the first post-decision check: Kalshi displayed 55% for “Fed maintains rate” and 45% for “Hike 25bps,” versus 62% and 36% at 19:08 UTC on September 16; Polymarket displayed 54% for no change and 47% for a 25 bp increase, versus 66% and 34%. These are separate venue-specific contract readings, not a consensus or a futures-implied estimate. CME FedWatch’s live October grid was not directly readable.",
   "catalogue_card": {
-    "question": "The Fed hiked. What are named October contracts showing now?",
-    "text": "The official September result is a 25 bp hike. Direct October event pages put no change first at 62% on Kalshi and 66% on Polymarket; those are separate contracts, not a consensus."
+    "question": "October rate odds narrowed sharply. What do the named contract rows show?",
+    "text": "Since the first post-decision check, the no-change lead narrowed to 55% vs. 45% on Kalshi and 54% vs. 47% on Polymarket. These are separate event contracts, not a consensus or a CME estimate."
   },
   "summary": [
-    "The FOMC raised the target range by 25 bp to 3.75%–4.00% in a 12–0 vote at 14:00 EDT on September 16.",
-    "At 19:08 UTC, Kalshi’s direct October event page showed 62% for “Fed maintains rate” and 36% for “Hike 25bps.”",
-    "At the same access time, Polymarket’s direct October contract showed 66% for no change and 34% for a 25 bp increase.",
-    "The September projections show a 4.1% median 2026 federal funds rate, up from 3.8% in June; they are individual projections, not an October decision forecast.",
-    "CME FedWatch’s direct live October grid was not readable."
+    "At 13:34 UTC on September 17, Kalshi’s direct October page displayed 55% for “Fed maintains rate” and 45% for “Hike 25bps.”",
+    "At the same access time, Polymarket’s direct October contract displayed 54% for no change and 47% for a 25 bp increase.",
+    "Against matched direct-page observations at 19:08 UTC on September 16, no change fell 7 points on Kalshi and 12 points on Polymarket; named 25 bp-increase rows rose 9 and 13 points.",
+    "The FOMC calendar lists October 27–28 as the next scheduled meeting. CME FedWatch’s direct live grid was not readable."
   ],
   "uncertainty": [
-    "The official statement confirms September’s outcome; it does not establish a cause for the earlier prices or predict October.",
-    "Kalshi hides additional October outcomes and Polymarket displays rounded rows. The pool does not normalize, average, or derive a full distribution.",
-    "Neither direct October event page supplied a separate reliable quote time, so 19:08 UTC is the pool access time.",
-    "CME FedWatch’s direct live grid remains unreadable in this environment."
+    "The matching page checks show a change in displayed named rows, but do not identify what caused it.",
+    "Kalshi hides two October outcomes. Polymarket displays rounded outcome rows. The pool does not add, average, or derive a full distribution.",
+    "Neither direct October event page supplied a separate reliable quote time, so 13:34 UTC is the pool access time.",
+    "CME FedWatch’s direct live October grid remains unreadable in this environment."
   ],
-  "checked_at": "2026-09-16T19:08:00Z",
-  "meaningfully_updated_at": "2026-09-16T19:08:00Z",
-  "freshness_note": "The Federal Reserve September 16 statement and projections, direct Kalshi and Polymarket October event pages, CME FedWatch, and the FOMC calendar were checked September 16, 2026, at 19:08 UTC. The official September outcome is known. The named October event rows are current to the pool access time; neither event page provided a separate reliable quote timestamp, and CME’s live grid was unreadable."
+  "checked_at": "2026-09-17T13:34:00Z",
+  "meaningfully_updated_at": "2026-09-17T13:34:00Z",
+  "freshness_note": "Direct Kalshi and Polymarket October event pages, CME FedWatch, and the FOMC calendar were checked September 17, 2026, at 13:34 UTC. Both event pages show their named rows but no separate reliable quote time; CME’s live outcome grid was unreadable."
 }

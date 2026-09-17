@@ -750,6 +750,46 @@
       "accessed_at": "2026-09-16T19:08:00Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-kalshi-october-event-20260917-1334",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi: Fed decision in October?",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "At pool access time, the direct page displayed 55% for “Fed maintains rate,” 45% for “Hike 25bps,” and 2% for “Hike >25bps”; it hid two further outcomes.",
+      "accessed_at": "2026-09-17T13:34:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-october-contract-20260917-1334",
+      "source_type": "prediction-market contract page",
+      "title": "Polymarket: Fed Decision in October?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "At pool access time, the direct page displayed 54% for no change and 47% for a 25 bp increase. It displayed separate smaller rounded outcomes and names the upper-bound target-range change and October FOMC statement in its rules.",
+      "accessed_at": "2026-09-17T13:34:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-october-gap-20260917-1334",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME describes FedWatch as probabilities implied by 30-Day Fed Funds futures prices; its live outcome grid was unreadable in this check.",
+      "accessed_at": "2026-09-17T13:34:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-fed-calendar-20260917-1334",
+      "source_type": "official calendar",
+      "title": "Federal Reserve: FOMC meeting calendars",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "claim": "Lists October 27–28, 2026 as the next regular FOMC meeting dates.",
+      "accessed_at": "2026-09-17T13:34:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
     }
   ]
 }
