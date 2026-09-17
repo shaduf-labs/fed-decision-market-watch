@@ -790,6 +790,76 @@
       "accessed_at": "2026-09-17T13:34:00Z",
       "relation": "context",
       "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-kalshi-october-event-20260917-1903",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi: Fed decision in October?",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "At pool access time, the direct page displayed 52% for “Fed maintains rate,” 47% for “Hike 25bps,” and 2% for “Hike >25bps”; it hid two further outcomes.",
+      "accessed_at": "2026-09-17T19:03:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-polymarket-october-contract-20260917-1903",
+      "source_type": "prediction-market contract page",
+      "title": "Polymarket: Fed Decision in October?",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "At pool access time, the direct page displayed 52% for no change and 49% for a 25 bp increase. It displayed separate smaller rounded outcomes and defines the event by the upper-bound target-range change.",
+      "accessed_at": "2026-09-17T19:03:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-cme-fedwatch-october-gap-20260917-1903",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "CME describes FedWatch as probabilities implied by 30-Day Fed Funds futures prices; its live outcome grid was unreadable in this check.",
+      "accessed_at": "2026-09-17T19:03:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "public-evidence-fed-october-2026-calendar-1903",
+      "source_type": "official Federal Reserve calendar",
+      "title": "Federal Reserve: October 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "claim": "Lists September-meeting minutes for October 7 at 14:00 ET, the Beige Book for October 14 at 14:00 ET, and the October 27–28 FOMC meeting with an October 28 statement at 14:00 ET and press conference at 14:30 ET.",
+      "accessed_at": "2026-09-17T19:03:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-bls-september-2026-schedule-1903",
+      "source_type": "official release calendar",
+      "title": "BLS: September 2026 release schedule",
+      "source_url": "https://www.bls.gov/schedule/2026/09_sched.htm",
+      "claim": "Lists August Job Openings and Labor Turnover Survey for September 29 at 10:00 ET.",
+      "accessed_at": "2026-09-17T19:03:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-bea-release-schedule-1903",
+      "source_type": "official release calendar",
+      "title": "BEA: release schedule",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "claim": "Lists August Personal Income and Outlays for September 30 at 08:30 ET.",
+      "accessed_at": "2026-09-17T19:03:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "public-evidence-bls-october-2026-schedule-1903",
+      "source_type": "official release calendar",
+      "title": "BLS: October 2026 release schedule",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched.htm",
+      "claim": "Lists September Consumer Price Index for October 14 at 08:30 ET and Producer Price Index for October 15 at 08:30 ET.",
+      "accessed_at": "2026-09-17T19:03:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
     }
   ]
 }

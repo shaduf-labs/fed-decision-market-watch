@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At 13:34 UTC on September 17, direct October event pages still placed no change first, but the lead had narrowed since the first post-decision check: Kalshi displayed 55% for “Fed maintains rate” and 45% for “Hike 25bps,” versus 62% and 36% at 19:08 UTC on September 16; Polymarket displayed 54% for no change and 47% for a 25 bp increase, versus 66% and 34%. These are separate venue-specific contract readings, not a consensus or a futures-implied estimate. CME FedWatch’s live October grid was not directly readable.",
+  "current_answer": "At 19:03 UTC on September 17, direct October event pages still put no change first, but only narrowly: Kalshi displayed 52% for “Fed maintains rate” and 47% for “Hike 25bps,” while Polymarket displayed 52% for no change and 49% for a 25 bp increase. Since matched direct-page access at 13:34 UTC, the named no-change rows fell 3 and 2 percentage points and the named hike rows rose 2 points on each venue. These are separate venue-specific contract readings, not a consensus or a futures-implied estimate. CME FedWatch’s live October grid was not directly readable.",
   "catalogue_card": {
-    "question": "October rate odds narrowed sharply. What do the named contract rows show?",
-    "text": "Since the first post-decision check, the no-change lead narrowed to 55% vs. 45% on Kalshi and 54% vs. 47% on Polymarket. These are separate event contracts, not a consensus or a CME estimate."
+    "question": "October Fed odds are almost even. What do the named contract rows actually show?",
+    "text": "At 19:03 UTC, Kalshi showed 52% no change versus 47% for a 25 bp hike; Polymarket showed 52% versus 49%. The same event pages moved closer since the afternoon, but the venues are separate contracts."
   },
   "summary": [
-    "At 13:34 UTC on September 17, Kalshi’s direct October page displayed 55% for “Fed maintains rate” and 45% for “Hike 25bps.”",
-    "At the same access time, Polymarket’s direct October contract displayed 54% for no change and 47% for a 25 bp increase.",
-    "Against matched direct-page observations at 19:08 UTC on September 16, no change fell 7 points on Kalshi and 12 points on Polymarket; named 25 bp-increase rows rose 9 and 13 points.",
-    "The FOMC calendar lists October 27–28 as the next scheduled meeting. CME FedWatch’s direct live grid was not readable."
+    "At 19:03 UTC on September 17, Kalshi’s direct October page displayed 52% for “Fed maintains rate” and 47% for “Hike 25bps.”",
+    "At the same access time, Polymarket’s direct October contract displayed 52% for no change and 49% for a 25 bp increase.",
+    "Against matched direct-page observations at 13:34 UTC, Kalshi’s named hold row fell 3 points and its named hike row rose 2; Polymarket’s no-change row fell 2 points and its named hike row rose 2.",
+    "The next scheduled official watchpoints are August JOLTS on September 29 and August Personal Income and Outlays on September 30. CME FedWatch’s direct live grid was not readable."
   ],
   "uncertainty": [
-    "The matching page checks show a change in displayed named rows, but do not identify what caused it.",
+    "The matching page checks show changes in displayed named rows, but do not identify what caused them.",
     "Kalshi hides two October outcomes. Polymarket displays rounded outcome rows. The pool does not add, average, or derive a full distribution.",
-    "Neither direct October event page supplied a separate reliable quote time, so 13:34 UTC is the pool access time.",
+    "Neither direct October event page supplied a separate reliable quote time, so 19:03 UTC is the pool access time.",
     "CME FedWatch’s direct live October grid remains unreadable in this environment."
   ],
-  "checked_at": "2026-09-17T13:34:00Z",
-  "meaningfully_updated_at": "2026-09-17T13:34:00Z",
-  "freshness_note": "Direct Kalshi and Polymarket October event pages, CME FedWatch, and the FOMC calendar were checked September 17, 2026, at 13:34 UTC. Both event pages show their named rows but no separate reliable quote time; CME’s live outcome grid was unreadable."
+  "checked_at": "2026-09-17T19:03:00Z",
+  "meaningfully_updated_at": "2026-09-17T19:03:00Z",
+  "freshness_note": "Direct Kalshi and Polymarket October event pages, CME FedWatch, and official Fed, BLS, and BEA calendars were checked September 17, 2026, at 19:03 UTC. Both event pages show their named rows but no separate reliable quote time; CME’s live outcome grid was unreadable."
 }
