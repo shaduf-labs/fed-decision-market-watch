@@ -156,6 +156,23 @@
       return response.ok ? response.json() : { authenticated: false }
     } catch { return { authenticated: false } }
   }
+  const platformAuth = document.querySelector('[data-platform-auth]')
+  const authHost = document.createElement('div')
+  const authRoot = authHost.attachShadow({ mode: 'closed' })
+  authRoot.innerHTML = `<link rel="stylesheet" href="/assets/auth-modal.css"><dialog><main><button class="close" type="button" aria-label="Close">×</button><h2>Sign in</h2><p>Use your email or GitHub account.</p><form><label>Email<input type="email" autocomplete="email" required></label><button class="primary" type="submit">Email me a sign-in link</button><p class="status" role="status"></p></form><p class="or">or</p><button class="primary github" type="button">Continue with GitHub</button></main></dialog>`
+  document.body.append(authHost)
+  const authDialog = authRoot.querySelector('dialog')
+  const authForm = authRoot.querySelector('form'), authInput = authRoot.querySelector('input'), authStatus = authRoot.querySelector('.status'), authGithub = authRoot.querySelector('.github'), authClose = authRoot.querySelector('.close')
+  let authOpener = null, authPopup = null, authTimer = 0
+  const closeAuth = () => { window.clearInterval(authTimer); authTimer = 0; if (authDialog.open) authDialog.close(); authOpener?.focus?.(); authOpener = null }
+  const refreshAuth = async () => { const current = await session(); if (current.authenticated) { closeAuth(); return true } return false }
+  const openAuth = (opener) => { authOpener = opener; authStatus.textContent = ''; if (!authDialog.open) authDialog.showModal(); authInput.focus() }
+  authClose.addEventListener('click', closeAuth)
+  authDialog.addEventListener('close', () => { window.clearInterval(authTimer); authTimer = 0 })
+  window.addEventListener('focus', () => { if (authDialog.open) refreshAuth() })
+  authForm.addEventListener('submit', async event => { event.preventDefault(); const button = authForm.querySelector('button'); button.disabled = true; authStatus.textContent = 'Sending sign-in link…'; try { const response = await fetch('/api/auth/email/request',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:authInput.value,return_to:location.pathname})}); const result = await response.json(); if (!response.ok) throw new Error(result?.error?.message || 'We could not send the link.'); authStatus.textContent = 'Check your email for a sign-in link.' } catch (error) { authStatus.textContent = error.message || 'We could not send the link.' } finally { button.disabled = false } })
+  authGithub.addEventListener('click', () => { window.clearInterval(authTimer); authPopup = window.open(`/api/auth/github/start?return_to=${encodeURIComponent('/sign-in/popup-complete/')}`,'shaduf-github-auth','popup,width=520,height=680'); if (!authPopup) { authStatus.textContent = 'Your browser blocked the popup.'; const link=document.createElement('a'); link.href='/sign-in/'; link.target='_blank'; link.textContent='Open sign in in a new tab'; authStatus.replaceChildren(link); return } const deadline=Date.now()+120000; authTimer = window.setInterval(async () => { if (await refreshAuth() || authPopup.closed || Date.now() >= deadline) window.clearInterval(authTimer) }, 750) })
+  platformAuth?.addEventListener('click', async event => { event.preventDefault(); const current=await session(); if (current.authenticated) { location.assign(platformAuth.getAttribute('href') || '/account/'); return } openAuth(platformAuth) })
   async function track(event_name, properties = {}) {
     const pool_id = body.dataset.poolId || ''
     const page_id = body.dataset.pageId || ''
@@ -243,7 +260,7 @@
     const button = event.currentTarget
     const current = await session()
     if (!current.authenticated) {
-      location.href = `/api/auth/github/start?return_to=${encodeURIComponent(location.pathname)}`
+      openAuth(button)
       return
     }
     const response = await fetch(`/api/follows/${encodeURIComponent(body.dataset.poolId || '')}`, { method: 'POST', headers: { 'x-shaduf-csrf': current.csrf_token || '' } })

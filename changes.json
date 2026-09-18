@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "october-2026-evening-direct-repricing",
+      "changed_at": "2026-09-18T19:06:00Z",
+      "summary": "Updated the October watch after named 25 bp-hike rows widened their lead on both direct event pages: Kalshi displayed 56% hike versus 43% hold and Polymarket 55% versus 44%; added matched afternoon-to-evening changes, an explicit no-asset-cause boundary, and retained the direct-CME grid gap.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "october-2026-direct-hike-lead",
       "changed_at": "2026-09-18T13:38:00Z",
       "summary": "Updated the October watch after named 25 bp-hike rows moved ahead on both direct event pages: Kalshi displayed 52% hike versus 46% hold and Polymarket 53% versus 46%; added like-for-like changes, an October-only scope boundary, and retained the direct-CME grid gap.",
