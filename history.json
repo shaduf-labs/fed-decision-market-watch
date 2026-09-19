@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:208ba735-fcb6-4146-9854-13bc0fd96908",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-19T19:01:00Z",
+      "completed_at": "2026-09-19T19:11:09Z",
+      "title": "Evening check: October’s named hike rows hold; the direct CME gap remains",
+      "summary": "At 19:11 UTC, Kalshi still displayed 54% for a 25 bp hike versus 45% hold and Polymarket still displayed 56% versus 44%. Kalshi’s separately displayed Hike >25bps row was 2%; CME’s live grid remained unreadable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-19-evening-direct-check",
+      "entrypoint": "research/2026-09-19-evening-direct-check/index.html"
+    },
+    {
       "run_id": "run:0968e3a0-3d51-4ded-9620-7ffd6f4b74bb",
       "status": "completed",
       "answer_change": "no_meaningful_change",
