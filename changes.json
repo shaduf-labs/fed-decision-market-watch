@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "october-2026-direct-row-check",
+      "changed_at": "2026-09-20T13:37:38Z",
+      "summary": "Refreshed the October watch with a new 13:37 UTC direct check: Kalshi displayed 55% for the named 25 bp hike and Polymarket remained 56%; made the asset-story scope test actionable, added the September 24 BEA watchpoint, and retained the direct-CME grid gap.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "october-2026-evening-direct-confirmation",
       "changed_at": "2026-09-19T19:11:09Z",
       "summary": "Refreshed the October watch with a new 19:11 UTC direct check: Kalshi remained 54% for the named 25 bp hike and Polymarket 56%; Kalshi’s separately displayed Hike >25bps row was 2%. Added a no-new-story note and retained the direct-CME grid gap.",

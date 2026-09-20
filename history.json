@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:a3b0ee40-c474-4fc7-9a9e-f7b85de145dd",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-20T13:31:00Z",
+      "completed_at": "2026-09-20T13:53:40Z",
+      "title": "Kalshi’s named October hike row edges to 55%; Polymarket holds at 56%",
+      "summary": "At 13:37 UTC, Kalshi displayed 55% for a 25 bp hike versus 45% hold and Polymarket 56% versus 44%. Kalshi moved 1 percentage point from the evening check; the leading identified result and direct-CME grid gap were unchanged.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-20-direct-row-check",
+      "entrypoint": "research/2026-09-20-direct-row-check/index.html"
+    },
+    {
       "run_id": "run:208ba735-fcb6-4146-9854-13bc0fd96908",
       "status": "completed",
       "answer_change": "no_meaningful_change",
