@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "october-2026-near-even-venue-split",
+      "changed_at": "2026-09-21T13:38:13Z",
+      "summary": "Refreshed the October watch with a 13:38 UTC direct check: Kalshi displayed a 50% maintain-rate row and Polymarket a 50% 25 bp-hike row. Both pages moved closer to even since September 20; retained the scope audit and direct-CME grid gap.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "october-2026-evening-direct-check",
       "changed_at": "2026-09-20T19:08:24Z",
       "summary": "Refreshed the October watch with a 19:08 UTC direct check: Kalshi displayed 56% for the named 25 bp hike and Polymarket remained 56%; retained the asset-forecast scope test and direct-CME grid gap.",

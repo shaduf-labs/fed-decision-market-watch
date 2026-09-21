@@ -2,52 +2,62 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "evidence_id": "evidence:kalshi-october-event-1908",
+      "evidence_id": "evidence:kalshi-october-event-1338",
       "source_type": "prediction-market event page",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
       "title": "Kalshi: Fed decision in October?",
-      "claim": "At 19:08 UTC, the page displayed 56% for “Hike 25bps,” 45% for “Fed maintains rate,” and 1% for “Hike >25bps,” with two more outcomes hidden.",
-      "accessed_at": "2026-09-20T19:08:24Z",
+      "claim": "At 13:38 UTC, the page displayed 50% for “Fed maintains rate,” 49% for “Hike 25bps,” and Cut 25bps below 1%, with two further outcomes hidden.",
+      "accessed_at": "2026-09-21T13:38:13Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "evidence:polymarket-october-contract-1908",
+      "evidence_id": "evidence:polymarket-october-contract-1338",
       "source_type": "prediction-market contract page",
       "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
       "title": "Polymarket: Fed Decision in October?",
-      "claim": "At 19:08 UTC, direct outcome rows displayed 56% for a 25 bp increase and 44% for no change; rules define outcomes using the upper-bound target-range change and name the October FOMC statement as resolution source.",
-      "accessed_at": "2026-09-20T19:08:24Z",
+      "claim": "At 13:38 UTC, direct outcome rows displayed 50% for a 25 bp increase and 49% for no change; rules define outcomes using the upper-bound target-range change and name the October FOMC statement as resolution source.",
+      "accessed_at": "2026-09-21T13:38:13Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "evidence:cme-fedwatch-october-grid-gap-1908",
+      "evidence_id": "evidence:cme-fedwatch-october-grid-gap-1338",
       "source_type": "futures-implied probability tool",
       "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
       "title": "CME FedWatch",
       "claim": "CME describes FedWatch as probabilities implied by 30-Day Fed Funds futures prices; the direct live October grid was unreadable in this check.",
-      "accessed_at": "2026-09-20T19:08:24Z",
+      "accessed_at": "2026-09-21T13:38:13Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "evidence:fed-october-calendar-1908",
+      "evidence_id": "evidence:fed-october-calendar-1338",
       "source_type": "official calendar",
       "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
       "title": "Federal Reserve October calendar",
       "claim": "The calendar lists minutes of the September 15–16 meeting on October 7 at 14:00 ET, the October 27–28 FOMC meeting, and the October 28 press conference at 14:30 ET.",
-      "accessed_at": "2026-09-20T19:08:24Z",
+      "accessed_at": "2026-09-21T13:38:13Z",
       "relation": "context",
       "publication_basis": "public-domain"
     },
     {
-      "evidence_id": "evidence:bls-september-2026-schedule-1908",
+      "evidence_id": "evidence:bls-september-2026-schedule-1338",
       "source_type": "official release calendar",
       "source_url": "https://www.bls.gov/schedule/2026/09_sched.htm",
       "title": "BLS schedule: September 2026",
       "claim": "The calendar lists the August Job Openings and Labor Turnover Survey on September 29 at 10:00 ET.",
-      "accessed_at": "2026-09-20T19:08:24Z",
+      "accessed_at": "2026-09-21T13:38:13Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "evidence:bea-release-schedule-1338",
+      "source_type": "official release calendar",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "title": "BEA release schedule",
+      "claim": "The schedule lists U.S. International Transactions and Investment Position for September 24 at 08:30 ET and Personal Income and Outlays for September 30 at 08:30 ET.",
+      "accessed_at": "2026-09-21T13:38:13Z",
       "relation": "context",
       "publication_basis": "public-domain"
     }
