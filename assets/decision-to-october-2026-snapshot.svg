@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="500" viewBox="0 0 1080 500" role="img" aria-labelledby="title desc">
-  <title id="title">Direct October Fed-decision rows are near even, with different leaders by venue</title>
-  <desc id="desc">At pool access time 13:38 UTC on September 21, 2026, Kalshi displayed 50 percent for maintain rate and 49 percent for a 25-basis-point hike. Polymarket displayed 50 percent for a 25-basis-point increase and 49 percent for no change. Source: direct Kalshi and Polymarket October event pages.</desc>
-  <rect width="1080" height="500" fill="#f5f8fc"/><text x="54" y="62" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#13243a">October decision rows: a one-point lead, but not the same leader</text>
-  <text x="54" y="94" font-family="Arial, sans-serif" font-size="17" fill="#53677f">Direct event pages accessed September 21, 2026, 13:38 UTC · separate venue-specific contracts</text>
+  <title id="title">Direct October Fed-decision rows remain close, with different leaders by venue</title>
+  <desc id="desc">At pool access time 19:06 UTC on September 21, 2026, Kalshi displayed 50 percent for maintain rate and 48 percent for a 25-basis-point hike. Polymarket displayed 50 percent for a 25-basis-point increase and 49 percent for no change. Source: direct Kalshi and Polymarket October event pages.</desc>
+  <rect width="1080" height="500" fill="#f5f8fc"/><text x="54" y="62" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#13243a">October decision rows: close readings, different leaders by venue</text>
+  <text x="54" y="94" font-family="Arial, sans-serif" font-size="17" fill="#53677f">Direct event pages accessed September 21, 2026, 19:06 UTC · separate venue-specific contracts</text>
   <line x1="250" y1="418" x2="1010" y2="418" stroke="#7b8da3" stroke-width="2"/>
   <g font-family="Arial, sans-serif" fill="#13243a"><text x="70" y="198" font-size="21" font-weight="700">Kalshi</text><text x="70" y="229" font-size="16">Maintain rate</text><text x="70" y="315" font-size="16">Hike 25bps</text><text x="70" y="392" font-size="14" fill="#53677f">Two outcomes hidden</text></g>
-  <rect x="250" y="197" width="700" height="45" rx="8" fill="#1759a6"/><rect x="250" y="283" width="686" height="45" rx="8" fill="#c46345"/>
-  <text x="964" y="228" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#13243a">50%</text><text x="950" y="314" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#13243a">49%</text>
+  <rect x="250" y="197" width="700" height="45" rx="8" fill="#1759a6"/><rect x="250" y="283" width="672" height="45" rx="8" fill="#c46345"/>
+  <text x="964" y="228" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#13243a">50%</text><text x="936" y="314" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#13243a">48%</text>
   <g font-family="Arial, sans-serif" fill="#13243a"><text x="70" y="462" font-size="21" font-weight="700">Polymarket</text><text x="355" y="462" font-size="16">25 bp increase</text><text x="680" y="462" font-size="16">No change</text></g>
   <rect x="355" y="430" width="235" height="17" rx="5" fill="#c46345"/><rect x="680" y="430" width="230" height="17" rx="5" fill="#1759a6"/>
   <text x="598" y="445" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#13243a">50%</text><text x="918" y="445" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#13243a">49%</text>

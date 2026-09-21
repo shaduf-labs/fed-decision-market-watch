@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:fd06087d-1a0b-4c86-ab14-c1647ddadd0d",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-21T19:01:00.000Z",
+      "completed_at": "2026-09-21T19:11:35.147Z",
+      "title": "Evening recheck: October’s venue split holds; Kalshi’s named hike row eases to 48%",
+      "summary": "At 19:06 UTC, Kalshi displayed 50% maintain rate and 48% for a named 25 bp hike; Polymarket displayed 50% for a 25 bp increase and 49% for no change. Kalshi’s hike row was 1 point lower than at 13:38 UTC, but the venue-specific leaders and the direct-CME gap were unchanged.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-21-evening-stable-split",
+      "entrypoint": "research/2026-09-21-evening-stable-split/index.html"
+    },
+    {
       "run_id": "run:feab1560-0e4b-4fdf-bf2b-5c1c2fce6417",
       "status": "completed",
       "answer_change": "meaningful_change",
