@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:6b9a6038-f8aa-47ae-836b-b760d9d76516",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-22T13:31:00.000Z",
+      "completed_at": "2026-09-22T13:42:18.437Z",
+      "title": "Kalshi’s named October hike row moves back ahead; Polymarket is tied at 50%",
+      "summary": "At 13:38 UTC, Kalshi displayed 51% for a named 25 bp hike and 47% for maintain rate, while Polymarket displayed 50% for a 25 bp increase and 50% for no change. Since the September 21 evening check, Kalshi’s named leader changed and Polymarket tied; CME’s live grid remained unreadable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-22-october-hike-reclaims-lead",
+      "entrypoint": "research/2026-09-22-october-hike-reclaims-lead/index.html"
+    },
+    {
       "run_id": "run:fd06087d-1a0b-4c86-ab14-c1647ddadd0d",
       "status": "completed",
       "answer_change": "no_meaningful_change",
