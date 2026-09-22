@@ -2,42 +2,42 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "evidence_id": "kalshi-october-direct-1338",
+      "evidence_id": "kalshi-october-direct-1905",
       "source_type": "prediction-market event page",
       "title": "Kalshi: Fed decision in October?",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
-      "claim": "At pool access time 13:38 UTC, the page displayed 51% for “Hike 25bps” and 47% for “Fed maintains rate.”",
-      "accessed_at": "2026-09-22T13:38:36Z",
+      "claim": "At pool access time 19:05 UTC, the page displayed 52% for “Hike 25bps” and 48% for “Fed maintains rate.”",
+      "accessed_at": "2026-09-22T19:05:47Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "polymarket-october-direct-1338",
+      "evidence_id": "polymarket-october-direct-1905",
       "source_type": "prediction-market contract page",
       "title": "Polymarket: Fed Decision in October?",
       "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
-      "claim": "At pool access time 13:38 UTC, the page displayed 50% for a 25 bp increase and 50% for no change; written rules define the upper-bound target-range change and name the October FOMC statement as resolution source.",
-      "accessed_at": "2026-09-22T13:38:36Z",
+      "claim": "At pool access time 19:05 UTC, the page displayed 53% for a 25 bp increase and 46% for no change; written rules define the upper-bound target-range change and name the October FOMC statement as resolution source.",
+      "accessed_at": "2026-09-22T19:05:47Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "cme-fedwatch-october-grid-gap-1338",
+      "evidence_id": "cme-fedwatch-october-grid-gap-1905",
       "source_type": "futures-implied probability tool",
       "title": "CME FedWatch",
       "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
       "claim": "CME describes FedWatch as a probability measure implied by 30-Day Fed Funds futures; the direct live October grid was unreadable in this check.",
-      "accessed_at": "2026-09-22T13:38:36Z",
+      "accessed_at": "2026-09-22T19:05:47Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "bea-q2-international-release-1338",
+      "evidence_id": "bea-q2-international-release-1905",
       "source_type": "official release notice",
       "title": "BEA 26-32",
       "source_url": "https://www.bea.gov/node/42998",
       "claim": "The notice schedules U.S. International Transactions and Investment Position for the second quarter of 2026 on September 24 at 08:30 ET.",
-      "accessed_at": "2026-09-22T13:38:36Z",
+      "accessed_at": "2026-09-22T19:05:47Z",
       "relation": "context",
       "publication_basis": "public-domain"
     },
@@ -47,17 +47,7 @@
       "title": "Federal Reserve October calendar",
       "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
       "claim": "The calendar lists September-meeting minutes on October 7 and the October 27–28 FOMC meeting with an October 28 statement and press conference.",
-      "accessed_at": "2026-09-21T19:06:02Z",
-      "relation": "context",
-      "publication_basis": "public-domain"
-    },
-    {
-      "evidence_id": "bls-september-schedule-evening",
-      "source_type": "official release calendar",
-      "title": "BLS September calendar",
-      "source_url": "https://www.bls.gov/schedule/2026/09_sched.htm",
-      "claim": "The calendar lists August Job Openings and Labor Turnover Survey on September 29 at 10:00 ET.",
-      "accessed_at": "2026-09-21T19:06:02Z",
+      "accessed_at": "2026-09-22T19:05:47Z",
       "relation": "context",
       "publication_basis": "public-domain"
     }
