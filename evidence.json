@@ -2,42 +2,62 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "evidence_id": "kalshi-october-direct-1337",
+      "evidence_id": "kalshi-october-1904",
       "source_type": "prediction-market event page",
-      "title": "Kalshi: Fed decision in October?",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
-      "claim": "At pool access time 13:37 UTC, the page displayed 51% for “Hike 25bps,” 47% for “Fed maintains rate,” and 1% for “Hike >25bps,” with two further outcomes hidden.",
-      "accessed_at": "2026-09-23T13:37:29Z",
+      "title": "Kalshi: Fed decision in October?",
+      "claim": "At pool access time 19:04 UTC on September 23, the direct page displayed 66% for Hike 25bps, 32% for Fed maintains rate, and 2% for Hike >25bps.",
+      "accessed_at": "2026-09-23T19:04:40Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "polymarket-october-direct-1337",
+      "evidence_id": "polymarket-october-1904",
       "source_type": "prediction-market contract page",
-      "title": "Polymarket: Fed Decision in October?",
       "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
-      "claim": "At pool access time 13:37 UTC, the page displayed 54% for a 25 bp increase and 46% for no change; written rules define the upper-bound target-range change and name the October FOMC statement as resolution source.",
-      "accessed_at": "2026-09-23T13:37:29Z",
+      "title": "Polymarket: Fed Decision in October?",
+      "claim": "At pool access time 19:04 UTC on September 23, the direct page displayed 68% for a 25 bp increase and 33% for no change; its rules use the upper-bound target-range change and name the October FOMC statement as resolution source.",
+      "accessed_at": "2026-09-23T19:04:40Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "cme-fedwatch-october-grid-gap-1337",
+      "evidence_id": "cme-fedwatch-gap-1904",
       "source_type": "futures-implied probability tool",
-      "title": "CME FedWatch",
       "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
-      "claim": "CME describes FedWatch as a probability measure implied by 30-Day Fed Funds futures; the direct live October grid was unreadable in this check.",
-      "accessed_at": "2026-09-23T13:37:29Z",
+      "title": "CME FedWatch",
+      "claim": "CME describes FedWatch as probabilities implied by 30-Day Fed Funds futures, but the direct live October grid was unreadable in this check.",
+      "accessed_at": "2026-09-23T19:04:40Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "bea-q2-international-release-1337",
-      "source_type": "official release notice",
-      "title": "BEA 26-32",
+      "evidence_id": "fed-october-calendar-1904",
+      "source_type": "official Federal Reserve calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "title": "Federal Reserve October 2026 calendar",
+      "claim": "The calendar lists September meeting minutes on October 7 at 14:00 ET and the October 27–28 meeting, statement at 14:00 ET and press conference at 14:30 ET on October 28.",
+      "accessed_at": "2026-09-23T19:04:40Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "bea-q2-release-1904",
+      "source_type": "official BEA release notice",
       "source_url": "https://www.bea.gov/node/42998",
+      "title": "BEA 26-32",
       "claim": "The notice schedules U.S. International Transactions and Investment Position for the second quarter of 2026 on September 24 at 08:30 ET.",
-      "accessed_at": "2026-09-23T13:37:29Z",
+      "accessed_at": "2026-09-23T19:04:40Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "bls-employment-schedule-1904",
+      "source_type": "official BLS release page",
+      "source_url": "https://www.bls.gov/cps/",
+      "title": "BLS Current Population Survey",
+      "claim": "The page schedules the Employment Situation for September 2026 on October 2 at 08:30 ET.",
+      "accessed_at": "2026-09-23T19:04:40Z",
       "relation": "context",
       "publication_basis": "public-domain"
     }
