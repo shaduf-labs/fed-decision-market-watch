@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At 19:05 UTC on September 22, direct October pages showed named 25 bp-hike leads on both venues: Polymarket displayed 53% for a 25 bp increase and 46% for no change, while Kalshi displayed 52% for “Hike 25bps” and 48% for “Fed maintains rate.” Since the pool’s 13:38 UTC check, Polymarket’s named hike row rose 3 percentage points and no change fell 4; Kalshi’s two named rows each rose 1 point. These are separate event-contract observations, not a consensus or a futures-implied estimate.",
+  "current_answer": "At 13:37 UTC on September 23, direct October pages still showed named 25 bp-hike leads: Polymarket displayed 54% for a 25 bp increase and 46% for no change, while Kalshi displayed 51% for “Hike 25bps” and 47% for “Fed maintains rate.” Since the September 22, 19:05 UTC check, Polymarket’s named hike row rose 1 percentage point and no change was unchanged; Kalshi’s two named rows each fell 1 point. These are separate event-contract observations, not a consensus or a futures-implied estimate.",
   "catalogue_card": {
-    "question": "How did October Fed-decision readings change in the evening check?",
-    "text": "At 19:05 UTC, Polymarket’s named 25 bp-hike row was 53% versus 46% no change; Kalshi’s was 52% versus 48% maintain rate. Polymarket moved from a tie to a 7-point named hike lead. No cause or current CME rate is verified."
+    "question": "Did the October Fed-decision leaders change in today’s direct check?",
+    "text": "At 13:37 UTC, Polymarket’s named 25 bp-hike row was 54% versus 46% no change; Kalshi’s was 51% versus 47% maintain rate. Both leaders held after small 1-point moves. No cause or current CME rate is verified."
   },
   "summary": [
-    "Polymarket displayed 53% for a 25 bp increase and 46% for no change; since 13:38 UTC, the named rows moved +3 and −4 points.",
-    "Kalshi displayed 52% for “Hike 25bps” and 48% for “Fed maintains rate”; each named row was 1 point higher than at 13:38 UTC.",
+    "Polymarket displayed 54% for a 25 bp increase and 46% for no change; since September 22, 19:05 UTC, the named hike row rose 1 point and no change was unchanged.",
+    "Kalshi displayed 51% for “Hike 25bps” and 47% for “Fed maintains rate”; each named row was 1 point lower than at the September 22, 19:05 UTC check.",
     "CME FedWatch’s direct October grid was unreadable, so no futures-implied percentage or cross-venue spread is shown."
   ],
   "uncertainty": [
     "The comparisons are between pool access times, not continuous price paths; they do not identify a cause.",
     "Kalshi hides two outcomes. Polymarket displays smaller outcomes separately and its rows can be rounded. The pool does not derive a full distribution.",
-    "Neither event page supplied a separate reliable quote time; 19:05 UTC is the pool access time.",
+    "Neither event page supplied a separate reliable quote time; 13:37 UTC is the pool access time.",
     "CME FedWatch’s direct live October grid remained unreadable in this environment."
   ],
-  "checked_at": "2026-09-22T19:05:47Z",
+  "checked_at": "2026-09-23T13:37:29Z",
   "meaningfully_updated_at": "2026-09-22T19:05:47Z",
-  "freshness_note": "Direct October event pages were rechecked at 19:05 UTC on September 22, 2026. Polymarket’s named leader moved from a tie to a 7-point hike lead; Kalshi’s named hike lead remained 4 points. A current CME FedWatch grid could not be directly read."
+  "freshness_note": "Direct October event pages were rechecked at 13:37 UTC on September 23, 2026. Polymarket’s named hike lead widened from 7 to 8 points; Kalshi’s named hike lead remained 4 points. A current CME FedWatch grid could not be directly read."
 }
