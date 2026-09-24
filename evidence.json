@@ -2,72 +2,42 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "evidence_id": "kalshi-october-1335",
+      "evidence_id": "kalshi-october-1906",
       "source_type": "prediction-market event page",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
       "title": "Kalshi: Fed decision in October?",
-      "claim": "At pool access time 13:35 UTC on September 24, the direct page displayed 63% for Hike 25bps, 35% for Fed maintains rate, and 2% for Hike >25bps.",
-      "accessed_at": "2026-09-24T13:35:41.000Z",
+      "claim": "At pool access time 19:06 UTC on September 24, the direct page displayed 65% for Hike 25bps, 35% for Fed maintains rate, and 2% for Hike >25bps; two outcomes were hidden.",
+      "accessed_at": "2026-09-24T19:06:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "polymarket-october-1335",
+      "evidence_id": "polymarket-october-1906",
       "source_type": "prediction-market contract page",
       "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
       "title": "Polymarket: Fed Decision in October?",
-      "claim": "At pool access time 13:35 UTC on September 24, the direct page displayed 64% for a 25 bp increase and 36% for no change; its rules use the upper-bound target-range change and name the October FOMC statement as resolution source.",
-      "accessed_at": "2026-09-24T13:35:41.000Z",
+      "claim": "At pool access time 19:06 UTC on September 24, the direct page displayed 66% for a 25 bp increase and 34% for no change; its rules use the upper-bound target-range change and name the October FOMC statement as resolution source.",
+      "accessed_at": "2026-09-24T19:06:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "cme-fedwatch-gap-1335",
+      "evidence_id": "cme-fedwatch-gap-1906",
       "source_type": "futures-implied probability tool",
       "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
       "title": "CME FedWatch",
       "claim": "CME describes FedWatch as probabilities implied by 30-Day Fed Funds futures, but the direct live October grid was unreadable in this check.",
-      "accessed_at": "2026-09-24T13:35:41.000Z",
+      "accessed_at": "2026-09-24T19:06:00.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "bea-q2-result-1335",
-      "source_type": "official economic release",
-      "source_url": "https://www.bea.gov/news/2026/us-international-transactions-and-investment-position-2nd-quarter-2026",
-      "title": "BEA: U.S. International Transactions and Investment Position, Q2 2026",
-      "claim": "Released September 24 at 08:30 EDT: the U.S. current-account deficit widened $33.4 billion to $246.0 billion in the second quarter.",
-      "accessed_at": "2026-09-24T13:35:41.000Z",
-      "relation": "context",
-      "publication_basis": "public-domain"
-    },
-    {
-      "evidence_id": "bls-september-schedule-1335",
-      "source_type": "official release calendar",
-      "source_url": "https://www.bls.gov/schedule/2026/09_sched.htm",
-      "title": "BLS September 2026 release calendar",
-      "claim": "The calendar lists the August Job Openings and Labor Turnover Survey at 10:00 ET on September 29.",
-      "accessed_at": "2026-09-24T13:35:41.000Z",
-      "relation": "context",
-      "publication_basis": "public-domain"
-    },
-    {
-      "evidence_id": "bea-schedule-1335",
-      "source_type": "official release calendar",
-      "source_url": "https://www.bea.gov/news/schedule",
-      "title": "BEA release schedule",
-      "claim": "The schedule lists Personal Income and Outlays for August at 08:30 ET on September 30.",
-      "accessed_at": "2026-09-24T13:35:41.000Z",
-      "relation": "context",
-      "publication_basis": "public-domain"
-    },
-    {
-      "evidence_id": "fed-october-calendar-1335",
+      "evidence_id": "fed-fomc-calendar-1906",
       "source_type": "official Federal Reserve calendar",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
-      "title": "Federal Reserve October 2026 calendar",
-      "claim": "The calendar lists September meeting minutes on October 7 at 14:00 ET and the October 27–28 meeting, statement at 14:00 ET and press conference at 14:30 ET on October 28.",
-      "accessed_at": "2026-09-24T13:35:41.000Z",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "title": "Federal Reserve FOMC meeting calendar",
+      "claim": "The official calendar lists the October 27–28, 2026 FOMC meeting.",
+      "accessed_at": "2026-09-24T19:06:00.000Z",
       "relation": "context",
       "publication_basis": "public-domain"
     }
