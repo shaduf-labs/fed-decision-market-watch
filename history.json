@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:732b3676-6c0d-46fa-ba65-5f013b0bd677",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-24T13:31:00.000Z",
+      "completed_at": "2026-09-24T13:41:55.000Z",
+      "title": "October’s named 25 bp-hike leads narrow to 28 points on both direct event pages",
+      "summary": "At 13:35 UTC, Kalshi displayed 63% for a named 25 bp hike versus 35% maintain rate, while Polymarket displayed 64% for a 25 bp increase versus 36% no change. Both named hike rows were lower than the September 23 evening access; CME’s live grid remained unreadable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-24-october-hike-lead-narrows",
+      "entrypoint": "research/2026-09-24-october-hike-lead-narrows/index.html"
+    },
+    {
       "run_id": "run:5025e5d4-60d6-471c-800c-ac469efac4ef",
       "status": "completed",
       "answer_change": "meaningful_change",

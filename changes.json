@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "change_id": "2026-09-23-evening-october-hike-repricing",
-      "changed_at": "2026-09-23T19:11:11.000Z",
-      "summary": "Refreshed the October watch with the 19:04 UTC direct check: Kalshi’s named 25 bp-hike row was 66% versus 32% maintain rate, while Polymarket’s was 68% versus 33% no change; the named hike rows rose 15 and 14 points from 13:37 UTC.",
+      "change_id": "2026-09-24-october-hike-lead-narrows",
+      "changed_at": "2026-09-24T13:41:55.000Z",
+      "summary": "Refreshed the October watch with the 13:35 UTC direct check: Kalshi’s named 25 bp-hike row was 63% versus 35% maintain rate, while Polymarket’s was 64% versus 36% no change. Both named leads narrowed to 28 points from the September 23 evening access.",
       "path": "/p/fed-decision-market-watch/"
     }
   ]
