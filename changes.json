@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "change_id": "2026-09-24-evening-october-hike-leads-widen",
-      "changed_at": "2026-09-24T19:10:00.000Z",
-      "summary": "Refreshed the October watch with the 19:06 UTC direct check: Kalshi’s named 25 bp-hike row was 65% versus 35% maintain rate, while Polymarket’s was 66% versus 34% no change. Both named hike rows rose 2 points from the 13:35 UTC access.",
+      "change_id": "2026-09-25-october-hike-rows-at-67",
+      "changed_at": "2026-09-25T13:41:00.000Z",
+      "summary": "Refreshed the October watch with the 13:33 UTC direct check: Kalshi and Polymarket each showed a named 25 bp-hike row at 67% versus a 33% named no-change or maintain-rate row. CME’s live grid remained unreadable.",
       "path": "/p/fed-decision-market-watch/"
     }
   ]
