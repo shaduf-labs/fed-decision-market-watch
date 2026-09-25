@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:2ae4a7ef-774b-42f7-adbd-f3e84d008754",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-25T19:01:00.000Z",
+      "completed_at": "2026-09-25T19:13:00.000Z",
+      "title": "Kalshi names a 69% October hold; Polymarket still names a 63% hike",
+      "summary": "At 19:06 UTC, Kalshi’s named Chance headings showed 69% for maintain rate and 29% for a 25 bp hike, reversing its earlier named leader. Polymarket showed a 63% 25 bp increase versus 37% no change. CME’s live grid remained unreadable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-25-evening-venue-split",
+      "entrypoint": "research/2026-09-25-evening-venue-split/index.html"
+    },
+    {
       "run_id": "run:44c44dfe-f898-4e70-8797-471835c8febb",
       "status": "completed",
       "answer_change": "meaningful_change",
