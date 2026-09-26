@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:456fa43e-ee0b-4b14-92ea-580686d7b59e",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-26T19:01:00.000Z",
+      "completed_at": "2026-09-26T19:16:00.000Z",
+      "title": "Kalshi holds its 64% October hike heading; Polymarket could not be rechecked",
+      "summary": "At 19:03 UTC, Kalshi’s named Chance headings remained 64% for Hike 25bps and 36% for maintain rate. Polymarket showed a U.S. location gate and no rows, so its last verified 13:37 UTC reading remains labelled. CME’s live grid was unreadable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-26-evening-kalshi-holds-polymarket-gated",
+      "entrypoint": "research/2026-09-26-evening-kalshi-holds-polymarket-gated/index.html"
+    },
+    {
       "run_id": "run:04350443-ba0a-4606-8bab-e3e0ded03aa5",
       "status": "completed",
       "answer_change": "meaningful_change",

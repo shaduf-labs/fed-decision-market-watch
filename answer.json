@@ -1,25 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At 13:37 UTC on September 26, Kalshi’s October event-page Chance headings showed 64% for “Hike 25bps” and 36% for “Fed maintains rate.” Polymarket’s direct October contract showed 65% for a 25 bp increase and 34% for no change. Compared with the pool’s September 25 19:06 UTC access, Kalshi’s named hike heading was 35 percentage points higher and its named maintain-rate heading 33 points lower; Polymarket’s named hike row was 2 points higher and no change 3 points lower. These are separate event-contract observations, not a consensus or a futures-implied estimate.",
+  "current_answer": "At 19:03 UTC on September 26, Kalshi’s October event-page Chance headings still showed 64% for “Hike 25bps” and 36% for “Fed maintains rate,” unchanged from the pool’s 13:37 UTC access. The last directly verified Polymarket October reading was 65% for a 25 bp increase and 34% for no change at 13:37 UTC; its 19:03 direct page showed a U.S. location gate and no rows. These are separate event-contract observations, not a consensus or a futures-implied estimate.",
   "catalogue_card": {
-    "question": "What changed after Kalshi’s October rate-hike heading returned to 64%?",
-    "text": "At 13:37 UTC, Kalshi’s named Hike 25bps heading rose from 29% to 64% since the prior pool check; Polymarket’s named hike row was 65%. The pages are separate event contracts, and no current CME figure is verified."
+    "question": "Did the October rate-decision reading change in the evening check?",
+    "text": "At 19:03 UTC, Kalshi’s named Hike 25bps and maintain-rate headings were still 64% and 36%. Polymarket did not render rows because the direct page showed a U.S. location gate; its last verified 65%/34% rows were from 13:37 UTC."
   },
   "summary": [
-    "Kalshi’s named Chance headings showed 64% for “Hike 25bps” and 36% for “Fed maintains rate”; since 19:06 UTC September 25, the named hike heading rose 35 points and maintain rate fell 33.",
-    "Polymarket showed 65% for a 25 bp increase and 34% for no change; since 19:06 UTC September 25, the named hike row rose 2 points and no change fell 3.",
+    "Kalshi’s named Chance headings remained 64% for “Hike 25bps” and 36% for “Fed maintains rate” between the pool’s 13:37 and 19:03 UTC accesses.",
+    "Polymarket’s last directly verified October rows were 65% for a 25 bp increase and 34% for no change at 13:37 UTC; the 19:03 UTC direct page showed a U.S. location gate and no rows.",
     "CME FedWatch’s direct October grid was unreadable, so no futures-implied percentage or cross-venue spread is shown.",
     "The next scheduled FOMC meeting is October 27–28, 2026."
   ],
   "uncertainty": [
-    "The comparisons are between two pool access times, not continuous price paths; they do not identify why the rows moved.",
+    "The Kalshi comparison is between pool access times, not a continuous price path, and does not identify why a row moved.",
     "Kalshi indicates two additional outcomes, and Polymarket displays smaller outcomes separately; no full distribution is derived.",
-    "Polymarket’s adjacent experimental AI-generated narrative is excluded from the named-row observation and any explanation.",
-    "Neither event page supplied a separate reliable quote time; 13:37 UTC is the pool access time.",
+    "Polymarket’s latest directly verified rows are from 13:37 UTC because its 19:03 UTC direct access was location-gated.",
     "CME FedWatch’s direct live October grid remained unreadable."
   ],
-  "checked_at": "2026-09-26T13:37:00.000Z",
+  "checked_at": "2026-09-26T19:03:00.000Z",
   "meaningfully_updated_at": "2026-09-26T13:37:00.000Z",
-  "freshness_note": "Direct October event pages were rechecked at 13:37 UTC on September 26, 2026. Kalshi’s named Chance headings and Polymarket’s named contract row both favor a 25 bp increase. A current CME FedWatch grid could not be directly read."
+  "freshness_note": "Kalshi’s direct October page was rechecked at 19:03 UTC on September 26, 2026 and its named headings were unchanged from 13:37 UTC. Polymarket did not render outcome rows because the direct page showed a U.S. location gate; its last directly verified rows remain time-labelled at 13:37 UTC. CME’s live October grid could not be read."
 }
