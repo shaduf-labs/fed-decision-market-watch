@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:04350443-ba0a-4606-8bab-e3e0ded03aa5",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-26T13:31:00.000Z",
+      "completed_at": "2026-09-26T13:44:00.000Z",
+      "title": "Kalshi’s October hike heading returns to 64%; Polymarket is 65%",
+      "summary": "At 13:37 UTC, Kalshi’s named Chance headings showed 64% for Hike 25bps and 36% maintain rate, reversing its September 25 evening leader. Polymarket showed 65% for a 25 bp increase versus 34% no change. CME’s live grid remained unreadable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-26-october-hike-rows-return",
+      "entrypoint": "research/2026-09-26-october-hike-rows-return/index.html"
+    },
+    {
       "run_id": "run:2ae4a7ef-774b-42f7-adbd-f3e84d008754",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -1,25 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At 19:06 UTC on September 25, Kalshi’s October event-page Chance headings showed 69% for “Fed maintains rate” and 29% for “Hike 25bps.” Polymarket’s direct October contract showed 63% for a 25 bp increase and 37% for no change. Compared with the pool’s September 25 13:33 UTC access, Kalshi’s named hike heading was 38 percentage points lower and its named maintain-rate heading 36 points higher; Polymarket’s named hike row was 4 points lower and no change 4 points higher. These are separate event-contract observations, not a consensus or a futures-implied estimate.",
+  "current_answer": "At 13:37 UTC on September 26, Kalshi’s October event-page Chance headings showed 64% for “Hike 25bps” and 36% for “Fed maintains rate.” Polymarket’s direct October contract showed 65% for a 25 bp increase and 34% for no change. Compared with the pool’s September 25 19:06 UTC access, Kalshi’s named hike heading was 35 percentage points higher and its named maintain-rate heading 33 points lower; Polymarket’s named hike row was 2 points higher and no change 3 points lower. These are separate event-contract observations, not a consensus or a futures-implied estimate.",
   "catalogue_card": {
-    "question": "Why do the October Fed-decision leaders now differ by venue?",
-    "text": "At 19:06 UTC, Kalshi’s named Chance headings favored holding at 69%, while Polymarket’s October contract favored a 25 bp hike at 63%. The checks are separate event contracts, not a consensus; no current CME figure is verified."
+    "question": "What changed after Kalshi’s October rate-hike heading returned to 64%?",
+    "text": "At 13:37 UTC, Kalshi’s named Hike 25bps heading rose from 29% to 64% since the prior pool check; Polymarket’s named hike row was 65%. The pages are separate event contracts, and no current CME figure is verified."
   },
   "summary": [
-    "Kalshi’s named Chance headings showed 69% for “Fed maintains rate” and 29% for “Hike 25bps”; since 13:33 UTC, the named hike heading fell 38 points and maintain rate rose 36.",
-    "Polymarket showed 63% for a 25 bp increase and 37% for no change; since 13:33 UTC, the named hike row fell 4 points and no change rose 4.",
+    "Kalshi’s named Chance headings showed 64% for “Hike 25bps” and 36% for “Fed maintains rate”; since 19:06 UTC September 25, the named hike heading rose 35 points and maintain rate fell 33.",
+    "Polymarket showed 65% for a 25 bp increase and 34% for no change; since 19:06 UTC September 25, the named hike row rose 2 points and no change fell 3.",
     "CME FedWatch’s direct October grid was unreadable, so no futures-implied percentage or cross-venue spread is shown.",
     "The next scheduled FOMC meeting is October 27–28, 2026."
   ],
   "uncertainty": [
     "The comparisons are between two pool access times, not continuous price paths; they do not identify why the rows moved.",
-    "Kalshi’s named Hike 25bps Chance heading and another displayed price field differed in this crawl. The pool reports the named Chance heading only and does not derive a distribution.",
-    "Polymarket displays smaller outcomes separately and its rows can be rounded.",
-    "Neither event page supplied a separate reliable quote time; 19:06 UTC is the pool access time.",
-    "CME FedWatch’s direct live October grid remained unreadable in this environment."
+    "Kalshi indicates two additional outcomes, and Polymarket displays smaller outcomes separately; no full distribution is derived.",
+    "Polymarket’s adjacent experimental AI-generated narrative is excluded from the named-row observation and any explanation.",
+    "Neither event page supplied a separate reliable quote time; 13:37 UTC is the pool access time.",
+    "CME FedWatch’s direct live October grid remained unreadable."
   ],
-  "checked_at": "2026-09-25T19:06:00.000Z",
-  "meaningfully_updated_at": "2026-09-25T19:06:00.000Z",
-  "freshness_note": "Direct October event pages were rechecked at 19:06 UTC on September 25, 2026. Kalshi’s named Chance headings now favor maintaining the rate; Polymarket’s named contract row still favors a 25 bp increase. A current CME FedWatch grid could not be directly read."
+  "checked_at": "2026-09-26T13:37:00.000Z",
+  "meaningfully_updated_at": "2026-09-26T13:37:00.000Z",
+  "freshness_note": "Direct October event pages were rechecked at 13:37 UTC on September 26, 2026. Kalshi’s named Chance headings and Polymarket’s named contract row both favor a 25 bp increase. A current CME FedWatch grid could not be directly read."
 }
