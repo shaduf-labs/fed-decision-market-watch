@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:929c4a3f-8bc3-4771-a0e2-f9a8e0a4000b",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-27T13:31:00.000Z",
+      "completed_at": "2026-09-27T13:45:00.000Z",
+      "title": "October contract rows still favor a 25 bp hike",
+      "summary": "At 13:35 UTC, Kalshi’s October Chance headings showed 64% for Hike 25bps and 35% for maintain rate; Polymarket’s direct rows showed 65% for a 25 bp increase and 34% no change. The named hike rows were unchanged from their prior direct checks.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-27-october-contracts-still-favor-hike",
+      "entrypoint": "research/2026-09-27-october-contracts-still-favor-hike/index.html"
+    },
+    {
       "run_id": "run:456fa43e-ee0b-4b14-92ea-580686d7b59e",
       "status": "completed",
       "answer_change": "no_meaningful_change",

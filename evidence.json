@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:bea-release-schedule-1335",
+      "source_type": "official release calendar",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "title": "BEA release schedule",
+      "claim": "August Personal Income and Outlays is scheduled for September 30 at 08:30 ET.",
+      "accessed_at": "2026-09-27T13:35:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bls-september-calendar-1335",
+      "source_type": "official release calendar",
+      "source_url": "https://www.bls.gov/schedule/2026/09_sched.htm",
+      "title": "BLS September schedule",
+      "claim": "August Job Openings and Labor Turnover Survey is scheduled for September 29 at 10:00 ET.",
+      "accessed_at": "2026-09-27T13:35:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:fed-calendar-october-1335",
+      "source_type": "official calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "title": "Federal Reserve FOMC calendar",
+      "claim": "The next scheduled FOMC meeting is October 27–28, 2026.",
+      "accessed_at": "2026-09-27T13:35:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cme-fedwatch-grid-1335",
+      "source_type": "futures-implied tool",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "title": "CME FedWatch",
+      "claim": "The overview described 30-Day Fed Funds futures-implied probabilities, but the direct live October grid was not readable.",
+      "accessed_at": "2026-09-27T13:35:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:polymarket-october-direct-1335",
+      "source_type": "prediction-market event page",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "title": "Polymarket Fed Decision in October?",
+      "claim": "At 13:35 UTC September 27, direct rows showed 65% 25 bps increase and 34% no change.",
+      "accessed_at": "2026-09-27T13:35:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:kalshi-october-direct-1335",
+      "source_type": "prediction-market event page",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "title": "Kalshi Fed decision in October?",
+      "claim": "At 13:35 UTC September 27, named Chance headings showed 64% Hike 25bps, 35% Fed maintains rate, and 1% Hike >25bps, with two more outcomes indicated.",
+      "accessed_at": "2026-09-27T13:35:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-09-26-evening-kalshi-october-direct",
       "source_type": "prediction-market event page",
       "title": "Kalshi: Fed decision in October?",
