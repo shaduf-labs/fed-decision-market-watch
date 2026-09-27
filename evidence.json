@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:kalshi-october-direct-1903",
+      "source_type": "prediction-market event page",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "title": "Kalshi: Fed decision in October?",
+      "claim": "At 19:03 UTC September 27, named Chance headings showed 66% Hike 25bps, 35% Fed maintains rate, and 1% Hike >25bps; two more outcomes were indicated.",
+      "accessed_at": "2026-09-27T19:03:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:polymarket-october-direct-1903",
+      "source_type": "prediction-market event page",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "title": "Polymarket: Fed Decision in October?",
+      "claim": "At 19:03 UTC September 27, direct rows showed 65% for a 25 bp increase and 34% for no change.",
+      "accessed_at": "2026-09-27T19:03:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cme-grid-1903",
+      "source_type": "futures-implied tool",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "title": "CME FedWatch",
+      "claim": "The overview describes 30-Day Fed Funds futures-implied probabilities, but the live October grid was not readable.",
+      "accessed_at": "2026-09-27T19:03:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:fed-calendar-1903",
+      "source_type": "official calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "title": "Federal Reserve FOMC calendar",
+      "claim": "The next scheduled FOMC meeting is October 27–28, 2026.",
+      "accessed_at": "2026-09-27T19:03:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bls-calendar-1903",
+      "source_type": "official release calendar",
+      "source_url": "https://www.bls.gov/schedule/2026/09_sched.htm",
+      "title": "BLS September schedule",
+      "claim": "August Job Openings and Labor Turnover Survey is scheduled for September 29 at 10:00 ET.",
+      "accessed_at": "2026-09-27T19:03:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bea-calendar-1903",
+      "source_type": "official release calendar",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "title": "BEA release schedule",
+      "claim": "August Personal Income and Outlays is scheduled for September 30 at 08:30 ET.",
+      "accessed_at": "2026-09-27T19:03:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:bea-release-schedule-1335",
       "source_type": "official release calendar",
       "source_url": "https://www.bea.gov/news/schedule",

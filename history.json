@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:8ff30276-5e5c-430a-af5a-9a634cd6c844",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-27T19:01:00.000Z",
+      "completed_at": "2026-09-27T19:07:41.902Z",
+      "title": "Kalshi’s October hike heading rises to 66%; Polymarket remains at 65%",
+      "summary": "At 19:03 UTC, Kalshi showed 66% for Hike 25bps, up 2 percentage points since 13:35 UTC, and 35% for maintain rate. Polymarket’s 65% increase and 34% no-change rows were unchanged; CME’s live grid was unreadable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-27-evening-october-check",
+      "entrypoint": "research/2026-09-27-evening-october-check/index.html"
+    },
+    {
       "run_id": "run:929c4a3f-8bc3-4771-a0e2-f9a8e0a4000b",
       "status": "completed",
       "answer_change": "no_meaningful_change",
