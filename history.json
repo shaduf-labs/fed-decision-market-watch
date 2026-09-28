@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:6b340372-2486-40a5-9b33-7417dbddc3ee",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-28T13:31:00.000Z",
+      "completed_at": "2026-09-28T13:38:26.733Z",
+      "title": "October Fed-contract readings: Kalshi 67% hike, Polymarket 66%",
+      "summary": "At 13:33 UTC, Kalshi’s named hike and hold headings showed 67% and 32%; Polymarket’s named hike and no-change rows showed 66% and 33%. The changes since September 27 evening were small; CME’s live grid was unreadable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-28-october-contract-check",
+      "entrypoint": "research/2026-09-28-october-contract-check/index.html"
+    },
+    {
       "run_id": "run:8ff30276-5e5c-430a-af5a-9a634cd6c844",
       "status": "completed",
       "answer_change": "no_meaningful_change",

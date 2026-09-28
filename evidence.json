@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:kalshi-october-1333",
+      "source_type": "prediction-market event page",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "title": "Kalshi: Fed decision in October?",
+      "claim": "At 13:33 UTC September 28, named Chance headings showed 67% Hike 25bps, 32% Fed maintains rate, and 1% Hike >25bps; two more outcomes were indicated.",
+      "accessed_at": "2026-09-28T13:33:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:polymarket-october-1333",
+      "source_type": "prediction-market event page",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "title": "Polymarket: Fed Decision in October?",
+      "claim": "At 13:33 UTC September 28, direct rows showed 66% for a 25 bp increase and 33% for no change.",
+      "accessed_at": "2026-09-28T13:33:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cme-grid-1333",
+      "source_type": "futures-implied tool",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "title": "CME FedWatch",
+      "claim": "The tool describes probabilities implied by 30-Day Fed Funds futures, but its live October grid was unreadable.",
+      "accessed_at": "2026-09-28T13:33:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:fed-calendar-1333",
+      "source_type": "official calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy.htm",
+      "title": "Federal Reserve monetary-policy page",
+      "claim": "September-meeting minutes are listed for October 7 and the next FOMC meeting for October 27–28.",
+      "accessed_at": "2026-09-28T13:33:00.000Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "evidence:bls-calendar-1333",
+      "source_type": "official release calendar",
+      "source_url": "https://www.bls.gov/schedule/2026/",
+      "title": "BLS 2026 release schedule",
+      "claim": "August job openings are scheduled for September 29 at 10:00 ET and September employment data for October 2 at 08:30 ET.",
+      "accessed_at": "2026-09-28T13:33:00.000Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "evidence:bea-calendar-1333",
+      "source_type": "official release calendar",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "title": "BEA release schedule",
+      "claim": "August Personal Income and Outlays is scheduled for September 30 at 08:30 ET.",
+      "accessed_at": "2026-09-28T13:33:00.000Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
       "evidence_id": "evidence:kalshi-october-direct-1903",
       "source_type": "prediction-market event page",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
