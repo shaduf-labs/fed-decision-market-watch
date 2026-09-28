@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-28-evening-october-contract-check",
+      "changed_at": "2026-09-28T19:05:00.000Z",
+      "summary": "Kalshi’s named October hike and maintain-rate headings showed 70% and 29%; Polymarket’s named increase and no-change rows showed 69% and 31%. Both hike rows rose 3 points since 13:33 UTC; CME’s live grid remained unreadable.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-09-28-october-contract-check",
       "changed_at": "2026-09-28T13:33:00.000Z",
       "summary": "Kalshi’s named October hike and maintain-rate headings showed 67% and 32%; Polymarket’s named increase and no-change rows showed 66% and 33%. Changes since September 27 evening were small; CME’s live grid remained unreadable.",

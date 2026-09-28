@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At 13:33 UTC on September 28, Kalshi’s October event-page Chance headings showed 67% for “Hike 25bps” and 32% for “Fed maintains rate.” Since the September 27, 19:03 UTC check, those headings moved +1 and −3 percentage points. Polymarket’s separate October rows showed 66% for a 25 bp increase and 33% for no change, +1 and −1 point. Neither page supplied a separate reliable quote timestamp. CME FedWatch’s live October grid remained unreadable.",
+  "current_answer": "At 19:05 UTC on September 28, Kalshi’s October event-page Chance headings showed 70% for “Hike 25bps” and 29% for “Fed maintains rate,” up 3 and down 3 percentage points since 13:33 UTC. Polymarket’s separate October rows showed 69% for a 25 bp increase and 31% for no change, up 3 and down 2 points. These are access-time observations, not quote timestamps or a combined forecast. CME FedWatch’s live October grid remained unreadable.",
   "catalogue_card": {
     "question": "What do October Fed-decision contracts show now?",
-    "text": "At September 28, 13:33 UTC, Kalshi showed 67% for a 25 bp hike and 32% for hold; Polymarket showed 66% hike and 33% no change. Each is a separate event-contract reading. CME’s live grid was unreadable."
+    "text": "At September 28, 19:05 UTC, Kalshi showed 70% for a 25 bp hike and 29% for hold; Polymarket showed 69% hike and 31% no change. Each is a separate event-contract observation. CME’s live grid was unreadable."
   },
   "summary": [
-    "Kalshi October Chance headings at 13:33 UTC: 67% Hike 25bps and 32% Fed maintains rate; +1 and −3 percentage points since September 27, 19:03 UTC.",
-    "Polymarket October direct rows at 13:33 UTC: 66% 25 bp increase and 33% no change; +1 and −1 point since September 27, 19:03 UTC.",
-    "CME FedWatch’s live October grid remained unreadable; no futures-implied number or combined probability is reported.",
+    "Kalshi October Chance headings at 19:05 UTC: 70% Hike 25bps and 29% Fed maintains rate; +3 and −3 percentage points since 13:33 UTC.",
+    "Polymarket October direct rows at 19:05 UTC: 69% 25 bp increase and 31% no change; +3 and −2 percentage points since 13:33 UTC.",
+    "CME FedWatch’s live October grid remained unreadable; no futures-implied figure or combined probability is reported.",
     "The next official FOMC meeting is October 27–28, 2026."
   ],
   "uncertainty": [
     "Page access time is not a separate quote timestamp; prices between checks were not observed.",
-    "Kalshi indicates two additional outcomes and both venues display rounded rows; no full distribution is derived.",
-    "CME FedWatch’s live October grid remained unreadable.",
-    "No official release or Fed communication was matched to these row changes; the cause is unverified."
+    "Kalshi shows two additional outcomes, and displayed rows are rounded; no full distribution is derived.",
+    "CME FedWatch’s live October grid was unreadable.",
+    "No verified official event was matched to the price changes; cause is unknown."
   ],
-  "checked_at": "2026-09-28T13:33:00.000Z",
+  "checked_at": "2026-09-28T19:05:00.000Z",
   "meaningfully_updated_at": "2026-09-26T13:37:00.000Z",
-  "freshness_note": "Direct Kalshi and Polymarket October event pages were checked September 28, 2026 at 13:33 UTC. Page access time is not a quote timestamp. CME’s live October grid was not readable."
+  "freshness_note": "Direct Kalshi and Polymarket October event pages were checked September 28, 2026 at 19:05 UTC. Page access time is not a quote timestamp. CME’s live October grid was not readable."
 }
