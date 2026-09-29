@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:0b6a093f-b778-41be-9f0f-332b4fb8fd1b",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-29T13:31:00.000Z",
+      "completed_at": "2026-09-29T13:38:42Z",
+      "title": "October contract rows little changed before JOLTS",
+      "summary": "At 13:35 UTC, Kalshi showed 70% for a named 25 bp hike and 30% for hold; Polymarket showed 69% and 31%. Hike rows were unchanged since the prior check; CME’s live grid was unreadable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-29-october-contracts-little-changed",
+      "entrypoint": "research/2026-09-29-october-contracts-little-changed/index.html"
+    },
+    {
       "run_id": "run:e624e78a-9797-491d-bf24-991a03270bec",
       "status": "completed",
       "answer_change": "no_meaningful_change",
