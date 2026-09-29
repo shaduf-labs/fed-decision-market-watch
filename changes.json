@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-29-evening-october-hold-leads",
+      "changed_at": "2026-09-29T19:02:00Z",
+      "summary": "Hold overtook the named 25 bp-hike row on both direct October event pages between 13:35 and 19:02 UTC. August JOLTS was released between checks; cause is not established.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-09-29-october-contracts-little-changed",
       "changed_at": "2026-09-29T13:35:00.000Z",
       "summary": "Kalshi’s named October hike heading held at 70% while its hold heading rose to 30%; Polymarket remained 69% hike and 31% no change. CME’s live grid was unreadable.",

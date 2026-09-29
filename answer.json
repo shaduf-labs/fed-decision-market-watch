@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At 13:35 UTC on September 29, Kalshi’s October event-page Chance headings showed 70% for “Hike 25bps” and 30% for “Fed maintains rate.” Polymarket’s separate October rows showed 69% for a 25 bp increase and 31% for no change. The named hike rows were unchanged from the September 28, 19:05 UTC check; Kalshi’s hold heading rose 1 percentage point. These are page-access observations, not quote timestamps or a combined forecast. CME FedWatch’s live October grid was unreadable.",
+  "current_answer": "At 19:02 UTC on September 29, Kalshi’s October event-page Chance headings showed 52% for “Fed maintains rate” and 46% for “Hike 25bps”; Polymarket’s separate October rows showed 51% for “No change” and 48% for “25 bps increase.” At 13:35 UTC, the named hike rows led at 70% and 69%. August JOLTS was released at 14:00 UTC, between checks, but the observations do not establish why the rows moved. These are page-access observations, not quote timestamps or a combined forecast; CME FedWatch’s live October grid remained unreadable.",
   "catalogue_card": {
-    "question": "Did October Fed-decision odds move?",
-    "text": "At September 29, 13:35 UTC, Kalshi’s named 25 bp-hike heading held at 70% and Polymarket’s row held at 69% since the prior check. The next official JOLTS release is due at 10:00 ET; no cause is assigned."
+    "question": "Did October Fed odds flip after JOLTS?",
+    "text": "At September 29, 19:02 UTC, hold led on Kalshi (52% versus 46% for a 25 bp hike) and Polymarket (51% versus 48%). Both had favored a hike at 13:35 UTC. JOLTS came between checks; cause is unverified."
   },
   "summary": [
-    "Kalshi October Chance headings at September 29, 13:35 UTC: 70% Hike 25bps and 30% Fed maintains rate; unchanged and +1 percentage point since September 28, 19:05 UTC.",
-    "Polymarket October rows at September 29, 13:35 UTC: 69% 25 bps increase and 31% no change; both unchanged.",
-    "CME FedWatch’s live October grid remained unreadable; no futures-implied or pooled figure is reported.",
-    "The next scheduled FOMC meeting is October 27–28, 2026."
+    "Kalshi October Chance headings at September 29, 19:02 UTC: 52% maintains rate and 46% Hike 25bps; the two named rows changed +22 and −24 percentage points since 13:35 UTC.",
+    "Polymarket October rows at September 29, 19:02 UTC: 51% no change and 48% 25 bps increase; changes +20 and −21 points since 13:35 UTC.",
+    "BLS reported August job openings little changed at 7.1 million at 14:00 UTC, between the checks; this does not prove the cause of repricing.",
+    "CME FedWatch’s live October grid remained unreadable; no futures-implied or pooled figure is reported."
   ],
   "uncertainty": [
     "Page access time is not a separate quote timestamp; prices between checks were not observed.",
-    "Kalshi displays additional outcomes, and the displayed rows are rounded; no full distribution is derived.",
-    "CME FedWatch’s live October grid was unreadable.",
-    "No verified official event was matched to the observed one-point change; cause is unknown."
+    "The post-JOLTS sequence does not establish that the release caused the change.",
+    "Kalshi lists additional outcomes and displayed rows are rounded; no full distribution is derived.",
+    "CME FedWatch’s live October grid remained unreadable."
   ],
-  "checked_at": "2026-09-29T13:35:00.000Z",
-  "meaningfully_updated_at": "2026-09-26T13:37:00.000Z",
-  "freshness_note": "Direct Kalshi and Polymarket October event pages were accessed September 29, 2026 at 13:35 UTC. Access time is not a quote timestamp. CME’s live October grid was not readable."
+  "checked_at": "2026-09-29T19:02:00Z",
+  "meaningfully_updated_at": "2026-09-29T19:02:00Z",
+  "freshness_note": "Direct Kalshi and Polymarket October event pages were accessed September 29, 2026 at 19:02 UTC. Access time is not a quote timestamp. CME’s live October grid was not readable."
 }

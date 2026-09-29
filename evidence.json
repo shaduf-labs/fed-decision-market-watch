@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-09-29-evening-kalshi",
+      "source_type": "source page",
+      "title": "Kalshi October event page",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "Named Chance headings: 52% Fed maintains rate, 46% Hike 25bps, less than 1% Hike >25bps; two more outcomes indicated.",
+      "accessed_at": "2026-09-29T19:02:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-09-29-evening-polymarket",
+      "source_type": "source page",
+      "title": "Polymarket October event page",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Named rows: 51% No change and 48% 25 bps increase.",
+      "accessed_at": "2026-09-29T19:02:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-09-29-evening-jolts",
+      "source_type": "official release",
+      "title": "BLS August JOLTS",
+      "source_url": "https://www.bls.gov/news.release/jolts.nr0.htm",
+      "claim": "BLS reports August job openings little changed at 7.1 million; release scheduled 10:00 ET September 29.",
+      "accessed_at": "2026-09-29T19:02:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-09-29-evening-cme",
+      "source_type": "source page",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "Direct live October grid and quote time unreadable.",
+      "accessed_at": "2026-09-29T19:02:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-09-29-evening-bea",
+      "source_type": "source page",
+      "title": "BEA release schedule",
+      "source_url": "https://www.bea.gov/news/schedule/full",
+      "claim": "August Personal Income and Outlays scheduled September 30 at 08:30 ET.",
+      "accessed_at": "2026-09-29T19:02:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-09-29-evening-fed",
+      "source_type": "source page",
+      "title": "FOMC calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "claim": "Next meeting October 27–28, 2026.",
+      "accessed_at": "2026-09-29T19:02:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
       "evidence_id": "2026-09-29-kalshi",
       "source_type": "prediction-market event page",
       "title": "Kalshi October Fed decision",
