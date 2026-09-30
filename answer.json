@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At September 30, 2026, 13:36 UTC page access, Kalshi’s October Chance headings showed 65% for “Fed maintains rate” and 35% for “Hike 25bps”; Polymarket’s separate October rows showed 66% “No change” and 34% “25 bps increase.” Since September 29, 19:02 UTC, the named hold/no-change rows rose 13 and 15 percentage points. BEA released August PCE inflation and revised Q2 GDP at 12:30 UTC between checks, but the two snapshots do not establish a cause. CME FedWatch’s live October grid remained unreadable.",
+  "current_answer": "At September 30, 2026, 19:27 UTC page access, Kalshi’s October Chance headings showed 65% “Fed maintains rate” and 33% “Hike 25bps”; Polymarket’s separate rows showed 64% “No change” and 34% “25 bps increase.” Hold/no change still led at both venues. Since 13:36 UTC, the named hold rows were unchanged on Kalshi and down 2 percentage points on Polymarket. New York Fed President John Williams said on September 29 that he saw no urgency after the September action and that one further increase late in 2026 might be appropriate if his forecast holds; this was his view, not a Committee forecast, and its effect on prices is unverified. The next official checkpoint is the October 2 jobs report. CME’s live October grid remained unreadable.",
   "catalogue_card": {
-    "question": "Did October Fed hold odds extend after new PCE data?",
-    "text": "At September 30, 13:36 UTC access, hold/no change led on Kalshi (65%) and Polymarket (66%), up 13 and 15 points since the prior evening. BEA’s August PCE release came between checks; its role in the move is unproven."
+    "question": "Did October Fed hold odds change by the evening check?",
+    "text": "Hold/no change still led at the September 30, 19:27 UTC page check: Kalshi 65% and Polymarket 64%. The named hold rows were unchanged and down 2 points since midday. Williams’s remarks are context, not proof of the move’s cause."
   },
   "summary": [
-    "Kalshi October Chance headings at September 30, 13:36 UTC: 65% Fed maintains rate and 35% Hike 25bps; changes from September 29, 19:02 UTC were +13 and −11 percentage points.",
-    "Polymarket October rows at September 30, 13:36 UTC: 66% No change and 34% 25 bps increase; changes +15 and −14 points.",
-    "BEA reported August PCE price inflation of 0.3% monthly and 3.4% yearly; core PCE was 0.2% monthly and 3.0% yearly. This preceded the market check but does not explain its change by itself.",
-    "Next official checkpoint: BLS September jobs report October 2, 08:30 ET. CME’s live October FedWatch grid remained unreadable."
+    "Kalshi October Chance headings at September 30, 19:27 UTC page access: 65% Fed maintains rate and 33% Hike 25bps; unchanged and down 2 percentage points since 13:36 UTC.",
+    "Polymarket October rows at the same access time: 64% No change and 34% 25 bps increase; down 2 and unchanged. The two contracts are not pooled.",
+    "Williams’s September 29 conditional remarks are official context, not a demonstrated cause of the contract changes.",
+    "Next official checkpoint: BLS September jobs report October 2 at 08:30 ET (12:30 UTC). CME’s live October FedWatch grid remained unreadable."
   ],
   "uncertainty": [
     "Page access time is not a separate quote timestamp; prices between checks were not observed.",
-    "The BEA release preceded the check but its causal effect on contracts is unverified.",
+    "Williams’s remarks cannot be assigned as the cause of the observed market changes.",
     "Named rounded rows are not a full distribution; the two venues are not pooled.",
     "CME FedWatch’s current October grid and quote time remained unreadable."
   ],
-  "checked_at": "2026-09-30T13:36:00Z",
+  "checked_at": "2026-09-30T19:27:40Z",
   "meaningfully_updated_at": "2026-09-30T13:36:00Z",
-  "freshness_note": "Direct Kalshi and Polymarket October pages accessed September 30, 2026 at 13:36 UTC; this is page access time, not quote time. CME’s live October grid was unreadable."
+  "freshness_note": "Direct Kalshi and Polymarket October pages accessed September 30, 2026 at 19:27 UTC; page access time is not a quote timestamp. CME’s live October grid was unreadable."
 }

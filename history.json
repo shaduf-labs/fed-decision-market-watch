@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:cd704f34-859f-4321-a21e-c112e709ef3b",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-30T19:22:09Z",
+      "completed_at": "2026-09-30T19:32:38Z",
+      "title": "October hold still leads at the evening check",
+      "summary": "At 19:27 UTC, Kalshi showed 65% hold and Polymarket 64% no change. Named rows moved no more than 2 points since midday; Williams’s remarks do not prove a cause.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-30-evening-october-hold-still-leads",
+      "entrypoint": "research/2026-09-30-evening-october-hold-still-leads/index.html"
+    },
+    {
       "run_id": "run:fff4edc7-44cc-42d3-8d64-a1669c8f65b0",
       "status": "completed",
       "answer_change": "meaningful_change",
