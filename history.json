@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:fff4edc7-44cc-42d3-8d64-a1669c8f65b0",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-30T13:31:00Z",
+      "completed_at": "2026-09-30T13:45:00Z",
+      "title": "October hold rows extend to 65–66% after BEA releases",
+      "summary": "At 13:36 UTC, Kalshi’s hold heading was 65% and Polymarket’s no-change row was 66%. August PCE was released before the check; causation is not established.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-09-30-october-hold-extends-after-bea",
+      "entrypoint": "research/2026-09-30-october-hold-extends-after-bea/index.html"
+    },
+    {
       "run_id": "run:f74281c1-7dc4-4ce1-b66c-bd756cd22d1c",
       "status": "completed",
       "answer_change": "meaningful_change",

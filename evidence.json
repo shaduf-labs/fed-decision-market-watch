@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-09-30-kalshi",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "Named Chance headings: 65% Fed maintains rate, 35% Hike 25bps, less than 1% Hike >25bps; two more outcomes indicated.",
+      "accessed_at": "2026-09-30T13:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-09-30-polymarket",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Named rows: 66% No change, 34% 25 bps increase; two smaller rows under 1%.",
+      "accessed_at": "2026-09-30T13:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-09-30-bea-pce",
+      "source_type": "official economic release",
+      "title": "BEA August Personal Income and Outlays",
+      "source_url": "https://bea.gov/news/2026/personal-income-and-outlays-august-2026",
+      "claim": "August PCE price index +0.3% month over month, +3.4% year over year; core +0.2% and +3.0%. Earlier months revised in annual update.",
+      "accessed_at": "2026-09-30T13:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-09-30-bea-gdp",
+      "source_type": "official economic release",
+      "title": "BEA Q2 GDP third estimate",
+      "source_url": "https://bea.gov/news/2026/gdp-third-estimate-industries-corporate-profits-state-gdp-and-state-personal-income-2nd",
+      "claim": "Q2 real GDP +2.2% annualized, revised up 0.7 percentage point.",
+      "accessed_at": "2026-09-30T13:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-09-30-bls",
+      "source_type": "official release calendar",
+      "title": "BLS Employment Situation calendar",
+      "source_url": "https://www.bls.gov/schedule/news_release/empSit.htm",
+      "claim": "September employment report scheduled October 2 at 08:30 ET.",
+      "accessed_at": "2026-09-30T13:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-09-30-fed",
+      "source_type": "official calendar",
+      "title": "FOMC meeting calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "claim": "October 27–28, 2026 FOMC meeting.",
+      "accessed_at": "2026-09-30T13:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-09-30-cme",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "Live October grid and quote time unreadable in available renderer.",
+      "accessed_at": "2026-09-30T13:36:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-09-29-evening-kalshi",
       "source_type": "source page",
       "title": "Kalshi October event page",

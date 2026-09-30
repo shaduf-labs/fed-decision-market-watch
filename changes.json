@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-09-30-october-hold-extends-after-bea",
+      "changed_at": "2026-09-30T13:36:00Z",
+      "summary": "Hold/no-change leads extended to 65% on Kalshi and 66% on Polymarket. BEA published August PCE between checks; cause of the contract change is not established.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-09-29-evening-october-hold-leads",
       "changed_at": "2026-09-29T19:02:00Z",
       "summary": "Hold overtook the named 25 bp-hike row on both direct October event pages between 13:35 and 19:02 UTC. August JOLTS was released between checks; cause is not established.",
@@ -23,12 +29,6 @@
       "change_id": "2026-09-28-october-contract-check",
       "changed_at": "2026-09-28T13:33:00.000Z",
       "summary": "Kalshi’s named October hike and maintain-rate headings showed 67% and 32%; Polymarket’s named increase and no-change rows showed 66% and 33%. Changes since September 27 evening were small; CME’s live grid remained unreadable.",
-      "path": "/p/fed-decision-market-watch/"
-    },
-    {
-      "change_id": "2026-09-27-evening-october-check",
-      "changed_at": "2026-09-27T19:03:00.000Z",
-      "summary": "Kalshi’s named October 25 bp-hike heading rose from 64% to 66% since 13:35 UTC; maintain rate held at 35%. Polymarket’s named 65% hike and 34% no-change rows were unchanged. CME’s live grid was unreadable.",
       "path": "/p/fed-decision-market-watch/"
     }
   ]
