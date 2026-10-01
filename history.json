@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:05fd82ed-66c0-494c-a14a-b11d810017cc",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-01T19:01:00Z",
+      "completed_at": "2026-10-01T19:07:11Z",
+      "title": "October hold rows jump to 75% before jobs data",
+      "summary": "At about 19:03 UTC, both direct event pages showed 75% hold/no change, up 10–11 points since 13:36 UTC; cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-01-evening-hold-jumps-to-75",
+      "entrypoint": "research/2026-10-01-evening-hold-jumps-to-75/index.html"
+    },
+    {
       "run_id": "run:414c127a-1e3c-490b-b960-7bae4a479b37",
       "status": "completed",
       "answer_change": "no_meaningful_change",

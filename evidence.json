@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-01-evening-hold-jumps-to-75-kalshi-oct1-evening",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "Chance headings: 75% Fed maintains rate, 25% Hike 25bps; selected hold order-entry odds label 76%.",
+      "accessed_at": "2026-10-01T19:03:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-01-evening-hold-jumps-to-75-polymarket-oct1-evening",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Named rows: 75% No change, 25% 25 bps increase; experimental AI narrative excluded.",
+      "accessed_at": "2026-10-01T19:03:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-01-evening-hold-jumps-to-75-jefferson-oct1",
+      "source_type": "official Federal Reserve speech",
+      "title": "Jefferson October 1 speech",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
+      "claim": "Future policy adjustments depend on data and risks; the speech page has no precise time.",
+      "accessed_at": "2026-10-01T19:03:35Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-01-evening-hold-jumps-to-75-bls-oct-calendar",
+      "source_type": "official calendar",
+      "title": "BLS October release schedule",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "claim": "September Employment Situation scheduled October 2 at 08:30 ET (12:30 UTC).",
+      "accessed_at": "2026-10-01T19:03:35Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-01-evening-hold-jumps-to-75-fed-oct-calendar",
+      "source_type": "official calendar",
+      "title": "FOMC calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "claim": "Next FOMC meeting October 27–28, 2026.",
+      "accessed_at": "2026-10-01T19:03:35Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
       "evidence_id": "2026-10-01-october-hold-still-leads-kalshi",
       "source_type": "prediction-market event page",
       "title": "Kalshi October Fed decision",

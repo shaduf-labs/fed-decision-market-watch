@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At October 1, 2026, 13:36 UTC page access, Kalshi’s October Chance headings showed 65% “Fed maintains rate” and 35% “Hike 25bps”; Polymarket’s separate named rows showed 64% “No change” and 36% “25 bps increase.” Hold/no change still led at both venues. Since September 30, 19:27 UTC, the named hold rows were unchanged and both named 25 bp-hike rows rose 2 percentage points. The next official checkpoint is the October 2 jobs report at 08:30 ET (12:30 UTC). CME’s live October grid remained unreadable.",
+  "current_answer": "At October 1, 2026, about 19:03 UTC page access, Kalshi’s October Chance headings showed 75% “Fed maintains rate” and 25% “Hike 25bps”; Polymarket’s separate named rows showed 75% “No change” and 25% “25 bps increase.” Since 13:36 UTC, the named hold rows rose 10 and 11 percentage points, respectively, while the named 25 bp-hike rows fell 10 and 11 points. These snapshots do not establish why. Fed Vice Chair Jefferson published conditional remarks on October 1, but the official page gives no precise speech time. BLS schedules the September jobs report for October 2 at 08:30 ET (12:30 UTC). CME’s live October grid remained unreadable.",
   "catalogue_card": {
-    "question": "Did October Fed hold odds change before jobs data?",
-    "text": "At the October 1, 13:36 UTC page check, Kalshi showed 65% hold and Polymarket 64% no change. Both named hold rows were unchanged since the prior evening; 25 bp-hike rows rose 2 points. The jobs report is due October 2."
+    "question": "Did October Fed hold odds jump again?",
+    "text": "At the October 1, about 19:03 UTC direct-page check, Kalshi and Polymarket each showed 75% for a hold/no change. Their named hold rows rose 10 and 11 points since 13:36 UTC; the cause is unproven."
   },
   "summary": [
-    "Kalshi October Chance headings at October 1, 13:36 UTC page access: 65% Fed maintains rate and 35% Hike 25bps; the named hold row was unchanged and the hike row rose 2 points since September 30, 19:27 UTC.",
-    "Polymarket October named rows at the same access time: 64% No change and 36% 25 bps increase; unchanged and up 2 points. Do not pool the venues.",
-    "Next official checkpoint: BLS September jobs report October 2 at 08:30 ET (12:30 UTC). CME’s live October FedWatch grid remained unreadable."
+    "Kalshi October Chance headings: 75% Fed maintains rate and 25% Hike 25bps at about 19:03 UTC October 1; +10 and −10 percentage points since 13:36 UTC.",
+    "Polymarket October named rows: 75% No change and 25% 25 bps increase; +11 and −11 points. Venues are not pooled.",
+    "Jefferson’s October 1 conditional remarks are context, not a proven cause. BLS September jobs report is scheduled October 2 at 08:30 ET (12:30 UTC)."
   ],
   "uncertainty": [
-    "Page access time is not a separate quote timestamp; prices between checks were not observed.",
-    "Named rounded rows are not a full distribution; the two venues are not pooled.",
-    "A community post attributes the prior move to PCE, but the sparse direct checks do not establish cause.",
-    "CME FedWatch’s current October grid and quote time remained unreadable."
+    "Page access is not a separate quote timestamp; the price path and cause between the two checks are unknown.",
+    "Rounded named outcomes are not a full probability distribution; Kalshi and Polymarket readings are not pooled.",
+    "The Jefferson speech page has no precise delivery or publication time; his views are not an FOMC decision.",
+    "CME FedWatch’s current October grid and quote time remain unreadable."
   ],
-  "checked_at": "2026-10-01T13:36:15Z",
-  "meaningfully_updated_at": "2026-09-30T13:36:00Z",
-  "freshness_note": "Direct Kalshi and Polymarket October pages accessed October 1, 2026 at 13:36 UTC; page access time is not a quote timestamp. CME’s live October grid was unreadable."
+  "checked_at": "2026-10-01T19:03:35Z",
+  "meaningfully_updated_at": "2026-10-01T19:03:35Z",
+  "freshness_note": "Direct Kalshi and Polymarket October pages accessed October 1, 2026 at about 19:03 UTC; page access is not a quote timestamp. CME’s live October grid was unreadable."
 }

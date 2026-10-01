@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-01-evening-hold-jumps-to-75",
+      "changed_at": "2026-10-01T19:03:35Z",
+      "summary": "Named October hold rows rose to 75% on Kalshi (+10 points) and Polymarket (+11 points) since 13:36 UTC; Jefferson’s remarks and the move cannot be causally linked.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-01-october-hold-still-leads",
       "changed_at": "2026-10-01T13:36:15Z",
       "summary": "Hold/no change still led at 65% on Kalshi and 64% on Polymarket. Both named hold rows were unchanged since the prior evening; both named 25 bp-hike rows rose 2 points.",
