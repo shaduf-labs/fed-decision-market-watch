@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-01-october-hold-still-leads",
+      "changed_at": "2026-10-01T13:36:15Z",
+      "summary": "Hold/no change still led at 65% on Kalshi and 64% on Polymarket. Both named hold rows were unchanged since the prior evening; both named 25 bp-hike rows rose 2 points.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-09-30-evening-october-hold-still-leads",
       "changed_at": "2026-09-30T19:27:40Z",
       "summary": "Hold/no change still led at 65% on Kalshi and 64% on Polymarket. Named rows changed by at most 2 points since midday; Williams’s conditional remarks do not establish a cause.",
@@ -23,12 +29,6 @@
       "change_id": "2026-09-29-october-contracts-little-changed",
       "changed_at": "2026-09-29T13:35:00.000Z",
       "summary": "Kalshi’s named October hike heading held at 70% while its hold heading rose to 30%; Polymarket remained 69% hike and 31% no change. CME’s live grid was unreadable.",
-      "path": "/p/fed-decision-market-watch/"
-    },
-    {
-      "change_id": "2026-09-28-evening-october-contract-check",
-      "changed_at": "2026-09-28T19:05:00.000Z",
-      "summary": "Kalshi’s named October hike and maintain-rate headings showed 70% and 29%; Polymarket’s named increase and no-change rows showed 69% and 31%. Both hike rows rose 3 points since 13:33 UTC; CME’s live grid remained unreadable.",
       "path": "/p/fed-decision-market-watch/"
     }
   ]

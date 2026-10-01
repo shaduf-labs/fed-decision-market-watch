@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:414c127a-1e3c-490b-b960-7bae4a479b37",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-01T13:31:00Z",
+      "completed_at": "2026-10-01T13:39:12Z",
+      "title": "October hold still leads before the jobs report",
+      "summary": "At 13:36 UTC, Kalshi showed 65% hold and Polymarket 64% no change. Both named hold rows were unchanged since the prior evening; the named 25 bp-hike rows rose 2 points.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-01-october-hold-still-leads",
+      "entrypoint": "research/2026-10-01-october-hold-still-leads/index.html"
+    },
+    {
       "run_id": "run:cd704f34-859f-4321-a21e-c112e709ef3b",
       "status": "completed",
       "answer_change": "no_meaningful_change",
