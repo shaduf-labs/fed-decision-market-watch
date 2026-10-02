@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:c57c1aac-602b-47bb-832a-988a70c20294",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-02T19:04:00Z",
+      "completed_at": "2026-10-02T19:16:19Z",
+      "title": "October hold still leads at 82%; Fed minutes come first",
+      "summary": "At about 19:06 UTC, both direct hold rows showed 82%, down 2 points since midday. The Fed calendar puts September FOMC minutes on October 7, before CPI.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-02-evening-hold-still-leads",
+      "entrypoint": "research/2026-10-02-evening-hold-still-leads/index.html"
+    },
+    {
       "run_id": "run:a1581955-4606-42ce-985d-7deb9ba85287",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-02-evening-fed-minutes-calendar",
+      "source_type": "official Federal Reserve events calendar",
+      "title": "Federal Reserve October 2026 events",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "claim": "September 15–16 FOMC minutes are scheduled for October 7, 2026 at 14:00 ET.",
+      "accessed_at": "2026-10-02T19:11:30Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-02-evening-bls-calendar",
+      "source_type": "official release calendar",
+      "title": "BLS October 2026 schedule",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "claim": "September CPI is scheduled for October 14, 2026 at 08:30 ET.",
+      "accessed_at": "2026-10-02T19:06:30Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-02-evening-logan",
+      "source_type": "official Federal Reserve Bank remarks",
+      "title": "Dallas Fed President Logan, October 1 remarks",
+      "source_url": "https://www.dallasfed.org/news/speeches/logan/2026/lkl261001",
+      "claim": "Logan estimated that additional tightening of at least 50 basis points would be needed over time, speaking for herself, not the Committee.",
+      "accessed_at": "2026-10-02T19:06:30Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-02-evening-polymarket",
+      "source_type": "event contract",
+      "title": "Polymarket October Fed decision event",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "At about 19:06 UTC page access, named rows showed 82% No change and 18% 25 bps increase.",
+      "accessed_at": "2026-10-02T19:06:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-02-evening-kalshi",
+      "source_type": "event contract",
+      "title": "Kalshi October Fed decision event",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "At about 19:06 UTC page access, Chance headings showed 82% maintain rate and 18% Hike 25bps; selected hold order-entry label was 83%.",
+      "accessed_at": "2026-10-02T19:06:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-02-jobs-report-hold-84-kalshi-oct2",
       "source_type": "prediction-market event page",
       "title": "Kalshi October Fed decision",
