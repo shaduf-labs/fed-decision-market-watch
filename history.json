@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:a1581955-4606-42ce-985d-7deb9ba85287",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-02T13:39:22Z",
+      "completed_at": "2026-10-02T13:47:10Z",
+      "title": "October hold rows reach 84% after jobs data",
+      "summary": "At about 13:40 UTC, both direct event pages showed 84% hold/no change, up 9 points since October 1 evening. BLS jobs data came between checks; cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-02-jobs-report-hold-84",
+      "entrypoint": "research/2026-10-02-jobs-report-hold-84/index.html"
+    },
+    {
       "run_id": "run:05fd82ed-66c0-494c-a14a-b11d810017cc",
       "status": "completed",
       "answer_change": "meaningful_change",

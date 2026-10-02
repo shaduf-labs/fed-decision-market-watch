@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-02-jobs-report-hold-84-kalshi-oct2",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "Chance headings: 84% Fed maintains rate, 17% Hike 25bps; selected hold order-entry label 85%.",
+      "accessed_at": "2026-10-02T13:40:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-02-jobs-report-hold-84-polymarket-oct2",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Named rows: 84% No change, 17% 25 bps increase; experimental AI narrative excluded.",
+      "accessed_at": "2026-10-02T13:40:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-02-jobs-report-hold-84-bls-september-jobs",
+      "source_type": "official economic release",
+      "title": "BLS September Employment Situation",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "claim": "September payrolls +29,000; unemployment 4.2%; July–August payroll revisions −60,000. Released October 2 at 08:30 ET.",
+      "accessed_at": "2026-10-02T13:40:15Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-02-jobs-report-hold-84-bls-oct-calendar",
+      "source_type": "official calendar",
+      "title": "BLS October calendar",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "claim": "September CPI scheduled October 14 at 08:30 ET.",
+      "accessed_at": "2026-10-02T13:40:15Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-02-jobs-report-hold-84-fed-oct-calendar",
+      "source_type": "official calendar",
+      "title": "FOMC calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "claim": "Next FOMC meeting October 27–28, 2026.",
+      "accessed_at": "2026-10-02T13:40:15Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-02-jobs-report-hold-84-cme-oct2",
+      "source_type": "futures-implied tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "Overview available; live October grid and quote time unreadable.",
+      "accessed_at": "2026-10-02T13:40:15Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-02-jobs-report-hold-84-polymarket-ai-limit",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket experimental AI narrative",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Narrative referred to September CPI before its scheduled October 14 release; excluded from evidence.",
+      "accessed_at": "2026-10-02T13:40:15Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-01-evening-hold-jumps-to-75-kalshi-oct1-evening",
       "source_type": "prediction-market event page",
       "title": "Kalshi October Fed decision",

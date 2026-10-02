@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-02-jobs-report-hold-84",
+      "changed_at": "2026-10-02T13:40:15Z",
+      "summary": "Named October hold rows rose to 84% on Kalshi and Polymarket, 9 points above the October 1 evening check. BLS September jobs data came between checks; cause unproven.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-01-evening-hold-jumps-to-75",
       "changed_at": "2026-10-01T19:03:35Z",
       "summary": "Named October hold rows rose to 75% on Kalshi (+10 points) and Polymarket (+11 points) since 13:36 UTC; Jefferson’s remarks and the move cannot be causally linked.",
