@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:989bd1bd-a264-4c5f-8fdc-3cda1f54ceda",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-03T13:31:00Z",
+      "completed_at": "2026-10-03T13:38:48Z",
+      "title": "October hold remains ahead after small venue moves",
+      "summary": "At 13:34 UTC, Kalshi showed 81% hold and Polymarket 83% no change. Both named hold rows moved just 1 point since October 2 evening; cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-03-october-hold-quiet-split",
+      "entrypoint": "research/2026-10-03-october-hold-quiet-split/index.html"
+    },
+    {
       "run_id": "run:c57c1aac-602b-47bb-832a-988a70c20294",
       "status": "completed",
       "answer_change": "meaningful_change",

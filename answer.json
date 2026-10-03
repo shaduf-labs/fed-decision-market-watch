@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At October 2, 2026, about 19:06 UTC page access, Kalshi’s October Chance headings showed 82% “Fed maintains rate” and 18% “Hike 25bps”; Polymarket’s separate named rows showed 82% “No change” and 18% “25 bps increase.” Since the direct checks about 13:40 UTC, each named hold row fell 2 percentage points and each named 25 bp-hike row rose 1 point. Hold remained the leading named outcome. Dallas Fed President Logan’s October 1 remarks favored at least 50 basis points of further tightening, but did not specify when or an October action and predated the September jobs report. The next scheduled policy record is the September FOMC minutes on October 7 at 14:00 ET (18:00 UTC), followed by September CPI on October 14. No cause for the small market-page changes is established; CME’s live October grid remains unreadable.",
+  "current_answer": "At October 3, 2026, 13:34:44–13:34:45 UTC page access, Kalshi’s October Chance headings showed 81% “Fed maintains rate” and 19% “Hike 25bps”; Polymarket’s separate named rows showed 83% “No change” and 18% “25 bps increase.” Since the October 2 evening check, the Kalshi hold heading fell 1 percentage point and its hike heading rose 1 point; Polymarket’s no-change row rose 1 point and its named increase row was unchanged. Hold remains the leading named outcome on each venue. BLS September jobs data preceded both checks, but the price path and cause are not established. September FOMC minutes are scheduled for October 7 at 14:00 ET (18:00 UTC), before September CPI on October 14. CME’s live October grid remains unreadable.",
   "catalogue_card": {
-    "question": "Did October Fed hold odds change again after the jobs report?",
-    "text": "At about 19:06 UTC on October 2, Kalshi and Polymarket each showed 82% on separate named hold rows, down 2 points since about 13:40 UTC. Hold still led; September FOMC minutes are due October 7."
+    "question": "Did October Fed hold odds change after Friday?",
+    "text": "At 13:34 UTC on October 3, Kalshi’s named hold heading showed 81% and Polymarket’s no-change row showed 83%. Both still led; each changed just 1 point since Friday evening. September FOMC minutes are due October 7."
   },
   "summary": [
-    "Kalshi October Chance headings: 82% Fed maintains rate and 18% Hike 25bps at about 19:06 UTC October 2; −2 and +1 percentage points since about 13:40 UTC.",
-    "Polymarket October named rows: 82% No change and 18% 25 bps increase at the same page-access check; −2 and +1 points. The venues are separate.",
-    "Logan’s October 1 remarks supported further tightening without specifying an October action. The September FOMC minutes are scheduled for October 7 at 14:00 ET; September CPI follows on October 14."
+    "Kalshi October Chance headings: 81% Fed maintains rate and 19% Hike 25bps at 13:34 UTC October 3; −1 and +1 percentage point since October 2 evening.",
+    "Polymarket October named rows: 83% No change and 18% 25 bps increase at the same page-access check; +1 and no change. Venues are separate.",
+    "BLS jobs data preceded both checks, but the cause of the row changes is unknown. September FOMC minutes are scheduled for October 7 at 14:00 ET."
   ],
   "uncertainty": [
-    "Page access is not a quote timestamp; the intraday price path and cause are unknown.",
-    "Rounded named outcomes are not a complete distribution; the venues are not pooled.",
-    "Logan’s October 1 remarks are her own and do not specify an October decision or explain the observed price change.",
+    "Page access is not quote time; the intervening price path and cause are unknown.",
+    "The venues have different contracts and rounded named rows; do not pool them or derive a residual.",
+    "Kalshi’s selected hold order-entry label differs from its Chance heading; only the heading is compared.",
     "CME FedWatch’s live October grid and quote time remain unreadable."
   ],
-  "checked_at": "2026-10-02T19:11:30Z",
+  "checked_at": "2026-10-03T13:34:45Z",
   "meaningfully_updated_at": "2026-10-02T19:11:30Z",
-  "freshness_note": "Direct Kalshi and Polymarket October pages accessed October 2, 2026 at about 19:06 UTC; page access is not a quote timestamp. CME live October grid unreadable."
+  "freshness_note": "Direct Kalshi and Polymarket October pages accessed October 3, 2026 at 13:34:44–13:34:45 UTC; page access is not quote time. CME live October grid unreadable."
 }

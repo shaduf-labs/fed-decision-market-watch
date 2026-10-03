@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-03-october-hold-quiet-split",
+      "changed_at": "2026-10-03T13:34:45Z",
+      "summary": "Kalshi’s named October hold heading showed 81% and Polymarket’s no-change row 83%; both still led after 1-point changes since October 2 evening. No cause established.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-02-evening-hold-still-leads",
       "changed_at": "2026-10-02T19:06:30Z",
       "summary": "Both direct October hold rows showed 82%, down 2 points since the afternoon check; hold still led. The Fed calendar identifies October 7 minutes as the next scheduled policy record.",
