@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-03-evening-october-hold-still-leads",
+      "changed_at": "2026-10-03T19:03:30Z",
+      "summary": "Kalshi’s October hold heading rose 3 points to 84% since midday, while Polymarket’s no-change row remained 83%; both still led. The reason for the Kalshi move is unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-03-october-hold-quiet-split",
       "changed_at": "2026-10-03T13:34:45Z",
       "summary": "Kalshi’s named October hold heading showed 81% and Polymarket’s no-change row 83%; both still led after 1-point changes since October 2 evening. No cause established.",
