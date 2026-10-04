@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:8d206772-ddea-48bc-9560-9a670a4c76cf",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-04T13:31:00Z",
+      "completed_at": "2026-10-04T13:37:38Z",
+      "title": "October hold still leads: Kalshi 82%, Polymarket 83%",
+      "summary": "At about 13:33 UTC, Kalshi showed 82% maintain rate, down 2 points since Saturday evening; Polymarket remained 83% No change. Cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-04-october-hold-sunday-check",
+      "entrypoint": "research/2026-10-04-october-hold-sunday-check/index.html"
+    },
+    {
       "run_id": "run:e034c61a-b358-4a1c-ba53-3a0846641d8e",
       "status": "completed",
       "answer_change": "no_meaningful_change",

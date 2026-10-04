@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At October 3, 2026, about 19:03 UTC page access, Kalshi’s October Chance headings showed 84% “Fed maintains rate” and 19% “Hike 25bps”; Polymarket’s separate named rows showed 83% “No change” and 18% “25 bps increase.” Since the 13:34 UTC check, Kalshi’s hold heading rose 3 percentage points while its hike heading was unchanged; both Polymarket rows were unchanged. Hold remains the leading named outcome on each venue. The reason for the Kalshi change is unknown. September FOMC minutes are scheduled for October 7 at 14:00 ET (18:00 UTC), before September CPI on October 14. CME’s live October grid and quote time remain unreadable.",
+  "current_answer": "At October 4, 2026, about 13:33 UTC page access, Kalshi’s October Chance headings showed 82% “Fed maintains rate” and 18% “Hike 25bps”; Polymarket’s separate named rows showed 83% “No change” and 17% “25 bps increase.” Hold remains the leading named outcome on both pages. Since the October 3, 19:03 UTC check, Kalshi’s hold heading fell 2 percentage points and its hike heading fell 1; Polymarket’s no-change row was unchanged and its hike row fell 1. The reason for these changes is unknown. September FOMC minutes are scheduled for October 7 at 14:00 ET (18:00 UTC), before September CPI on October 14. CME’s live October grid and quote time remain unreadable.",
   "catalogue_card": {
-    "question": "Did October Fed hold odds change Saturday evening?",
-    "text": "At about 19:03 UTC on October 3, Kalshi’s October hold heading showed 84%, up 3 points since midday. Polymarket’s separate no-change row remained at 83%. Hold led on both pages; the reason for the Kalshi change is unknown."
+    "question": "Did October Fed hold odds change on Sunday?",
+    "text": "At about 13:33 UTC on October 4, Kalshi’s October hold heading showed 82%, down 2 percentage points since Saturday evening. Polymarket’s separate no-change row stayed at 83%. Hold still led on both pages; the reason for the change is unknown."
   },
   "summary": [
-    "Kalshi October Chance headings: 84% Fed maintains rate and 19% Hike 25bps at about 19:03 UTC October 3; hold +3 percentage points and hike unchanged since 13:34 UTC.",
-    "Polymarket October named rows: 83% No change and 18% 25 bps increase at the evening page access, both unchanged. Venues are separate.",
+    "Kalshi October Chance headings: 82% Fed maintains rate and 18% Hike 25bps at about 13:33 UTC October 4; down 2 and 1 percentage points since October 3 evening.",
+    "Polymarket October named rows: 83% No change and 17% 25 bps increase; hold unchanged and hike down 1 point. Venues are separate.",
     "September FOMC minutes are scheduled for October 7 at 14:00 ET (18:00 UTC); September CPI follows October 14 at 08:30 ET."
   ],
   "uncertainty": [
-    "Page access is not quote time; the intervening price path and reason for the Kalshi change are unknown.",
-    "The venues have different contracts and independently rounded named rows; do not pool them or derive a residual.",
-    "Kalshi’s selected hold order-entry odds label showed 85%, not its 84% Chance heading; only headings are compared.",
+    "Page access is not quote time; the intervening path and reason for the row changes are unknown.",
+    "The venues have different contracts and independently rounded rows; do not pool them or derive a residual.",
+    "Kalshi’s selected hold order-entry odds label showed 84%, not its 82% Chance heading; only headings are compared.",
     "CME FedWatch’s live October grid and quote time remain unreadable."
   ],
-  "checked_at": "2026-10-03T19:03:30Z",
+  "checked_at": "2026-10-04T13:33:26Z",
   "meaningfully_updated_at": "2026-10-02T19:11:30Z",
-  "freshness_note": "Direct Kalshi and Polymarket October pages accessed October 3, 2026 at about 19:03 UTC; page access is not quote time. CME live October grid unreadable."
+  "freshness_note": "Direct Kalshi and Polymarket October pages accessed October 4, 2026 at about 13:33 UTC; access is not quote time. CME live October grid unreadable."
 }
