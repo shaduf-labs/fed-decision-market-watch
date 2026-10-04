@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:cbfc60ec-e331-4fa8-a244-684be6853c33",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-04T19:01:00Z",
+      "completed_at": "2026-10-04T19:09:55Z",
+      "title": "October hold still leads: Kalshi and Polymarket show 83%",
+      "summary": "At about 19:05 UTC, Kalshi’s October hold heading reached 83%, up 1 point since midday; Polymarket stayed at 83%. Cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-04-evening-october-hold-check",
+      "entrypoint": "research/2026-10-04-evening-october-hold-check/index.html"
+    },
+    {
       "run_id": "run:8d206772-ddea-48bc-9560-9a670a4c76cf",
       "status": "completed",
       "answer_change": "no_meaningful_change",

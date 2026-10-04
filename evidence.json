@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-04-evening-october-hold-check-cme",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "The page identifies a futures-implied method but the October grid and quote time were unreadable in this check.",
+      "accessed_at": "2026-10-04T19:05:50Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-04-evening-october-hold-check-bls",
+      "source_type": "official BLS release calendar",
+      "title": "BLS CPI release schedule",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "claim": "September CPI scheduled October 14 at 08:30 ET.",
+      "accessed_at": "2026-10-04T19:05:50Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-04-evening-october-hold-check-fed",
+      "source_type": "official Federal Reserve events calendar",
+      "title": "Federal Reserve October 2026 events",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "claim": "September FOMC minutes scheduled October 7 at 14:00 ET.",
+      "accessed_at": "2026-10-04T19:05:50Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-04-evening-october-hold-check-polymarket",
+      "source_type": "event-contract page",
+      "title": "Polymarket October Fed decision",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Named rows showed 83% No change and 17% 25 bps increase at about 19:05 UTC October 4.",
+      "accessed_at": "2026-10-04T19:05:50Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-04-evening-october-hold-check-kalshi",
+      "source_type": "event-contract page",
+      "title": "Kalshi October Fed decision",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "Chance headings showed 83% maintain rate and 18% Hike 25bps at about 19:05 UTC October 4; selected hold order-entry odds label showed 84%.",
+      "accessed_at": "2026-10-04T19:05:50Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-04-october-hold-sunday-check-kalshi",
       "source_type": "event-contract page",
       "title": "Kalshi October Fed decision",
