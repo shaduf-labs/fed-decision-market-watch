@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:ebcd9082-5140-4c4c-a322-fb3453de67a6",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-05T19:01:00Z",
+      "completed_at": "2026-10-05T19:11:10Z",
+      "title": "October hold rows fall four points; hold still leads",
+      "summary": "Both named October hold rows fell 4 points since the afternoon check, to 78% Kalshi and 79% Polymarket. Cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-05-evening-hold-falls-four-points",
+      "entrypoint": "research/2026-10-05-evening-hold-falls-four-points/index.html"
+    },
+    {
       "run_id": "run:d0a8a91a-02e8-4bfc-af55-ec92b236f768",
       "status": "completed",
       "answer_change": "no_meaningful_change",
