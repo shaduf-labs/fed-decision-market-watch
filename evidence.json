@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-05-october-hold-small-kalshi-move-kalshi",
+      "source_type": "event-contract page",
+      "title": "Kalshi October Fed decision",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "Chance headings showed 82% maintain rate and 18% Hike 25bps at about 13:37 UTC October 5.",
+      "accessed_at": "2026-10-05T13:37:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-05-october-hold-small-kalshi-move-polymarket",
+      "source_type": "event-contract page",
+      "title": "Polymarket October Fed decision",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Named rows showed 83% No change and 17% 25 bps increase at about 13:37 UTC October 5.",
+      "accessed_at": "2026-10-05T13:37:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-05-october-hold-small-kalshi-move-fed",
+      "source_type": "official Federal Reserve events calendar",
+      "title": "Federal Reserve October 2026 events",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "claim": "September FOMC minutes scheduled October 7 at 14:00 ET.",
+      "accessed_at": "2026-10-05T13:37:30Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-05-october-hold-small-kalshi-move-bls",
+      "source_type": "official BLS release calendar",
+      "title": "BLS October 2026 releases",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "claim": "September CPI scheduled October 14 at 08:30 ET.",
+      "accessed_at": "2026-10-05T13:37:30Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-05-october-hold-small-kalshi-move-cme",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "Live October grid and quote time were unreadable in this check.",
+      "accessed_at": "2026-10-05T13:37:30Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-04-evening-october-hold-check-cme",
       "source_type": "futures-implied probability tool",
       "title": "CME FedWatch",

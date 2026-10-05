@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 19:05 UTC on October 4, 2026, Kalshi’s October Chance headings showed 83% “Fed maintains rate” and 18% “Hike 25bps”; Polymarket’s separate named rows showed 83% “No change” and 17% “25 bps increase.” Hold remained the leading named outcome on both pages. Since the 13:33 UTC check, Kalshi’s hold heading rose 1 percentage point; the other three named rows did not change. The reason for the small move is unknown. September FOMC minutes are scheduled for October 7 at 14:00 ET (18:00 UTC), before September CPI on October 14. CME’s live October futures-implied grid and quote time remain unreadable.",
+  "current_answer": "At about 13:37 UTC on October 5, 2026, Kalshi’s October Chance headings showed 82% “Fed maintains rate” and 18% “Hike 25bps”; Polymarket’s separate named rows showed 83% “No change” and 17% “25 bps increase.” Hold still led on both event pages. Since the October 4, 19:05 UTC check, Kalshi’s hold heading fell 1 percentage point; the other three named rows were unchanged. The reason and path of that move are unknown. The Fed schedules September FOMC minutes for October 7 at 14:00 ET (18:00 UTC), followed by September CPI on October 14 at 08:30 ET (12:30 UTC). CME’s live October futures-implied grid and quote time remain unreadable.",
   "catalogue_card": {
-    "question": "Did October Fed hold odds change Sunday evening?",
-    "text": "At about 19:05 UTC on October 4, both Kalshi’s hold heading and Polymarket’s separate no-change row showed 83%. Kalshi rose 1 percentage point since midday; Polymarket did not move. Hold still led, and the cause is unknown."
+    "question": "Did October Fed hold odds change Monday?",
+    "text": "At about 13:37 UTC on October 5, Kalshi’s October hold Chance heading was 82%, down 1 point since Sunday evening. Polymarket’s separate no-change row stayed at 83%. Hold still leads; the reason for the small Kalshi move is unknown."
   },
   "summary": [
-    "Kalshi October Chance headings: 83% Fed maintains rate and 18% Hike 25bps at about 19:05 UTC October 4; hold up 1 percentage point since midday, hike unchanged.",
-    "Polymarket October named rows: 83% No change and 17% 25 bps increase; both unchanged since midday. Venues are separate.",
+    "Kalshi October Chance headings: 82% Fed maintains rate and 18% Hike 25bps at about 13:37 UTC October 5; hold down 1 percentage point since Sunday evening.",
+    "Polymarket October named rows: 83% No change and 17% 25 bps increase; both unchanged since Sunday evening. Venues are separate.",
     "September FOMC minutes are scheduled for October 7 at 14:00 ET (18:00 UTC); September CPI follows October 14 at 08:30 ET (12:30 UTC)."
   ],
   "uncertainty": [
-    "Page access is not quote time; the intervening path and reason for the one-point Kalshi change are unknown.",
-    "The venues have different contracts and independently rounded rows; do not pool them or derive a residual.",
-    "Kalshi’s selected hold order-entry odds label showed 84%, not its 83% Chance heading; only Chance headings are compared.",
+    "Page access is not quote time; the intraday path and reason for Kalshi’s one-point change are unknown.",
+    "The venues use separate contracts and rounded rows; do not average them or derive a residual.",
+    "Kalshi’s selected hold order-entry odds label showed 84%, unlike its 82% Chance heading; only Chance headings are compared.",
     "CME FedWatch’s live October grid and quote time remain unreadable."
   ],
-  "checked_at": "2026-10-04T19:05:50Z",
+  "checked_at": "2026-10-05T13:37:30Z",
   "meaningfully_updated_at": "2026-10-02T19:11:30Z",
-  "freshness_note": "Direct Kalshi and Polymarket October pages accessed October 4, 2026 at about 19:05 UTC; access is not quote time. CME live October grid unreadable."
+  "freshness_note": "Direct Kalshi and Polymarket October pages accessed October 5, 2026 at about 13:37 UTC; access is not quote time. CME live October grid unreadable."
 }

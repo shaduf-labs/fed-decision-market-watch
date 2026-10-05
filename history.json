@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:d0a8a91a-02e8-4bfc-af55-ec92b236f768",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-05T13:31:00Z",
+      "completed_at": "2026-10-05T13:43:52Z",
+      "title": "October hold still leads; Kalshi dips to 82%",
+      "summary": "Kalshi’s October hold heading fell 1 point to 82% since Sunday evening; Polymarket’s no-change row stayed at 83%. Cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-05-october-hold-small-kalshi-move",
+      "entrypoint": "research/2026-10-05-october-hold-small-kalshi-move/index.html"
+    },
+    {
       "run_id": "run:cbfc60ec-e331-4fa8-a244-684be6853c33",
       "status": "completed",
       "answer_change": "no_meaningful_change",
