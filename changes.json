@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-06-evening-hold-still-leads",
+      "changed_at": "2026-10-06T19:04:12Z",
+      "summary": "Named October hold rows rose 1 point to 82% on Kalshi and 83% on Polymarket since the afternoon check. Hold still led; cause unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-06-october-hold-above-80",
       "changed_at": "2026-10-06T13:36:21Z",
       "summary": "Named October hold rows rose 3 points to 81% on Kalshi and 82% on Polymarket since October 5 evening. Hold still led; cause unknown.",

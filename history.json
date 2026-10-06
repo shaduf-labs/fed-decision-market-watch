@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:de282df8-3b3e-4156-8901-0ebecfd00281",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-06T19:01:00Z",
+      "completed_at": "2026-10-06T19:06:08.092Z",
+      "title": "October hold still leads; both named rows edge up one point",
+      "summary": "Kalshi hold heading reached 82% and Polymarket No change 83%, each up one point since midday. Cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-06-evening-hold-still-leads",
+      "entrypoint": "research/2026-10-06-evening-hold-still-leads/index.html"
+    },
+    {
       "run_id": "run:d3c7fde3-a790-4458-9ad9-792cf94e565c",
       "status": "completed",
       "answer_change": "no_meaningful_change",
