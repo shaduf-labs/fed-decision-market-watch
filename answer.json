@@ -1,24 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 19:08 UTC on October 5, 2026, Kalshi’s October Chance headings showed 78% “Fed maintains rate” and 22% “Hike 25bps”; Polymarket’s separate named rows showed 79% “No change” and 21% “25 bps increase.” Each named hold row fell 4 percentage points since the October 5, 13:37 UTC check, while each named 25 bp-hike row rose 4 points. Hold still led on both pages. The move’s cause and path between checks are unknown. The Fed schedules September FOMC minutes for October 7 at 14:00 ET (18:00 UTC), and BLS schedules September CPI for October 14 at 08:30 ET (12:30 UTC). CME’s live October futures-implied grid remains unreadable.",
+  "current_answer": "At about 13:36 UTC on October 6, 2026, Kalshi’s October Chance headings showed 81% “Fed maintains rate” and 18% “Hike 25bps”; Polymarket’s separate named rows showed 82% “No change” and 18% “25 bps increase.” Since the October 5, 19:08 UTC check, the named hold rows rose 3 points on each page; Kalshi’s hike row fell 4 points and Polymarket’s fell 3. Hold still leads. The intervening path and cause are unknown. September FOMC minutes are scheduled for October 7 at 14:00 ET (18:00 UTC), with September CPI on October 14 at 08:30 ET (12:30 UTC). CME’s live October futures-implied grid remains unreadable.",
   "catalogue_card": {
-    "question": "Did October Fed hold odds fall Monday evening?",
-    "text": "At about 19:08 UTC October 5, Kalshi’s October hold Chance heading was 78% and Polymarket’s no-change row was 79%, each down 4 points since 13:37 UTC. Hold still leads on both pages; the cause is unknown."
+    "question": "Does the October Fed hold still lead?",
+    "text": "At about 13:36 UTC October 6, Kalshi’s named hold heading was 81% and Polymarket’s separate no-change row was 82%, each up 3 points since the previous evening. The move’s cause is unknown; September FOMC minutes are due October 7."
   },
   "summary": [
-    "Kalshi October Chance headings at about 19:08 UTC October 5: 78% Fed maintains rate, 22% Hike 25bps; hold down 4 percentage points since 13:37 UTC.",
-    "Polymarket October named rows: 79% No change, 21% 25 bps increase; hold down 4 percentage points. Venues are separate.",
+    "Kalshi October Chance headings at about 13:36 UTC October 6: 81% Fed maintains rate, 18% Hike 25bps; hold up 3 points since October 5 evening.",
+    "Polymarket October named rows: 82% No change, 18% 25 bps increase; hold up 3 points. Venues are separate.",
     "September FOMC minutes are scheduled for October 7 at 14:00 ET (18:00 UTC); September CPI follows October 14 at 08:30 ET (12:30 UTC)."
   ],
   "uncertainty": [
-    "Page access at about 19:08 UTC is not a quote timestamp; the intraday path and cause of the move are unknown.",
+    "Page access at about 13:36 UTC is not a quote timestamp; the overnight path and cause are unknown.",
     "Kalshi Chance headings and Polymarket named rows are separate rounded contract displays. Do not average them or derive a residual.",
-    "Kalshi’s selected hold order-entry odds label was 80%, different from its 78% Chance heading.",
-    "CME FedWatch’s live October futures-implied grid and quote time remain unreadable.",
+    "Kalshi’s selected hold order-entry odds label was 84%, distinct from its 81% Chance heading.",
+    "Polymarket’s experimental AI summary is not evidence of the price move’s cause.",
+    "CME FedWatch’s live October grid and quote time remain unreadable.",
     "First-party analytics and direct reader-task evidence are unavailable."
   ],
-  "checked_at": "2026-10-05T19:08:07Z",
+  "checked_at": "2026-10-06T13:36:21Z",
   "meaningfully_updated_at": "2026-10-05T19:08:07Z",
-  "freshness_note": "Direct Kalshi and Polymarket October pages accessed October 5, 2026 at about 19:08 UTC; access is not quote time. CME live October grid unreadable."
+  "freshness_note": "Direct Kalshi and Polymarket October pages accessed October 6, 2026 at about 13:36 UTC; access is not quote time. CME live October grid unreadable."
 }

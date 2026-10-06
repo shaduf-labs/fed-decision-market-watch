@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:d3c7fde3-a790-4458-9ad9-792cf94e565c",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-06T13:31:00Z",
+      "completed_at": "2026-10-06T13:40:14Z",
+      "title": "October hold still leads above 80% on two event pages",
+      "summary": "Named hold rows rose 3 points to 81% on Kalshi and 82% on Polymarket since October 5 evening. Cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-06-october-hold-above-80",
+      "entrypoint": "research/2026-10-06-october-hold-above-80/index.html"
+    },
+    {
       "run_id": "run:ebcd9082-5140-4c4c-a322-fb3453de67a6",
       "status": "completed",
       "answer_change": "meaningful_change",
