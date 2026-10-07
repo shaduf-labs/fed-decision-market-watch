@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:4dced50c-8986-4457-8fed-314df9c731db",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-07T13:31:00Z",
+      "completed_at": "2026-10-07T13:37:49Z",
+      "title": "Before today’s minutes, October hold still leads",
+      "summary": "Kalshi hold heading rose one point to 83% since last evening; Polymarket No change stayed at 83%. The minutes are scheduled for 18:00 UTC.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-07-before-minutes-hold-still-leads",
+      "entrypoint": "research/2026-10-07-before-minutes-hold-still-leads/index.html"
+    },
+    {
       "run_id": "run:de282df8-3b3e-4156-8901-0ebecfd00281",
       "status": "completed",
       "answer_change": "no_meaningful_change",

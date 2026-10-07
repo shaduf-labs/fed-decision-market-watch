@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-07-before-minutes-hold-still-leads-kalshi",
+      "source_type": "event-contract page",
+      "title": "Kalshi October Fed decision",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "Chance headings: 83% maintain rate, 17% Hike 25bps at about 13:35 UTC October 7.",
+      "accessed_at": "2026-10-07T13:35:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-07-before-minutes-hold-still-leads-polymarket",
+      "source_type": "event-contract page",
+      "title": "Polymarket October Fed decision",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Named rows: 83% No change, 17% 25 bps increase at about 13:35 UTC October 7.",
+      "accessed_at": "2026-10-07T13:35:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-07-before-minutes-hold-still-leads-fed",
+      "source_type": "official Federal Reserve calendar",
+      "title": "Fed October 2026 events",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "claim": "September FOMC minutes scheduled October 7 at 14:00 ET; next meeting October 27–28.",
+      "accessed_at": "2026-10-07T13:35:05Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-07-before-minutes-hold-still-leads-bls",
+      "source_type": "official BLS calendar",
+      "title": "BLS October 2026 releases",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "claim": "September CPI scheduled October 14 at 08:30 ET.",
+      "accessed_at": "2026-10-07T13:35:05Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-07-before-minutes-hold-still-leads-cme",
+      "source_type": "futures-implied probability tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "Live October grid and quote time unreadable at check.",
+      "accessed_at": "2026-10-07T13:35:05Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-06-evening-hold-still-leads-kalshi",
       "source_type": "event-contract page",
       "title": "Kalshi October Fed decision",
