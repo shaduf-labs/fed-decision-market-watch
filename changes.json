@@ -2,6 +2,24 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-08-evening-october-hold-still-leads",
+      "changed_at": "2026-10-08T19:06:30Z",
+      "summary": "Kalshi October maintain-rate Chance heading rose 1 point to 83% since midday; Polymarket No change stayed at 84%. Hold still leads, with no supported cause for the small move.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
+      "change_id": "2026-10-08-october-hold-quiet-check",
+      "changed_at": "2026-10-08T13:35:13Z",
+      "summary": "Kalshi October maintain-rate Chance heading fell 1 point to 82%; Polymarket No change stayed at 84%. Both still favor a hold, with no supported cause for the small changes.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
+      "change_id": "2026-10-07-after-minutes-october-hold-leads",
+      "changed_at": "2026-10-07T19:06:38Z",
+      "summary": "After the September FOMC minutes, Kalshi October maintain-rate stayed at 83% and Polymarket No change rose 1 point to 84%. The minutes discuss another hike by year-end, not an October commitment.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-07-before-minutes-hold-still-leads",
       "changed_at": "2026-10-07T13:35:05Z",
       "summary": "Before the scheduled September FOMC minutes, Kalshi’s October hold heading rose 1 point to 83% since last evening; Polymarket No change stayed at 83%. Hold still led; cause unknown.",

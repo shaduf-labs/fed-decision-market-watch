@@ -2,6 +2,39 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:050ec7de-e872-4a08-bae5-2bdd2f60d935",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-08T19:01:00Z",
+      "completed_at": "2026-10-08T19:08:55Z",
+      "title": "October hold still leads at both venues",
+      "summary": "Kalshi October maintain-rate Chance heading rose 1 point to 83%; Polymarket No change remained 84%. Both still favor a hold.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-08-evening-october-hold-still-leads",
+      "entrypoint": "research/2026-10-08-evening-october-hold-still-leads/index.html"
+    },
+    {
+      "run_id": "run:4a044f51-33a1-4ce8-a149-fe654df68afa",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-08T13:31:00Z",
+      "completed_at": "2026-10-08T13:36:59Z",
+      "title": "October hold still leads; small moves since last check",
+      "summary": "Kalshi October maintain-rate Chance heading fell 1 point to 82%; Polymarket No change stayed at 84%. Both still favor a hold.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-08-october-hold-quiet-check",
+      "entrypoint": "research/2026-10-08-october-hold-quiet-check/index.html"
+    },
+    {
+      "run_id": "run:ae462307-67af-4116-96b7-c99ec2ecf861",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-07T19:01:00Z",
+      "completed_at": "2026-10-07T19:09:06Z",
+      "title": "Minutes point to another 2026 hike; October hold still leads",
+      "summary": "Kalshi October hold stayed at 83%; Polymarket No change rose 1 point to 84% after the minutes release. The minutes describe a possible hike by year-end, not an October commitment.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-07-after-minutes-october-hold-leads",
+      "entrypoint": "research/2026-10-07-after-minutes-october-hold-leads/index.html"
+    },
+    {
       "run_id": "run:4dced50c-8986-4457-8fed-314df9c731db",
       "status": "completed",
       "answer_change": "no_meaningful_change",
