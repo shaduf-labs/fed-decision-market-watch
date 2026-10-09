@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:28d20e28-25ab-4c15-9c2a-4f9cf513c000",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-09T13:31:00Z",
+      "completed_at": "2026-10-09T13:35:30Z",
+      "title": "October hold still leads; Waller says hikes need not be consecutive",
+      "summary": "Both direct October hold rows reached 85%; Waller said further hikes need not be consecutive. The price move’s cause is unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-09-waller-says-hikes-need-not-be-consecutive",
+      "entrypoint": "research/2026-10-09-waller-says-hikes-need-not-be-consecutive/index.html"
+    },
+    {
       "run_id": "run:050ec7de-e872-4a08-bae5-2bdd2f60d935",
       "status": "completed",
       "answer_change": "no_meaningful_change",

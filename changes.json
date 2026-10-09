@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-09-waller-says-hikes-need-not-be-consecutive",
+      "changed_at": "2026-10-09T13:33:35Z",
+      "summary": "Both named October hold rows reached 85% in direct page checks. Waller said additional hikes need not occur at consecutive meetings; no price cause is established.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-08-evening-october-hold-still-leads",
       "changed_at": "2026-10-08T19:06:30Z",
       "summary": "Kalshi October maintain-rate Chance heading rose 1 point to 83% since midday; Polymarket No change stayed at 84%. Hold still leads, with no supported cause for the small move.",

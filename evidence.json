@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-09-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "title": "CME FedWatch",
+      "claim": "Live October grid and quote time not directly readable.",
+      "source_type": "futures-implied tool",
+      "accessed_at": "2026-10-09T13:33:35Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-09-fed",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "title": "Federal Reserve October calendar",
+      "claim": "FOMC meeting scheduled October 27–28, 2026.",
+      "source_type": "official calendar",
+      "accessed_at": "2026-10-09T13:33:35Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-09-bls",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "title": "BLS CPI schedule",
+      "claim": "September CPI scheduled October 14, 2026, at 08:30 ET.",
+      "source_type": "official calendar",
+      "accessed_at": "2026-10-09T13:33:35Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-09-waller",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
+      "title": "Governor Waller October 8 speech",
+      "claim": "Waller conditionally anticipated further hikes, but said they need not come at consecutive meetings; views are his own.",
+      "source_type": "official speech",
+      "accessed_at": "2026-10-09T13:33:35Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-09-polymarket",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "title": "Polymarket October Fed decision",
+      "claim": "Named rows: 85% No change, up 1 point; 16% 25 bps increase, unchanged.",
+      "source_type": "event-contract page",
+      "accessed_at": "2026-10-09T13:33:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-09-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "title": "Kalshi October Fed decision",
+      "claim": "Chance headings: 85% maintain rate, up 2 points since October 8 evening; 17% Hike 25bps, up 1 point.",
+      "source_type": "event-contract page",
+      "accessed_at": "2026-10-09T13:33:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-08-evening-kalshi",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
       "title": "Kalshi October Fed decision",
