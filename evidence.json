@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-09-evening-fed",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "title": "Federal Reserve October calendar",
+      "claim": "FOMC meeting scheduled October 27–28, 2026.",
+      "source_type": "official calendar",
+      "accessed_at": "2026-10-09T19:05:51Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-09-evening-bls",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "title": "BLS CPI schedule",
+      "claim": "September CPI scheduled October 14, 2026 at 08:30 ET.",
+      "source_type": "official calendar",
+      "accessed_at": "2026-10-09T19:05:51Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-09-evening-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "title": "CME FedWatch",
+      "claim": "Live October grid and quote time not directly readable.",
+      "source_type": "futures-implied tool",
+      "accessed_at": "2026-10-09T19:05:51Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-09-evening-polymarket",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "title": "Polymarket October Fed decision",
+      "claim": "Named rows: 84% No change and 16% 25 bps increase, down 1 point and unchanged since midday.",
+      "source_type": "event-contract page",
+      "accessed_at": "2026-10-09T19:05:51Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-09-evening-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "title": "Kalshi October Fed decision",
+      "claim": "Chance headings: 83% maintain rate and 16% Hike 25bps, down 2 and 1 points since midday.",
+      "source_type": "event-contract page",
+      "accessed_at": "2026-10-09T19:05:51Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-09-cme",
       "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
       "title": "CME FedWatch",

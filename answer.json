@@ -1,26 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 13:33 UTC on October 9, 2026, Kalshi’s October Chance headings showed 85% “Fed maintains rate” and 17% “Hike 25bps”; Polymarket’s separate named rows showed 85% “No change” and 16% “25 bps increase.” Both still favor a hold. Since the October 8 evening check, the named hold rows rose 2 and 1 percentage points respectively. In an October 8 speech, Governor Waller said further hikes need not occur at consecutive meetings; his view is not a Committee commitment. September CPI is scheduled for October 14. CME’s live October futures-implied grid remains unreadable.",
+  "current_answer": "At about 19:05 UTC on October 9, 2026, Kalshi’s October Chance headings showed 83% “Fed maintains rate” and 16% “Hike 25bps”; Polymarket’s separate named rows showed 84% “No change” and 16% “25 bps increase.” Both still favor a hold. Since the 13:33 UTC check, the named hold rows fell 2 and 1 percentage points, respectively; neither venue’s named 25-basis-point hike row became the leader. The checks do not establish a cause. September CPI is scheduled for October 14 at 08:30 ET (12:30 UTC). CME’s live October futures-implied grid remains unreadable.",
   "catalogue_card": {
-    "question": "Does a possible year-end hike mean October?",
-    "text": "No commitment to October: Governor Waller said on October 8 that further hikes need not occur at consecutive meetings. Direct October event pages accessed about 13:33 UTC October 9 still favored a hold at 85% on each venue’s named hold row."
+    "question": "Did the October hold lead change?",
+    "text": "No. At about 19:05 UTC October 9, Kalshi’s October maintain-rate Chance heading showed 83% and Polymarket’s separate No change row 84%. Both fell since midday, but still lead. September CPI is scheduled for October 14."
   },
   "summary": [
-    "Kalshi October Chance headings: 85% maintain rate, up 2 percentage points since October 8 evening; 17% Hike 25bps, up 1 point.",
-    "Polymarket October named rows: 85% No change, up 1 point; 16% 25 bps increase, unchanged.",
-    "Waller said further hikes need not be consecutive; this is his conditional view, not a Committee decision.",
+    "Kalshi October Chance headings: 83% maintain rate, down 2 percentage points since 13:33 UTC; 16% Hike 25bps, down 1 point.",
+    "Polymarket October named rows: 84% No change, down 1 point since 13:33 UTC; 16% 25 bps increase, unchanged.",
+    "The leading outcome is unchanged. The checks do not establish a cause.",
     "Next official data test: September CPI on October 14 at 08:30 ET (12:30 UTC)."
   ],
   "uncertainty": [
-    "Page access at about 13:33 UTC is not quote time; intervening price paths and causes are unknown.",
-    "Kalshi Chance headings and Polymarket named rows are separate rounded displays; do not total, pool or infer residuals.",
-    "Kalshi’s selected hold order-entry odds label was 86%, distinct from its 85% Chance heading.",
-    "Waller speaks for himself; neither his remarks nor the September minutes commit the Committee to an October outcome.",
+    "Page access at about 19:05 UTC is not a quote timestamp; the intervening path and cause are unknown.",
+    "Kalshi Chance headings and Polymarket named rows are separate rounded displays; do not total or pool them.",
+    "Kalshi’s selected hold order-entry odds label was 85%, distinct from its 83% Chance heading.",
     "CME FedWatch’s live October grid and quote time remain unreadable.",
     "First-party analytics and direct reader-task evidence are unavailable."
   ],
-  "checked_at": "2026-10-09T13:33:35Z",
+  "checked_at": "2026-10-09T19:05:51Z",
   "meaningfully_updated_at": "2026-10-09T13:33:35Z",
-  "freshness_note": "Direct October event pages accessed about 13:33 UTC October 9. Page access is not quote time; CME live October grid unreadable."
+  "freshness_note": "Direct October event pages accessed about 19:05 UTC October 9. Page access is not quote time; CME live October grid unreadable."
 }

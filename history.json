@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:8978f08d-e291-406d-b404-d55a5bae83f2",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-09T19:01:00Z",
+      "completed_at": "2026-10-09T19:08:02Z",
+      "title": "October hold still leads after small evening declines",
+      "summary": "Kalshi’s maintain-rate Chance heading fell to 83% and Polymarket’s no-change row to 84%; both still lead. Cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-09-evening-october-hold-still-leads",
+      "entrypoint": "research/2026-10-09-evening-october-hold-still-leads/index.html"
+    },
+    {
       "run_id": "run:28d20e28-25ab-4c15-9c2a-4f9cf513c000",
       "status": "completed",
       "answer_change": "meaningful_change",

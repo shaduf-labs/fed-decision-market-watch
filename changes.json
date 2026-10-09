@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-09-evening-october-hold-still-leads",
+      "changed_at": "2026-10-09T19:05:51Z",
+      "summary": "Kalshi’s October maintain-rate Chance heading fell 2 points to 83% and Polymarket’s no-change row fell 1 point to 84% since midday. Both still lead; cause unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-09-waller-says-hikes-need-not-be-consecutive",
       "changed_at": "2026-10-09T13:33:35Z",
       "summary": "Both named October hold rows reached 85% in direct page checks. Waller said additional hikes need not occur at consecutive meetings; no price cause is established.",
