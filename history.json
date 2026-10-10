@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:62d93eee-697c-4dcf-a458-ffab7b5e39a2",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-10T14:31:20Z",
+      "completed_at": "2026-10-10T14:33:17Z",
+      "title": "October hold still leads before CPI",
+      "summary": "Kalshi’s maintain-rate Chance heading rose 2 points to 85%; Polymarket’s no-change row remained 84%. Both still lead; cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-10-october-hold-leads-before-cpi",
+      "entrypoint": "research/2026-10-10-october-hold-leads-before-cpi/index.html"
+    },
+    {
       "run_id": "run:8978f08d-e291-406d-b404-d55a5bae83f2",
       "status": "completed",
       "answer_change": "no_meaningful_change",
