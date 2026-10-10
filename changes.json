@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-10-evening-october-hold-still-leads",
+      "changed_at": "2026-10-10T19:03:52Z",
+      "summary": "October hold still leads: Kalshi maintain-rate Chance heading remained 85%, its Hike 25bps heading fell 1 point to 15%, and Polymarket No change remained 84% since midday. Cause unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-10-october-hold-leads-before-cpi",
       "changed_at": "2026-10-10T14:31:43Z",
       "summary": "October hold still leads. Kalshi’s named maintain-rate heading rose 2 percentage points since October 9 evening; Polymarket’s no-change row was unchanged. Next official test is September CPI on October 14.",
