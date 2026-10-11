@@ -1,25 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 19:03 UTC on October 10, 2026, Kalshi’s October Chance headings showed 85% “Fed maintains rate” and 15% “Hike 25bps”; Polymarket’s separate named rows showed 84% “No change” and 16% “25 bps increase.” Both still favor a hold at the October 27–28 FOMC meeting. Since the 14:31 UTC check, Kalshi’s named hike heading fell 1 percentage point; the other named readings were unchanged. These are page-access observations, not quote timestamps, and the change’s cause is unknown. September CPI is scheduled for October 14 at 08:30 ET (12:30 UTC). CME’s live October futures-implied grid remains unreadable.",
+  "current_answer": "At about 21:31 UTC October 11, 2026, Kalshi’s October Chance headings showed 84% maintain rate and 16% Hike 25bps. Polymarket’s separate named rows showed 84% No change and 17% 25 bps increase. Both favor a hold at the October 27–28 FOMC meeting. Since the October 10, 19:03 UTC check, Kalshi’s hold heading fell 1 percentage point and its hike heading rose 1 point; Polymarket’s hold row was unchanged and its hike row rose 1 point. Page access is not quote time; the cause is unknown. Waller’s Economic Outlook speech is scheduled for October 13, September CPI for October 14, and the Beige Book later October 14. CME’s live October futures-implied grid remains unreadable.",
   "catalogue_card": {
-    "question": "What do October Fed-decision contracts show before CPI?",
-    "text": "At about 19:03 UTC October 10, Kalshi’s October maintain-rate Chance heading was 85% and Polymarket’s separate No change row 84%. Both still favor a hold. September CPI is due October 14; these page checks do not explain price moves."
+    "question": "Do October Fed contracts still favor a hold before CPI?",
+    "text": "At about 21:31 UTC October 11, Kalshi’s maintain-rate Chance heading and Polymarket’s separate No change row both showed 84%. Both still favor a hold. Waller speaks October 13; CPI and the Beige Book are due October 14. The one-point row moves have no verified cause."
   },
   "summary": [
-    "Kalshi October Chance headings: 85% maintain rate, unchanged since the 14:31 UTC check; 15% Hike 25bps, down 1 percentage point.",
-    "Polymarket October named rows: 84% No change and 16% 25 bps increase, both unchanged since 14:31 UTC.",
+    "Kalshi October Chance headings: 84% maintain rate and 16% Hike 25bps; versus October 10 at 19:03 UTC, down and up 1 percentage point respectively.",
+    "Polymarket October named rows: 84% No change, unchanged; 17% 25 bps increase, up 1 percentage point since October 10 at 19:03 UTC.",
     "The leading outcome is unchanged. The intervening path and cause are unknown.",
-    "Next official data test: September CPI on October 14 at 08:30 ET (12:30 UTC)."
+    "Next official checks: Waller Economic Outlook speech October 13; BLS September CPI October 14 at 08:30 ET; Fed Beige Book October 14 at 14:00 ET."
   ],
   "uncertainty": [
-    "Page access at about 19:03 UTC is not a quote timestamp; the intervening path and cause are unknown.",
+    "Page access at about 21:31 UTC is not quote time; the intervening path and cause are unknown.",
     "Kalshi Chance headings and Polymarket named rows are separate rounded displays; do not total or pool them.",
-    "Kalshi’s selected hold order-entry odds label was 86%, distinct from its 85% Chance heading.",
+    "Kalshi’s selected hold order-entry odds label was 86%, distinct from its 84% Chance heading.",
     "CME FedWatch’s live October grid and quote time remain unreadable.",
     "First-party analytics and direct reader-task evidence are unavailable."
   ],
-  "checked_at": "2026-10-10T19:03:52Z",
+  "checked_at": "2026-10-11T21:31:35Z",
   "meaningfully_updated_at": "2026-10-09T13:33:35Z",
-  "freshness_note": "Direct October event pages accessed about 19:03 UTC October 10. Page access is not quote time; CME live October grid unreadable."
+  "freshness_note": "Direct October event pages accessed about 21:31 UTC October 11. Page access is not quote time; CME live October grid unreadable."
 }

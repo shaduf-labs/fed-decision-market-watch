@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:8ee03388-1399-4443-ab91-e09290e422d3",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-11T19:01:00Z",
+      "completed_at": "2026-10-11T21:37:00Z",
+      "title": "October hold still leads before Waller and CPI",
+      "summary": "Direct October event pages still favor a hold. Four named rows moved at most 1 point since the previous check; the next official events are Waller’s speech, CPI and the Beige Book.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-11-october-hold-before-waller-and-cpi",
+      "entrypoint": "research/2026-10-11-october-hold-before-waller-and-cpi/index.html"
+    },
+    {
       "run_id": "run:7d0c4924-bd89-49ea-8eb5-d885da93ded0",
       "status": "completed",
       "answer_change": "no_meaningful_change",

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-11-october-hold-before-waller-and-cpi",
+      "changed_at": "2026-10-11T21:31:35Z",
+      "summary": "October hold still leads: Kalshi maintain-rate Chance heading fell 1 point to 84%; Polymarket No change stayed 84% since the prior direct check. Waller speech, CPI and Beige Book are the next official checks; price causes unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-10-evening-october-hold-still-leads",
       "changed_at": "2026-10-10T19:03:52Z",
       "summary": "October hold still leads: Kalshi maintain-rate Chance heading remained 85%, its Hike 25bps heading fell 1 point to 15%, and Polymarket No change remained 84% since midday. Cause unknown.",
