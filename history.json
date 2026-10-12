@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:63624042-eefe-4f6b-bb3b-b1c592c48ce6",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-12T19:09:00Z",
+      "completed_at": "2026-10-12T19:16:04Z",
+      "title": "October hold rows fall to 80%; next policy check is CPI",
+      "summary": "Both named hold rows fell four points while remaining the leaders. The prior October 13 Waller Economic Outlook calendar item was incorrect; the speech was October 8.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-12-october-hold-dips-before-cpi",
+      "entrypoint": "research/2026-10-12-october-hold-dips-before-cpi/index.html"
+    },
+    {
       "run_id": "run:8ee03388-1399-4443-ab91-e09290e422d3",
       "status": "completed",
       "answer_change": "no_meaningful_change",
