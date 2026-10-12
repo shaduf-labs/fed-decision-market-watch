@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:7206ec23-e126-49f5-99c6-3bc87c50b82b",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-12T19:29:39Z",
+      "completed_at": "2026-10-12T19:31:44Z",
+      "title": "October hold readings unchanged in evening check",
+      "summary": "Four named October event-contract rows were unchanged in a same-day recheck. Hold still leads; CPI is next and the earlier decline has no verified cause.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-12-evening-october-hold-unchanged",
+      "entrypoint": "research/2026-10-12-evening-october-hold-unchanged/index.html"
+    },
+    {
       "run_id": "run:63624042-eefe-4f6b-bb3b-b1c592c48ce6",
       "status": "completed",
       "answer_change": "meaningful_change",

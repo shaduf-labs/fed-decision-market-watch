@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-12-evening-october-hold-unchanged",
+      "changed_at": "2026-10-12T19:30:32Z",
+      "summary": "Evening recheck: four named October event-contract rows were unchanged from about 19:11 UTC. Hold remains the leading outcome; CPI is next.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-12-october-hold-dips-before-cpi",
       "changed_at": "2026-10-12T19:11:25Z",
       "summary": "Both named October hold rows fell 4 percentage points to 80% since October 11. The Fed calendar correction removes a wrongly listed October 13 Economic Outlook speech; September CPI remains October 14.",
