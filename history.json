@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:655478e6-133d-40cc-8308-048b74d927e1",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-13T19:01:00Z",
+      "completed_at": "2026-10-13T19:10:42Z",
+      "title": "October hold still leads in the evening before CPI",
+      "summary": "Kalshi October maintain-rate Chance heading rose 1 point to 82% and its hike heading fell 2 to 19%; Polymarket named rows stayed 80% and 20%.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-13-evening-before-cpi",
+      "entrypoint": "research/2026-10-13-evening-before-cpi/index.html"
+    },
+    {
       "run_id": "run:2b9cf793-30de-4ca4-be05-bd41773e26f5",
       "status": "completed",
       "answer_change": "no_meaningful_change",
