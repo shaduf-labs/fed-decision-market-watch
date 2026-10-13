@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:2b9cf793-30de-4ca4-be05-bd41773e26f5",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-13T15:17:00Z",
+      "completed_at": "2026-10-13T15:22:10.999Z",
+      "title": "October hold still leads in pre-CPI direct check",
+      "summary": "Kalshi October hold and hike Chance headings rose 1 and 2 points; Polymarket named rows stayed at 80% and 20%. Hold still leads before CPI.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-13-pre-cpi-direct-check",
+      "entrypoint": "research/2026-10-13-pre-cpi-direct-check/index.html"
+    },
+    {
       "run_id": "run:7206ec23-e126-49f5-99c6-3bc87c50b82b",
       "status": "completed",
       "answer_change": "no_meaningful_change",

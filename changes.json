@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-13-pre-cpi-direct-check",
+      "changed_at": "2026-10-13T15:18:06Z",
+      "summary": "Kalshi October Chance headings moved to 81% maintain and 21% hike; Polymarket named rows held at 80% and 20%. Hold still leads before CPI.",
+      "path": "/p/fed-decision-market-watch/research/2026-10-13-pre-cpi-direct-check"
+    },
+    {
       "change_id": "2026-10-12-evening-october-hold-unchanged",
       "changed_at": "2026-10-12T19:30:32Z",
       "summary": "Evening recheck: four named October event-contract rows were unchanged from about 19:11 UTC. Hold remains the leading outcome; CPI is next.",
