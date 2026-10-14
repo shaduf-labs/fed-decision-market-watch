@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-151d7ab04139b29669d819d2",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-14T19:01:00Z",
+      "completed_at": "2026-10-14T19:06:52Z",
+      "title": "October hold leads again at both venues after the midday split",
+      "summary": "Both named October hold rows were 69% at about 19:04 UTC after the midday split. Beige Book published between checks; cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-14-evening-hold-returns",
+      "entrypoint": "research/2026-10-14-evening-hold-returns/index.html"
+    },
+    {
       "run_id": "report-167ea8b45f633f559190a236",
       "status": "completed",
       "answer_change": "meaningful_change",
