@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-167ea8b45f633f559190a236",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-14T13:31:00Z",
+      "completed_at": "2026-10-14T13:36:22Z",
+      "title": "October Fed decision: CPI-day prices split the venues",
+      "summary": "After CPI, Kalshi narrowly favored a hold at 53%, while Polymarket’s hike row led at 52%. Both shifted sharply; cause unproven.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-14-after-cpi-venue-split",
+      "entrypoint": "research/2026-10-14-after-cpi-venue-split/index.html"
+    },
+    {
       "run_id": "report-2cba22ea1f39def0f878309f",
       "status": "completed",
       "answer_change": "no_meaningful_change",

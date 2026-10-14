@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-14-after-cpi-venue-split-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "claim": "Chance headings: 53% maintain rate and 47% Hike 25bps; selected hold order-entry label 55%.",
+      "accessed_at": "2026-10-14T13:33:55Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-14-after-cpi-venue-split-polymarket",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "claim": "Named rows: 47% No change and 52% 25 bps increase; experimental AI narrative excluded.",
+      "accessed_at": "2026-10-14T13:33:55Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-14-after-cpi-venue-split-bls-cpi",
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+      "source_type": "official release",
+      "title": "BLS September 2026 CPI",
+      "claim": "Headline CPI +0.6% in September and +3.7% over 12 months; core +0.3% and +2.6%.",
+      "accessed_at": "2026-10-14T13:33:55Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-14-after-cpi-venue-split-fed-calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "source_type": "official calendar",
+      "title": "Federal Reserve October calendar",
+      "claim": "Beige Book scheduled October 14 at 14:00 ET; next FOMC October 27–28.",
+      "accessed_at": "2026-10-14T13:33:55Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-14-after-cpi-venue-split-bls-calendar",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "source_type": "official calendar",
+      "title": "BLS October schedule",
+      "claim": "September PPI scheduled October 15 at 08:30 ET.",
+      "accessed_at": "2026-10-14T13:33:55Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-14-after-cpi-venue-split-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "source_type": "futures-implied tool",
+      "title": "CME FedWatch",
+      "claim": "Live October grid and quote time unreadable.",
+      "accessed_at": "2026-10-14T13:33:55Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-13-evening-before-cpi-kalshi",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
       "source_type": "prediction-market event page",

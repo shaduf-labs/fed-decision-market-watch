@@ -1,25 +1,26 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 19:06 UTC October 13, 2026, Kalshi’s October Chance headings showed 82% “Fed maintains rate” and 19% “Hike 25bps.” Polymarket’s separate named rows showed 80% “No change” and 20% “25 bps increase.” Hold remains the leading named outcome for the October 27–28 FOMC meeting. Since the 15:18 UTC check, Kalshi’s hold heading rose 1 percentage point and its hike heading fell 2; Polymarket’s named rows were unchanged. The path and cause are unknown. BLS schedules September CPI for October 14 at 08:30 ET (12:30 UTC), followed by the Fed Beige Book at 14:00 ET (18:00 UTC). CME’s live October futures-implied grid remains unreadable.",
+  "current_answer": "At about 13:34 UTC on October 14, 2026, Kalshi’s October Chance headings showed 53% “Fed maintains rate” and 47% “Hike 25bps”; Polymarket’s separate named rows showed 47% “No change” and 52% “25 bps increase.” Kalshi narrowly favored a hold, while Polymarket narrowly favored a 25-basis-point hike. Against the October 13 19:06 UTC check, Kalshi’s hold heading fell 29 percentage points and its hike heading rose 28; Polymarket’s no-change row fell 33 points and its hike row rose 32. BLS released September CPI at 08:30 ET (12:30 UTC): headline CPI rose 0.6% in the month and 3.7% over 12 months; core rose 0.3% in the month and 2.6% over 12 months. The market checks straddle CPI, but do not prove it caused the full move. The Beige Book is scheduled for 14:00 ET (18:00 UTC).",
   "catalogue_card": {
-    "question": "Do October Fed contracts still favor a hold before CPI?",
-    "text": "At about 19:06 UTC October 13, Kalshi’s hold Chance heading was 82%; Polymarket’s separate No change row was 80%. September CPI is due October 14 at 08:30 ET. The readings are venue-specific contract displays, not Fed forecasts."
+    "question": "Did CPI change the October Fed contract picture?",
+    "text": "After September CPI, Kalshi’s October hold Chance heading was 53% while Polymarket’s separate 25-basis-point hike row led at 52%, in page checks about 13:34 UTC October 14. Both shifted sharply since October 13; the checks cannot isolate CPI’s effect."
   },
   "summary": [
-    "Kalshi October Chance headings: 82% maintain rate and 19% Hike 25bps, up 1 and down 2 percentage points since about 15:18 UTC October 13.",
-    "Polymarket October named rows: 80% No change and 20% 25 bps increase, unchanged from that check.",
-    "Hold remains the leading named outcome on both pages; the path and cause of the Kalshi change are unknown.",
-    "BLS September CPI is scheduled October 14 at 08:30 ET; the Fed Beige Book follows at 14:00 ET."
+    "Kalshi October Chance headings: 53% maintain rate and 47% Hike 25bps, down 29 and up 28 percentage points since October 13 at 19:06 UTC.",
+    "Polymarket October named rows: 47% No change and 52% 25 bps increase, down 33 and up 32 points. The venues differ on the leading named outcome.",
+    "BLS September CPI: headline +0.6% month over month and +3.7% year over year; core +0.3% and +2.6%. Release falls between checks, but causation is not established.",
+    "Fed Beige Book is scheduled October 14 at 14:00 ET; BLS September PPI follows October 15 at 08:30 ET."
   ],
   "uncertainty": [
-    "Page access at about 19:06 UTC is not quote time; the intervening price path and cause are unknown.",
-    "Kalshi Chance headings and Polymarket named rows are separate rounded displays; do not add, average, or pool them.",
-    "Kalshi’s selected hold order-entry odds label was 83%, distinct from its 82% Chance heading.",
+    "Page access at about 13:34 UTC is not quote time; the intervening price path and cause are unknown.",
+    "Kalshi Chance headings and Polymarket named rows are distinct rounded displays; do not add, average or pool them.",
+    "Kalshi’s selected hold order-entry odds label was 55%, distinct from its 53% Chance heading.",
+    "Polymarket’s experimental AI narrative gave other prices and an unverified explanation; named rows are used here.",
     "CME FedWatch’s live October grid and quote time remain unreadable.",
-    "First-party analytics and consented reader-task evidence are unavailable."
+    "First-party analytics and a consented reader-task observation remain unavailable."
   ],
-  "checked_at": "2026-10-13T19:06:08Z",
-  "meaningfully_updated_at": "2026-10-12T19:11:25Z",
-  "freshness_note": "Direct October event pages accessed about 19:06 UTC October 13, 2026. Access is not quote time. CME live October grid unreadable."
+  "checked_at": "2026-10-14T13:33:55Z",
+  "meaningfully_updated_at": "2026-10-14T13:33:55Z",
+  "freshness_note": "Direct October event pages accessed about 13:34 UTC October 14, 2026. Access is not quote time. CME live October grid unreadable."
 }
