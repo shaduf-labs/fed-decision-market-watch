@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-15-ppi-and-quote-time",
+      "changed_at": "2026-10-15T13:34:25Z",
+      "summary": "October hold led on Kalshi and Polymarket page checks as BLS reported September PPI up 1.3%. Quote times were unavailable; no post-release price response is established.",
+      "path": "/p/fed-decision-market-watch/research/2026-10-15-ppi-and-quote-time"
+    },
+    {
       "change_id": "2026-10-14-evening-hold-returns",
       "changed_at": "2026-10-14T19:04:34Z",
       "summary": "Both October hold rows returned to 69% in evening page checks after a midday venue split. The Beige Book was published between checks; cause unproven.",

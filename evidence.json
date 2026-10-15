@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-15-ppi-and-quote-time-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "claim": "Chance headings: 71% maintain and 29% hike 25bps.",
+      "accessed_at": "2026-10-15T13:34:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-15-ppi-and-quote-time-polymarket",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "claim": "Named rows: 74% No change and 26% 25 bps increase.",
+      "accessed_at": "2026-10-15T13:34:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-15-ppi-and-quote-time-bls-ppi",
+      "source_url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm",
+      "source_type": "official economic release",
+      "title": "BLS September 2026 PPI",
+      "claim": "Final demand rose 1.3% in September and 6.3% over 12 months; August monthly rate revised to 0.5%.",
+      "accessed_at": "2026-10-15T13:34:25Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-15-ppi-and-quote-time-bls-calendar",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "source_type": "official calendar",
+      "title": "BLS October 2026 schedule",
+      "claim": "September import and export price indexes scheduled October 16 at 08:30 ET.",
+      "accessed_at": "2026-10-15T13:34:25Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-15-ppi-and-quote-time-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "source_type": "futures-implied tool",
+      "title": "CME FedWatch",
+      "claim": "Live October grid and quote time unreadable.",
+      "accessed_at": "2026-10-15T13:34:25Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-14-evening-hold-returns-kalshi",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
       "source_type": "prediction-market event page",

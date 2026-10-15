@@ -1,25 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 19:04 UTC on October 14, 2026, Kalshi’s October Chance headings showed 69% “Fed maintains rate” and 31% “Hike 25bps”; Polymarket’s separate named rows showed 69% “No change” and 31% “25 bps increase.” Both venues again favored a hold for the October 27–28 FOMC meeting. Since the about 13:34 UTC checks, Kalshi’s hold heading rose 16 percentage points and its hike heading fell 16; Polymarket’s no-change row rose 22 points and its hike row fell 21. The Fed published its October Beige Book at 14:00 ET (18:00 UTC), reporting little or no employment change in most Districts and moderate or robust price growth in 11 of 12. These checks bracket the release but do not show that it caused the reversal. BLS September PPI is scheduled for October 15 at 08:30 ET (12:30 UTC).",
+  "current_answer": "At about 13:34 UTC on October 15, 2026, Kalshi’s October Chance headings showed 71% “Fed maintains rate” and 29% “Hike 25bps”; Polymarket’s separate named rows showed 74% “No change” and 26% “25 bps increase.” Both still favored a hold for the October 27–28 FOMC meeting. Against the October 14 evening page checks, their hold readings were 2 and 5 percentage points higher, respectively. BLS reported September final-demand PPI up 1.3% on the month and 6.3% over 12 months at 08:30 ET (12:30 UTC) today. The page checks occurred later, but neither venue exposed a reliable quote time; they do not establish a post-release reaction or its cause. BLS schedules September import and export price indexes for October 16 at 08:30 ET.",
   "catalogue_card": {
-    "question": "Did the October Fed hold regain the lead?",
-    "text": "At about 19:04 UTC October 14, both Kalshi and Polymarket showed 69% in their separate October hold rows, after a midday venue split. The Beige Book was released between checks; it is not a proven cause."
+    "question": "Did hot PPI change October Fed odds?",
+    "text": "BLS September PPI rose 1.3%. At about 13:34 UTC October 15, Kalshi’s hold heading was 71% and Polymarket’s separate no-change row 74%. Both led, but missing quote times prevent a post-PPI reaction claim."
   },
   "summary": [
-    "Kalshi October Chance headings: 69% maintain and 31% hike, versus 53% and 47% about 13:34 UTC.",
-    "Polymarket October named rows: 69% No change and 31% 25 bps increase, versus 47% and 52% about 13:34 UTC.",
-    "The Fed October Beige Book reported little or no employment change in most Districts and moderate or robust price growth in 11 of 12; its release is not a proven cause of the move.",
-    "BLS September PPI is scheduled October 15 at 08:30 ET."
+    "Kalshi October Chance headings: 71% maintain and 29% hike, versus 69% and 31% at the October 14 evening check.",
+    "Polymarket October named rows: 74% No change and 26% 25 bps increase, versus 69% and 31% at the October 14 evening check.",
+    "BLS September final-demand PPI rose 1.3% in the month and 6.3% over 12 months; August monthly growth was revised to 0.5%.",
+    "BLS schedules September import and export price indexes for October 16 at 08:30 ET."
   ],
   "uncertainty": [
-    "Page access at about 19:04 UTC is not a quote timestamp; the price path and cause between checks are unknown.",
-    "Kalshi Chance headings and Polymarket named rows are distinct rounded displays; do not add or average them.",
-    "Polymarket’s experimental AI summary and FAQ showed different or differently rounded figures; only named rows are used.",
-    "CME FedWatch’s live October probability grid and quote time remained unreadable.",
-    "The Beige Book summarizes contact reports collected on or before October 5; it is not an FOMC policy decision."
+    "Page access at about 13:34 UTC is not a venue quote timestamp. The displayed prices may not represent a post-PPI reaction.",
+    "Kalshi Chance headings and Polymarket named rows are separate rounded contract displays; do not add or average them.",
+    "The September PPI release revised August final-demand growth from 0.4% to 0.5%.",
+    "CME FedWatch’s live October probability grid and quote time remained unreadable."
   ],
-  "checked_at": "2026-10-14T19:04:34Z",
-  "meaningfully_updated_at": "2026-10-14T19:04:34Z",
-  "freshness_note": "Direct October event pages accessed about 19:04 UTC October 14, 2026. Access is not quote time; CME live grid unreadable."
+  "checked_at": "2026-10-15T13:34:25Z",
+  "meaningfully_updated_at": "2026-10-15T13:34:25Z",
+  "freshness_note": "Direct October event pages accessed about 13:34 UTC October 15, 2026; venue quote times unavailable and CME live grid unreadable."
 }
