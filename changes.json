@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-15-evening-hold-still-leads",
+      "changed_at": "2026-10-15T19:05:30Z",
+      "summary": "Both October hold rows still led in evening page checks: Kalshi 72%, Polymarket 73%. Small opposing moves since midday; venue quote times and cause unknown.",
+      "path": "/p/fed-decision-market-watch/research/2026-10-15-evening-hold-still-leads"
+    },
+    {
       "change_id": "2026-10-15-ppi-and-quote-time",
       "changed_at": "2026-10-15T13:34:25Z",
       "summary": "October hold led on Kalshi and Polymarket page checks as BLS reported September PPI up 1.3%. Quote times were unavailable; no post-release price response is established.",
