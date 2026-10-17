@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-17-cme-gap-oct17",
+      "source_type": "futures-implied tool",
+      "title": "cme gap oct17",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "A live October probability grid was not readable in the accessed page.",
+      "accessed_at": "2026-10-17T22:32:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-17-fed-events-oct17",
+      "source_type": "official calendar",
+      "title": "fed events oct17",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "claim": "The next FOMC meeting is October 27–28, and the Fed calendar lists the October 15 discussion.",
+      "accessed_at": "2026-10-17T22:32:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-17-fed-fomc-calendar-oct17",
+      "source_type": "official calendar",
+      "title": "fed fomc calendar oct17",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "claim": "The next FOMC meeting is October 27–28, and the Fed calendar lists the October 15 discussion.",
+      "accessed_at": "2026-10-17T22:32:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-17-bls-import-export-oct16",
+      "source_type": "official economic release",
+      "title": "bls import export oct16",
+      "source_url": "https://www.bls.gov/news.release/archives/ximpim_10162026.htm",
+      "claim": "September import prices rose 1.1% and export prices 2.2%.",
+      "accessed_at": "2026-10-17T22:32:00Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-17-polymarket-oct17",
+      "source_type": "prediction-market event page",
+      "title": "polymarket oct17",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "October named rows displayed 87% no change and 14% 25 bp increase at page access.",
+      "accessed_at": "2026-10-17T22:32:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-17-kalshi-oct17",
+      "source_type": "prediction-market event page",
+      "title": "kalshi oct17",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "October Chance headings displayed 87% maintain and 14% hike at page access.",
+      "accessed_at": "2026-10-17T22:32:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-15-evening-hold-still-leads-kalshi",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
       "source_type": "prediction-market event page",

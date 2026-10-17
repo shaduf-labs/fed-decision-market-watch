@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-91c972e66f58203424967599",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-17T22:30:00Z",
+      "completed_at": "2026-10-17T22:33:00Z",
+      "title": "October hold reaches 87% on both direct event pages",
+      "summary": "Kalshi and Polymarket separately showed 87% hold at a dated page check, up 15 and 14 percentage points since October 15; cause and quote times unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-17-hold-reaches-87",
+      "entrypoint": "research/2026-10-17-hold-reaches-87/index.html"
+    },
+    {
       "run_id": "report-f78b6a0fee845b18ff97b56f",
       "status": "completed",
       "answer_change": "no_meaningful_change",
