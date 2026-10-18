@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-bde2403fc4bd1d346220b110",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-18T19:01:00Z",
+      "completed_at": "2026-10-18T19:05:53Z",
+      "title": "October hold remains at 87% in evening checks",
+      "summary": "Both named hold readings stayed at 87%. Kalshi’s hike Chance heading fell two points to 12%; venue quote times unavailable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-18-evening-hold-stays-87",
+      "entrypoint": "research/2026-10-18-evening-hold-stays-87/index.html"
+    },
+    {
       "run_id": "report-f3ded3c679883ea26fdeede3",
       "status": "completed",
       "answer_change": "no_meaningful_change",
