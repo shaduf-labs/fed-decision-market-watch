@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-f3ded3c679883ea26fdeede3",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-18T13:31:00Z",
+      "completed_at": "2026-10-18T13:38:44Z",
+      "title": "October hold readings remain at 87% in midday checks",
+      "summary": "Kalshi and Polymarket separately showed 87% hold in midday page checks. Kalshi’s hike heading rose one point to 14%; quote times unavailable.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-18-midday-hold-unchanged",
+      "entrypoint": "research/2026-10-18-midday-hold-unchanged/index.html"
+    },
+    {
       "run_id": "report-3018387aa3fd14b211eb08fe",
       "status": "completed",
       "answer_change": "no_meaningful_change",

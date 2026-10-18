@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-18-midday-kalshi",
+      "source_type": "prediction-market event page",
+      "title": "prediction-market event page",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "Kalshi October Chance headings showed 87% maintain and 14% hike; order-entry odds differ.",
+      "accessed_at": "2026-10-18T13:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-18-midday-polymarket",
+      "source_type": "prediction-market event page",
+      "title": "prediction-market event page",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Polymarket October named rows showed 87% no change and 14% 25 bp increase.",
+      "accessed_at": "2026-10-18T13:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-18-midday-fed-meeting",
+      "source_type": "official calendar",
+      "title": "official calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "claim": "October 27–28 is the next FOMC meeting.",
+      "accessed_at": "2026-10-18T13:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-18-midday-bls-calendar",
+      "source_type": "official calendar",
+      "title": "official calendar",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "claim": "State employment data are scheduled for October 20 at 10:00 ET.",
+      "accessed_at": "2026-10-18T13:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-18-midday-cme-gap",
+      "source_type": "futures-implied probability tool",
+      "title": "futures-implied probability tool",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "The live October grid was not readable from the inspected page.",
+      "accessed_at": "2026-10-18T13:36:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-18-kalshi",
       "source_type": "prediction-market event page",
       "title": "prediction-market event page",
