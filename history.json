@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-3018387aa3fd14b211eb08fe",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-18T01:31:00Z",
+      "completed_at": "2026-10-18T01:38:00Z",
+      "title": "October hold readings stay at 87% in a new page check",
+      "summary": "Both named hold readings stayed at 87%; Kalshi’s hike Chance heading eased one point to 13%, while Polymarket’s named hike row remained 14%. Quote times unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-18-october-hold-plateau",
+      "entrypoint": "research/2026-10-18-october-hold-plateau/index.html"
+    },
+    {
       "run_id": "report-91c972e66f58203424967599",
       "status": "completed",
       "answer_change": "meaningful_change",

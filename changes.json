@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-18-october-hold-plateau",
+      "changed_at": "2026-10-18T01:36:00Z",
+      "summary": "The two named October hold readings remained at 87% in direct page checks. Kalshi’s 25 bp-hike Chance heading eased one point to 13%; Polymarket’s named hike row remained 14%. Quote times unavailable.",
+      "path": "/p/fed-decision-market-watch/research/2026-10-18-october-hold-plateau"
+    },
+    {
       "change_id": "2026-10-17-hold-reaches-87",
       "changed_at": "2026-10-17T22:32:00Z",
       "summary": "Both October hold readings reached 87% in direct page checks, up 14–15 percentage points since October 15. Quote times and cause remain unknown.",

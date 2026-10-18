@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-18-kalshi",
+      "source_type": "prediction-market event page",
+      "title": "prediction-market event page",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "Kalshi October Chance headings showed 87% maintain and 13% hike; order-entry odds differ.",
+      "accessed_at": "2026-10-18T01:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-18-polymarket",
+      "source_type": "prediction-market event page",
+      "title": "prediction-market event page",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Polymarket October named rows showed 87% no change and 14% 25 bp increase.",
+      "accessed_at": "2026-10-18T01:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-18-fed-meeting",
+      "source_type": "official calendar",
+      "title": "official calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "claim": "October 27–28 is the next FOMC meeting.",
+      "accessed_at": "2026-10-18T01:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-18-fed-events",
+      "source_type": "official calendar",
+      "title": "official calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "claim": "The October 28 FOMC policy statement is scheduled at 14:00 ET and press conference at 14:30 ET.",
+      "accessed_at": "2026-10-18T01:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-18-bls-schedule",
+      "source_type": "official release calendar",
+      "title": "official release calendar",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched.htm",
+      "claim": "The October 20 state employment release is scheduled for 10:00 ET; no new CPI or PPI before the meeting is listed.",
+      "accessed_at": "2026-10-18T01:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-18-bea-schedule",
+      "source_type": "official release calendar",
+      "title": "official release calendar",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "claim": "BEA lists September personal income and outlays for October 29, after the FOMC meeting.",
+      "accessed_at": "2026-10-18T01:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-18-cme",
+      "source_type": "futures-implied tool",
+      "title": "futures-implied tool",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "A live October probability grid was not readable in the accessed page.",
+      "accessed_at": "2026-10-18T01:36:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-17-cme-gap-oct17",
       "source_type": "futures-implied tool",
       "title": "cme gap oct17",
