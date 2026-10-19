@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-0d2ec64847c74e44b72297c3",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-19T19:01:00Z",
+      "completed_at": "2026-10-19T19:09:15Z",
+      "title": "October hold still leads; Polymarket no-change row is 85%",
+      "summary": "Kalshi maintain-rate Chance heading 86%, Polymarket no-change named row 85%; small changes since midday, with quote times and cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-19-evening-hold-still-leads",
+      "entrypoint": "research/2026-10-19-evening-hold-still-leads/index.html"
+    },
+    {
       "run_id": "report-cd05b790d3540c76ea772e01",
       "status": "completed",
       "answer_change": "no_meaningful_change",

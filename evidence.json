@@ -2,6 +2,76 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-19-evening-kalshi",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "claim": "Kalshi October Chance headings displayed 86% maintain and 14% 25 bp hike.",
+      "accessed_at": "2026-10-19T19:07:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-19-evening-polymarket",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "claim": "Polymarket October named rows displayed 85% no change and 15% 25 bp increase.",
+      "accessed_at": "2026-10-19T19:07:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-19-evening-cme-gap",
+      "source_type": "futures-implied tool",
+      "title": "CME FedWatch",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "claim": "Live October probability grid and quote time were unreadable.",
+      "accessed_at": "2026-10-19T19:07:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-19-evening-fed-calendar",
+      "source_type": "official calendar",
+      "title": "Federal Reserve FOMC meeting calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "claim": "The next FOMC meeting is October 27–28.",
+      "accessed_at": "2026-10-19T19:07:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-19-evening-fed-events",
+      "source_type": "official calendar",
+      "title": "Federal Reserve October events calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "claim": "October 28 statement is listed for 14:00 ET and press conference for 14:30 ET.",
+      "accessed_at": "2026-10-19T19:07:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-19-evening-bls-calendar",
+      "source_type": "official calendar",
+      "title": "BLS October release schedule",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "claim": "September state employment and unemployment is scheduled October 20 at 10:00 ET.",
+      "accessed_at": "2026-10-19T19:07:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-19-evening-bea-calendar",
+      "source_type": "official calendar",
+      "title": "BEA release schedule",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "claim": "Third-quarter advance GDP and September personal income and outlays are scheduled for October 29, after the decision.",
+      "accessed_at": "2026-10-19T19:07:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
       "evidence_id": "2026-10-19-bea-calendar",
       "source_type": "official calendar",
       "title": "BEA release schedule",
