@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 19:04 UTC on October 18, 2026, Kalshi’s October Chance headings showed 87% “Fed maintains rate” and 12% “Hike 25bps”; Polymarket’s separate named rows showed 87% “No change” and 14% “25 bps increase.” Both still favored a hold for the October 27–28 FOMC meeting. Since the 13:36 UTC check, the hold readings and Polymarket’s hike row were unchanged; Kalshi’s hike heading fell two percentage points. Page access is not venue quote time, and no cause is established.",
+  "current_answer": "At about 13:33 UTC on October 19, 2026, Kalshi’s October Chance headings showed 86% “Fed maintains rate” and 13% “Hike 25bps”; Polymarket’s separate named rows showed 86% “No change” and 14% “25 bps increase.” Both still favored a hold for the October 27–28 FOMC meeting. Since the October 18, 19:04 UTC check, each hold reading fell one percentage point; Kalshi’s hike heading rose one point and Polymarket’s hike row was unchanged. Page access is not venue quote time, and no cause is established.",
   "catalogue_card": {
-    "question": "Did the October hold reading change this evening?",
-    "text": "No. Kalshi’s maintain-rate Chance heading and Polymarket’s separate no-change row both showed 87% at the October 18, 19:04 UTC page check. Kalshi’s 25 bp-hike heading fell two points to 12%; venue quote times are unavailable."
+    "question": "Does an October hold still lead on both event pages?",
+    "text": "Yes. Kalshi’s maintain-rate Chance heading and Polymarket’s separate no-change row each showed 86% at the October 19, 13:33 UTC page check, down one point since October 18 evening. Venue quote times and the cause are unknown."
   },
   "summary": [
-    "Kalshi October Chance headings: 87% maintain and 12% hike, versus 87% and 14% at the 13:36 UTC check.",
-    "Polymarket October named rows: 87% No change and 14% 25 bps increase, unchanged from 13:36 UTC.",
+    "Kalshi October Chance headings: 86% maintain and 13% hike, versus 87% and 12% on October 18 evening.",
+    "Polymarket October named rows: 86% No change and 14% 25 bps increase, versus 87% and 14% on October 18 evening.",
     "The October 27–28 FOMC meeting is next; BLS state employment data is scheduled October 20."
   ],
   "uncertainty": [
@@ -16,7 +16,7 @@
     "Kalshi Chance headings and Polymarket named rows are separate rounded displays; do not add, normalize or average them.",
     "CME FedWatch’s live October probability grid and quote time remain unreadable."
   ],
-  "checked_at": "2026-10-18T19:04:00Z",
+  "checked_at": "2026-10-19T13:33:00Z",
   "meaningfully_updated_at": "2026-10-17T22:32:00Z",
-  "freshness_note": "Direct October event pages accessed about 19:04 UTC October 18, 2026; venue quote times unavailable and CME live grid unreadable."
+  "freshness_note": "Direct October event pages accessed about 13:33 UTC October 19, 2026; venue quote times unavailable and CME live grid unreadable."
 }

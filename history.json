@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-cd05b790d3540c76ea772e01",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-19T13:31:00Z",
+      "completed_at": "2026-10-19T13:36:15Z",
+      "title": "October hold still leads at 86% on both pages",
+      "summary": "Both named hold readings fell one point to 86%; hold still leads, with quote times and cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-19-hold-still-leads-at-86",
+      "entrypoint": "research/2026-10-19-hold-still-leads-at-86/index.html"
+    },
+    {
       "run_id": "report-bde2403fc4bd1d346220b110",
       "status": "completed",
       "answer_change": "no_meaningful_change",
