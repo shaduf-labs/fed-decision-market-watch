@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-f49a93152616b3dd41d03bfc",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-20T19:01:00Z",
+      "completed_at": "2026-10-20T19:09:23Z",
+      "title": "October hold still leads after state jobs release",
+      "summary": "Kalshi maintain-rate Chance heading 88%, Polymarket no-change named row 86%; state employment released earlier, but the small opposite moves have no proven cause.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-20-evening-hold-and-state-jobs",
+      "entrypoint": "research/2026-10-20-evening-hold-and-state-jobs/index.html"
+    },
+    {
       "run_id": "report-7a8903f2c9b7484d8abd7cb5",
       "status": "completed",
       "answer_change": "no_meaningful_change",

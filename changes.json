@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-20-evening-hold-and-state-jobs",
+      "changed_at": "2026-10-20T19:07:00Z",
+      "summary": "October hold still leads: Kalshi maintain-rate Chance heading 88%, Polymarket no-change named row 86% in the evening page checks. BLS released state employment data earlier; quote times and price causes are unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-20-hold-87-before-state-jobs",
       "changed_at": "2026-10-20T13:35:00Z",
       "summary": "Both October named hold readings were 87% at the page check, up one point on Kalshi and two on Polymarket since October 19 evening. Hold still leads; quote times and cause are unknown.",
