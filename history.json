@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-7a8903f2c9b7484d8abd7cb5",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-20T13:31:00Z",
+      "completed_at": "2026-10-20T13:35:00Z",
+      "title": "October hold reads 87% on both direct event pages",
+      "summary": "Kalshi maintain-rate Chance heading and Polymarket no-change named row both read 87%; quote times and cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-20-hold-87-before-state-jobs",
+      "entrypoint": "research/2026-10-20-hold-87-before-state-jobs/index.html"
+    },
+    {
       "run_id": "report-0d2ec64847c74e44b72297c3",
       "status": "completed",
       "answer_change": "no_meaningful_change",
