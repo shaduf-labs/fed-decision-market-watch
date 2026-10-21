@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-ff82a2e1deca20991b1455e1",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-21T19:01:00Z",
+      "completed_at": "2026-10-21T19:08:55Z",
+      "title": "October hold still leads after earnings release",
+      "summary": "Kalshi maintain-rate Chance heading 88% and Polymarket no-change row 87% at about 19:05 UTC; the BLS release fell between checks but is not a proven cause.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-21-evening-hold-and-earnings",
+      "entrypoint": "research/2026-10-21-evening-hold-and-earnings/index.html"
+    },
+    {
       "run_id": "report-20d7b1f90759becef9d1fc34",
       "status": "completed",
       "answer_change": "no_meaningful_change",

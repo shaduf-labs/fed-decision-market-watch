@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 13:36 UTC on October 21, 2026, Kalshi’s October KXFEDDECISION-26OCT Chance headings showed 89% “Fed maintains rate” and 12% “Hike 25bps”; Polymarket’s separate named rows showed 88% “No change” and 12% “25 bps increase.” Hold remains the leading named outcome for the October 27–28 FOMC meeting. Since the October 20 19:07 UTC page check, the hold readings rose one and two percentage points, respectively. These are page-access observations, not venue quote times; no cause is established. The BLS usual weekly earnings release was scheduled for 14:00 UTC, after this check.",
+  "current_answer": "At about 19:05 UTC on October 21, 2026, Kalshi’s October KXFEDDECISION-26OCT Chance headings showed 88% “Fed maintains rate” and 13% “Hike 25bps”; Polymarket’s separate named rows showed 87% “No change” and 13% “25 bps increase.” Hold remains the leading named outcome for the October 27–28 FOMC meeting. Both hold readings fell one percentage point since the 13:36 UTC page check. BLS published third-quarter usual weekly earnings at 14:00 UTC between the checks, but page access is not venue quote time and no price cause is established.",
   "catalogue_card": {
-    "question": "Does an October hold still lead before today’s BLS release?",
-    "text": "Yes. At the October 21, about 13:36 UTC page check, Kalshi’s maintain-rate Chance heading was 89% and Polymarket’s separate no-change named row was 88%. Both rose since last evening; venue quote times and the cause are unknown."
+    "question": "Does an October hold still lead after the earnings release?",
+    "text": "Yes. At about 19:05 UTC on October 21, Kalshi showed 88% maintain and Polymarket 87% no change. Both fell one point since 13:36 UTC. BLS earnings were released between checks; the price cause is unknown."
   },
   "summary": [
-    "Kalshi October Chance headings: 89% maintain, 12% 25 bp hike; maintain +1 percentage point since October 20 at 19:07 UTC.",
-    "Polymarket October named rows: 88% no change, 12% 25 bp increase; no change +2 percentage points since October 20 at 19:07 UTC.",
-    "The next FOMC meeting is October 27–28. BLS usual weekly earnings were scheduled for October 21 at 14:00 UTC, after this check."
+    "Kalshi October Chance headings: 88% maintain, 13% 25 bp hike; maintain −1 percentage point since October 21 at 13:36 UTC.",
+    "Polymarket October named rows: 87% no change, 13% 25 bp increase; no change −1 percentage point since October 21 at 13:36 UTC.",
+    "BLS reported third-quarter median usual weekly earnings of $1,232 at 14:00 UTC on October 21. The next FOMC meeting is October 27–28."
   ],
   "uncertainty": [
-    "Page access times are not venue quote times; the path and cause of the moves are unknown.",
+    "Page access times are not venue quote times; the timing and cause of the small changes are unknown.",
     "Kalshi Chance headings and Polymarket named rows are separate rounded displays; do not add, normalize or average them.",
     "CME FedWatch’s live October probability grid and quote time remain unreadable."
   ],
-  "checked_at": "2026-10-21T13:36:00Z",
+  "checked_at": "2026-10-21T19:05:00Z",
   "meaningfully_updated_at": "2026-10-17T22:32:00Z",
-  "freshness_note": "Direct page checks about 13:36 UTC October 21; venue quote times are unavailable."
+  "freshness_note": "Direct page checks about 19:05 UTC October 21; venue quote times are unavailable."
 }

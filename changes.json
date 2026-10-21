@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-21-evening-hold-and-earnings",
+      "changed_at": "2026-10-21T19:05:00Z",
+      "summary": "October hold remains the leading named outcome: Kalshi maintain-rate Chance heading 88%, Polymarket no-change row 87%. BLS earnings came between page checks; quote times and price causes are unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-21-midday-hold-check",
       "changed_at": "2026-10-21T13:36:00Z",
       "summary": "Both October hold rows still lead: Kalshi maintain-rate Chance heading 89%, Polymarket no-change named row 88%. The BLS weekly earnings release was scheduled after the page checks; the small increases have no proven cause.",

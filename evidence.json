@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-21-evening-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "source_type": "futures-implied tool",
+      "title": "CME FedWatch",
+      "claim": "Readable live October grid and quote time remained unavailable.",
+      "accessed_at": "2026-10-21T19:05:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-21-evening-fed-calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "source_type": "official calendar",
+      "title": "Federal Reserve October calendar",
+      "claim": "October 27–28 FOMC meeting; October 28 statement and press conference times.",
+      "accessed_at": "2026-10-21T19:05:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-21-evening-bls-earnings",
+      "source_url": "https://www.bls.gov/news.release/wkyeng.nr0.htm",
+      "source_type": "official economic release",
+      "title": "BLS third-quarter usual weekly earnings",
+      "claim": "Median usual weekly earnings were $1,232, 1.5% above a year earlier, versus CPI-U up 3.5%.",
+      "accessed_at": "2026-10-21T19:05:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-21-evening-polymarket",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "claim": "Polymarket named rows displayed 87% no change and 13% 25 bp increase.",
+      "accessed_at": "2026-10-21T19:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-21-evening-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "claim": "Kalshi October Chance headings displayed 88% maintain and 13% 25 bp hike.",
+      "accessed_at": "2026-10-21T19:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-21-midday-kalshi",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
       "source_type": "prediction-market event page",
