@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-21-midday-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "claim": "Kalshi October Chance headings displayed 89% maintain and 12% 25 bp hike.",
+      "accessed_at": "2026-10-21T13:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-21-midday-polymarket",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "claim": "Polymarket named rows displayed 88% no change and 12% 25 bp increase.",
+      "accessed_at": "2026-10-21T13:36:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-21-midday-fed-calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "source_type": "official calendar",
+      "title": "Federal Reserve October calendar",
+      "claim": "October 27–28 FOMC meeting; October 28 statement and press conference times.",
+      "accessed_at": "2026-10-21T13:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-21-midday-bls-calendar",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "source_type": "official calendar",
+      "title": "BLS October release schedule",
+      "claim": "Usual weekly earnings were scheduled for October 21 at 10:00 ET, after the page check.",
+      "accessed_at": "2026-10-21T13:36:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-21-midday-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "source_type": "futures-implied tool",
+      "title": "CME FedWatch",
+      "claim": "A readable live October grid and quote time were unavailable in this access.",
+      "accessed_at": "2026-10-21T13:36:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-20-evening-kalshi",
       "source_type": "prediction-market event page",
       "title": "Kalshi October Fed decision",
