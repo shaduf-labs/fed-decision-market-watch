@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-22-evening-hold-94-95",
+      "changed_at": "2026-10-22T19:06:00Z",
+      "summary": "October hold Chance heading reached 94% on Kalshi; Polymarket no-change named row reached 95% at about 19:06 UTC. Up five and four percentage points since midday page checks; intraday timing and cause are unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-22-hold-and-claims",
       "changed_at": "2026-10-22T13:34:00Z",
       "summary": "October hold leads in direct page checks: Kalshi maintain-rate Chance heading 89%, Polymarket no-change named row 91%. Department of Labor weekly claims came between checks; quote times and price causes are unknown.",

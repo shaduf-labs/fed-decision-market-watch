@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-028c54379f362b0ff0075359",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-22T19:01:00Z",
+      "completed_at": "2026-10-22T19:07:54.815Z",
+      "title": "October hold readings rise to 94% on Kalshi and 95% on Polymarket",
+      "summary": "Kalshi maintain-rate Chance heading 94% and Polymarket no-change named row 95% at about 19:06 UTC; five- and four-point rises since midday, with quote times and causes unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-22-evening-hold-94-95",
+      "entrypoint": "research/2026-10-22-evening-hold-94-95/index.html"
+    },
+    {
       "run_id": "report-8cdcb332eeb39c75b97f08e1",
       "status": "completed",
       "answer_change": "no_meaningful_change",
