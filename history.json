@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-8cdcb332eeb39c75b97f08e1",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-22T13:31:00Z",
+      "completed_at": "2026-10-22T13:36:26Z",
+      "title": "October hold leads at 89% on Kalshi and 91% on Polymarket",
+      "summary": "Kalshi maintain-rate Chance heading 89% and Polymarket no-change named row 91% at about 13:34 UTC. Weekly claims were released between checks; quote times and price causes are unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-22-hold-and-weekly-claims",
+      "entrypoint": "research/2026-10-22-hold-and-weekly-claims/index.html"
+    },
+    {
       "run_id": "report-ff82a2e1deca20991b1455e1",
       "status": "completed",
       "answer_change": "no_meaningful_change",
