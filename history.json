@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-ece022f99820481a75850b28",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-23T13:31:00Z",
+      "completed_at": "2026-10-23T13:38:56Z",
+      "title": "October hold still leads at 92% on Kalshi and 93% on Polymarket",
+      "summary": "At about 13:35 UTC, both direct hold displays were two points below the October 22 evening checks; quote times and cause remain unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-23-hold-still-leads-92-93",
+      "entrypoint": "research/2026-10-23-hold-still-leads-92-93/index.html"
+    },
+    {
       "run_id": "report-028c54379f362b0ff0075359",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-23-hold-still-leads-92-93",
+      "changed_at": "2026-10-23T13:35:00Z",
+      "summary": "October hold still leads: Kalshi maintain Chance heading 92% and Polymarket no-change named row 93% at about 13:35 UTC. Each is two percentage points below the October 22 evening page check; quote times and cause are unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-22-evening-hold-94-95",
       "changed_at": "2026-10-22T19:06:00Z",
       "summary": "October hold Chance heading reached 94% on Kalshi; Polymarket no-change named row reached 95% at about 19:06 UTC. Up five and four percentage points since midday page checks; intraday timing and cause are unknown.",
