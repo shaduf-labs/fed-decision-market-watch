@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 13:35 UTC on October 23, 2026, Kalshi’s October KXFEDDECISION-26OCT Chance headings showed 92% “Fed maintains rate” and 8% “Hike 25bps”; Polymarket’s separate named rows showed 93% “No change” and 8% “25 bps increase.” Hold still leads for the October 27–28 FOMC meeting. The hold displays are two percentage points below the October 22 evening checks. Page access times are not venue quote times, and the change has no verified cause.",
+  "current_answer": "At about 19:03 UTC on October 23, 2026, Kalshi’s October KXFEDDECISION-26OCT Chance headings showed 91% “Fed maintains rate” and 8% “Hike 25bps”; Polymarket’s separate named rows showed 92% “No change” and 8% “25 bps increase.” Hold still leads for the October 27–28 FOMC meeting. The hold displays are one percentage point below the October 23 midday checks. Page access times are not venue quote times, and the change has no verified cause.",
   "catalogue_card": {
     "question": "Does the October hold still lead?",
-    "text": "At about 13:35 UTC on October 23, Kalshi showed 92% maintain and Polymarket 93% no change, each down two percentage points from the October 22 evening page check. Quote times and cause are unknown."
+    "text": "At about 19:03 UTC October 23, Kalshi showed 91% maintain and Polymarket 92% no change. Each was one percentage point below the midday page check. Quote times and cause are unknown."
   },
   "summary": [
-    "Kalshi October Chance headings: 92% maintain, 8% hike 25 bp; maintain −2 percentage points since 19:06 UTC October 22.",
-    "Polymarket October named rows: 93% no change, 8% increase 25 bp; no change −2 percentage points since 19:06 UTC October 22.",
-    "The next FOMC meeting is October 27–28. The official policy statement is scheduled for October 28 at 14:00 ET (18:00 UTC)."
+    "Kalshi October Chance headings: 91% maintain, 8% hike 25 bp; maintain −1 percentage point since the 13:35 UTC October 23 page check.",
+    "Polymarket October named rows: 92% no change, 8% increase 25 bp; no change −1 percentage point since the 13:35 UTC October 23 page check.",
+    "The next FOMC meeting is October 27–28. The October 28 statement is scheduled for 14:00 ET (18:00 UTC); no Summary of Economic Projections is scheduled for October."
   ],
   "uncertainty": [
-    "Page access at about 13:35 UTC is not a venue quote time; exact price timing and cause are unknown.",
+    "Page access at about 19:03 UTC is not a venue quote time; exact price timing and cause are unknown.",
     "Kalshi Chance headings and Polymarket named rows are separate rounded contract displays; do not sum, normalize or average them.",
     "Kalshi order-entry odds differ from its Chance heading; Polymarket experimental AI text is excluded.",
     "CME FedWatch’s direct live October grid and quote time remain unreadable."
   ],
-  "checked_at": "2026-10-23T13:35:00Z",
+  "checked_at": "2026-10-23T19:03:00Z",
   "meaningfully_updated_at": "2026-10-22T19:06:00Z",
-  "freshness_note": "Direct event pages checked about 13:35 UTC October 23; venue quote times were not shown."
+  "freshness_note": "Direct event pages checked about 19:03 UTC October 23; venue quote times were not shown."
 }
