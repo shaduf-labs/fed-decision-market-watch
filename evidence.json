@@ -2,6 +2,126 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-27-midday-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "source_type": "futures-implied tool",
+      "title": "CME FedWatch",
+      "claim": "Direct live October grid and quote time not readable in accessible page.",
+      "accessed_at": "2026-10-27T13:35:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-27-midday-bea",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "source_type": "official calendar",
+      "title": "BEA release schedule",
+      "claim": "October 29 GDP and personal income releases scheduled at 08:30 ET.",
+      "accessed_at": "2026-10-27T13:35:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-27-midday-fed",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "source_type": "official calendar",
+      "title": "Federal Reserve October calendar",
+      "claim": "October 28 statement scheduled at 14:00 ET and press conference at 14:30 ET.",
+      "accessed_at": "2026-10-27T13:35:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-27-midday-polymarket",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "claim": "Named rows displayed 94% no change and 6% increase 25 basis points.",
+      "accessed_at": "2026-10-27T13:35:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-27-midday-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "claim": "Chance headings displayed 94% maintain and 7% hike 25 basis points.",
+      "accessed_at": "2026-10-27T13:35:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-27-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "claim": "Chance headings displayed 93% maintain and 8% hike 25 basis points.",
+      "accessed_at": "2026-10-27T09:43:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-27-polymarket",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "claim": "Named rows displayed 94% no change and 6% increase 25 basis points.",
+      "accessed_at": "2026-10-27T09:43:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-27-fed",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "source_type": "official calendar",
+      "title": "Federal Reserve October calendar",
+      "claim": "October 27–28 FOMC meeting; October 28 statement at 14:00 ET and press conference at 14:30 ET.",
+      "accessed_at": "2026-10-27T09:43:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-27-fomc",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "source_type": "official meeting calendar",
+      "title": "Federal Reserve FOMC calendar",
+      "claim": "October meeting is not marked for a Summary of Economic Projections.",
+      "accessed_at": "2026-10-27T09:43:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-27-bls",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "source_type": "official release calendar",
+      "title": "BLS October calendar",
+      "claim": "October 28 metropolitan employment and business employment dynamics scheduled at 10:00 ET.",
+      "accessed_at": "2026-10-27T09:43:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-27-bea",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "source_type": "official release calendar",
+      "title": "BEA release schedule",
+      "claim": "Advance third-quarter GDP and September personal income and outlays scheduled October 29 at 08:30 ET.",
+      "accessed_at": "2026-10-27T09:43:00Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-27-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "source_type": "futures-implied tool",
+      "title": "CME FedWatch",
+      "claim": "Direct live October grid and quote time remained unreadable.",
+      "accessed_at": "2026-10-27T09:43:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-24-evening-kalshi",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
       "source_type": "prediction-market event page",

@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 19:04 UTC on October 24, 2026, Kalshi October KXFEDDECISION-26OCT Chance headings showed 93% Fed maintains rate and 7% Hike 25bps; Polymarket's separate named rows showed 95% No change and 6% 25 bps increase. Hold remained the leading displayed outcome for the October 27–28 FOMC meeting. Since the October 23 19:03 UTC page check, the Kalshi hold heading rose 2 percentage points and its hike heading fell 1; the Polymarket no-change row rose 3 points and its hike row fell 2. Page access is not quote time, and neither the timing nor cause of the moves is verified.",
+  "current_answer": "At about 13:35 UTC on October 27, 2026, Kalshi’s October KXFEDDECISION-26OCT Chance headings showed 94% Fed maintains rate and 7% Hike 25bps; Polymarket’s separate named rows showed 94% No change and 6% 25 bps increase. Hold remains the leading displayed outcome before the October 27–28 FOMC meeting. Since the 09:43 UTC page checks, Kalshi maintain rose 1 percentage point and Polymarket no change was unchanged. Page access is not quote time; the path and cause of any price change are unknown.",
   "catalogue_card": {
-    "question": "Does the October hold still lead?",
-    "text": "At about 19:04 UTC October 24, Kalshi showed 93% maintain and Polymarket 95% no change. Both rose since the October 23 evening page check. Quote times and cause are unknown."
+    "question": "Does an October hold still lead?",
+    "text": "At about 13:35 UTC October 27, Kalshi and Polymarket each showed 94% on their separate hold rows. The Fed decision is scheduled for October 28; page access is not quote time."
   },
   "summary": [
-    "Kalshi October Chance headings: 93% maintain and 7% hike 25 bp; maintain +2 percentage points since the October 23 19:03 UTC page check.",
-    "Polymarket October named rows: 95% no change and 6% increase 25 bp; no change +3 percentage points since the October 23 19:03 UTC page check.",
-    "October 27–28 FOMC meeting; October 28 decision at 14:00 ET (18:00 UTC), press conference at 14:30 ET (18:30 UTC). No October projections release is scheduled."
+    "Kalshi October Chance headings: 94% maintains rate and 7% hikes 25 basis points. Maintain is 1 percentage point higher than the 09:43 UTC October 27 page check.",
+    "Polymarket October named rows: 94% no change and 6% increases 25 basis points, unchanged from its 09:43 UTC October 27 page check.",
+    "The Federal Reserve schedules its October 28 statement at 14:00 ET (18:00 UTC) and press conference at 14:30 ET (18:30 UTC)."
   ],
   "uncertainty": [
-    "Page access about 19:04 UTC is not a venue quote time; intraday timing and cause are unknown.",
-    "Kalshi Chance headings and Polymarket named rows are separate rounded contract displays; do not combine or normalize them.",
+    "Page access about 09:43 UTC is not a venue quote time; the interval path and cause are unknown.",
+    "Kalshi Chance headings and Polymarket named rows are separate rounded event-contract displays; do not combine or normalize them.",
     "Kalshi order-entry odds differ from Chance headings; Polymarket experimental AI commentary is excluded.",
-    "CME FedWatch's direct live October grid and quote time remain unreadable."
+    "CME FedWatch’s direct live October grid and quote time remain unreadable."
   ],
-  "checked_at": "2026-10-24T19:04:00Z",
+  "checked_at": "2026-10-27T13:35:00Z",
   "meaningfully_updated_at": "2026-10-22T19:06:00Z",
-  "freshness_note": "Direct event pages checked about 19:04 UTC October 24; venue quote times were not shown."
+  "freshness_note": "Direct event pages accessed about 13:35 UTC October 27; venue quote times were not shown."
 }

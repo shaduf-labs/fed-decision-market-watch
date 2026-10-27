@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-e2549d0054d1d35ccf76b3dc",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-27T13:31:00Z",
+      "completed_at": "2026-10-27T13:38:12Z",
+      "title": "October hold rows reach 94% on both direct pages",
+      "summary": "At about 13:35 UTC, Kalshi maintain and Polymarket no change each showed 94%; quote times and cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-27-midday-hold-at-94",
+      "entrypoint": "research/2026-10-27-midday-hold-at-94/index.html"
+    },
+    {
+      "run_id": "report-56d2f41c00a829b6fa251e6b",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-27T09:42:00Z",
+      "completed_at": "2026-10-27T09:46:10Z",
+      "title": "October hold still leads: Kalshi 93%, Polymarket 94%",
+      "summary": "Direct October event pages accessed about 09:43 UTC show hold leading. Kalshi maintain is unchanged and Polymarket no change is one point lower versus October 24; quote times and cause are unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-27-predecision-hold-check",
+      "entrypoint": "research/2026-10-27-predecision-hold-check/index.html"
+    },
+    {
       "run_id": "report-f32a983f72ac861e53749629",
       "status": "completed",
       "answer_change": "no_meaningful_change",
