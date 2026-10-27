@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-dd9e5b7e5dd5299bcaabda24",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-27T19:01:00Z",
+      "completed_at": "2026-10-27T19:04:32Z",
+      "title": "October hold leads: Kalshi 94%, Polymarket 95%",
+      "summary": "At about 19:02 UTC, Kalshi maintain was 94% and Polymarket no change was 95%; quote times and cause unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-27-evening-hold-check",
+      "entrypoint": "research/2026-10-27-evening-hold-check/index.html"
+    },
+    {
       "run_id": "report-e2549d0054d1d35ccf76b3dc",
       "status": "completed",
       "answer_change": "no_meaningful_change",

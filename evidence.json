@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-27-evening-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi October Fed decision",
+      "claim": "Chance headings displayed 94% maintain and 7% hike 25 basis points.",
+      "accessed_at": "2026-10-27T19:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-27-evening-polymarket",
+      "source_url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket October Fed decision",
+      "claim": "Named outcome rows displayed 95% no change and 6% increase 25 basis points; compact summary displayed 94.5% no change.",
+      "accessed_at": "2026-10-27T19:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-27-evening-fed",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "source_type": "official calendar",
+      "title": "Federal Reserve October calendar",
+      "claim": "October 28 statement scheduled at 14:00 ET and press conference at 14:30 ET.",
+      "accessed_at": "2026-10-27T19:02:30Z",
+      "relation": "context",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-27-evening-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "source_type": "futures-implied tool",
+      "title": "CME FedWatch",
+      "claim": "Direct live October grid and quote time not readable in accessible page.",
+      "accessed_at": "2026-10-27T19:02:30Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "2026-10-27-midday-cme",
       "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
       "source_type": "futures-implied tool",
