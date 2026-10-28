@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-b35a1b8585d9270c777cf35f",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-28T13:31:00Z",
+      "completed_at": "2026-10-28T13:39:34Z",
+      "title": "October hold leads before the decision: Kalshi 94%, Polymarket 93%",
+      "summary": "At the October 28 page check, both venues still showed hold leading; the official statement is scheduled for 18:00 UTC. Quote times and cause remain unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-28-predecision-hold-check",
+      "entrypoint": "research/2026-10-28-predecision-hold-check/index.html"
+    },
+    {
       "run_id": "report-dd9e5b7e5dd5299bcaabda24",
       "status": "completed",
       "answer_change": "no_meaningful_change",

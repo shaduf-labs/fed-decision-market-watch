@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 19:02 UTC on October 27, 2026, Kalshi’s October KXFEDDECISION-26OCT Chance headings showed 94% Fed maintains rate and 7% Hike 25bps. Polymarket’s separate named outcome rows showed 95% No change and 6% 25 bps increase. Hold remains the leading displayed outcome before the October 27–28 FOMC meeting. Since the 13:35 UTC page checks, Kalshi maintain was unchanged and Polymarket no change rose one percentage point. Page access is not quote time; the path and cause of any price change are unknown.",
+  "current_answer": "At about 13:35 UTC on October 28, 2026, the accessible Kalshi October KXFEDDECISION-26OCT Chance headings showed 94% “Fed maintains rate” and 6% “Hike 25bps.” Polymarket’s separate named outcome rows showed 93% “No change” and 7% “25 bps increase.” Both still favor a hold before the Fed statement scheduled for 18:00 UTC. Relative to the October 27 evening page checks, Kalshi maintain was unchanged and Polymarket no change was two percentage points lower. These are page observations, not synchronized venue quotes; the move’s timing and cause are unknown.",
   "catalogue_card": {
-    "question": "Does an October hold still lead?",
-    "text": "At about 19:02 UTC October 27, Kalshi showed 94% on its hold Chance heading and Polymarket 95% on its named no-change row. The Fed decision is scheduled for October 28; page access is not quote time."
+    "question": "Does an October hold still lead before the decision?",
+    "text": "Kalshi’s October hold Chance heading showed 94%; Polymarket’s separate no-change row showed 93% at the October 28 page check. The Fed statement is scheduled for 18:00 UTC. These are not synchronized quotes."
   },
   "summary": [
-    "Kalshi October Chance headings: 94% maintains rate and 7% hikes 25 basis points, unchanged from the 13:35 UTC October 27 check.",
-    "Polymarket October named rows: 95% no change and 6% increases 25 basis points. No change rose one percentage point from the 13:35 UTC check.",
-    "The Federal Reserve schedules its October 28 statement at 14:00 ET (18:00 UTC) and press conference at 14:30 ET (18:30 UTC)."
+    "Kalshi October Chance headings: 94% maintains rate and 6% hikes 25 basis points; the hold heading was unchanged from the October 27 evening page check.",
+    "Polymarket October named rows: 93% no change and 7% increases 25 basis points; the no-change row was two percentage points below the October 27 evening page check.",
+    "The Federal Reserve schedules the October 28 statement for 14:00 ET (18:00 UTC) and press conference for 14:30 ET (18:30 UTC). No October projections release is scheduled."
   ],
   "uncertainty": [
-    "Page access about 19:02 UTC is not a venue quote time; the interval path and cause are unknown.",
-    "Polymarket’s compact summary showed 94.5% while its named no-change row showed 95%; this comparison uses the named row.",
-    "Kalshi Chance headings and Polymarket named rows are separate rounded event-contract displays; do not combine or normalize them.",
-    "CME FedWatch’s direct live October grid and quote time remain unreadable."
+    "Page retrieval around 13:35 UTC is not a venue quote time; cached renders and the intraday price path are unknown.",
+    "Kalshi Chance headings and Polymarket named rows are distinct rounded event-contract displays, not a combined probability.",
+    "Polymarket’s compact summary displayed 93.2% no change while its named row displayed 93%; the comparison uses the named row.",
+    "CME FedWatch’s live October futures-implied grid and quote time were not readable in the accessible page."
   ],
-  "checked_at": "2026-10-27T19:02:30Z",
+  "checked_at": "2026-10-28T13:35:20Z",
   "meaningfully_updated_at": "2026-10-22T19:06:00Z",
-  "freshness_note": "Direct event pages accessed about 19:02 UTC October 27; venue quote times were not shown."
+  "freshness_note": "Event pages retrieved around 13:35 UTC October 28; venue quote times were not shown. The Kalshi renderer included a countdown that may lag retrieval."
 }
