@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "At about 13:35 UTC on October 28, 2026, the accessible Kalshi October KXFEDDECISION-26OCT Chance headings showed 94% “Fed maintains rate” and 6% “Hike 25bps.” Polymarket’s separate named outcome rows showed 93% “No change” and 7% “25 bps increase.” Both still favor a hold before the Fed statement scheduled for 18:00 UTC. Relative to the October 27 evening page checks, Kalshi maintain was unchanged and Polymarket no change was two percentage points lower. These are page observations, not synchronized venue quotes; the move’s timing and cause are unknown.",
+  "current_answer": "The Fed held at 3.75%–4.00% on October 28; the next scheduled decision is December 9. At about 19:06 UTC October 29, Kalshi’s December 25-basis-point-hike Chance heading and Polymarket’s separate named row both showed 77%. They were 80% and 78% at this pool’s 13:34 UTC page check. The three- and one-percentage-point declines are changes between unsynchronized page checks, not timed trades. BEA released GDP and PCE data earlier today; the quote path and cause of the displays’ changes are unknown.",
   "catalogue_card": {
-    "question": "Does an October hold still lead before the decision?",
-    "text": "Kalshi’s October hold Chance heading showed 94%; Polymarket’s separate no-change row showed 93% at the October 28 page check. The Fed statement is scheduled for 18:00 UTC. These are not synchronized quotes."
+    "question": "What do December Fed decision contracts show now?",
+    "text": "At the October 29 19:06 UTC page check, both Kalshi and Polymarket displayed 77% for their separate 25-basis-point-hike rows. The displays fell since 13:34 UTC, but native quote times and cause are unknown."
   },
   "summary": [
-    "Kalshi October Chance headings: 94% maintains rate and 6% hikes 25 basis points; the hold heading was unchanged from the October 27 evening page check.",
-    "Polymarket October named rows: 93% no change and 7% increases 25 basis points; the no-change row was two percentage points below the October 27 evening page check.",
-    "The Federal Reserve schedules the October 28 statement for 14:00 ET (18:00 UTC) and press conference for 14:30 ET (18:30 UTC). No October projections release is scheduled."
+    "Next scheduled decision: December 9, 2026. The October 28 result was a hold at 3.75%–4.00%.",
+    "At about 19:06 UTC October 29, Kalshi’s December Hike 25bps Chance heading and Polymarket’s separate 25 bps increase row each showed 77%.",
+    "The same hike displays were 80% and 78% at 13:34 UTC. BEA’s GDP and PCE releases preceded both checks; causation is unproven."
   ],
   "uncertainty": [
-    "Page retrieval around 13:35 UTC is not a venue quote time; cached renders and the intraday price path are unknown.",
-    "Kalshi Chance headings and Polymarket named rows are distinct rounded event-contract displays, not a combined probability.",
-    "Polymarket’s compact summary displayed 93.2% no change while its named row displayed 93%; the comparison uses the named row.",
-    "CME FedWatch’s live October futures-implied grid and quote time were not readable in the accessible page."
+    "Market-page access times are not venue quote times; displays are unsynchronized and may be cached.",
+    "The observed interval followed BEA’s GDP and PCE releases, but no matched quote-time series establishes cause.",
+    "CME FedWatch’s live December grid and quote time were not readable in the accessible page."
   ],
-  "checked_at": "2026-10-28T13:35:20Z",
-  "meaningfully_updated_at": "2026-10-22T19:06:00Z",
-  "freshness_note": "Event pages retrieved around 13:35 UTC October 28; venue quote times were not shown. The Kalshi renderer included a countdown that may lag retrieval."
+  "checked_at": "2026-10-29T19:06:07Z",
+  "meaningfully_updated_at": "2026-10-29T19:06:07Z",
+  "freshness_note": "Direct event pages accessed about 19:06 UTC October 29; venue quote times unavailable."
 }

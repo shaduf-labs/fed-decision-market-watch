@@ -2,6 +2,39 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-f20421ec61d4a36cc9d71dea",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-29T19:05:00Z",
+      "completed_at": "2026-10-29T19:09:41Z",
+      "title": "December hike rows show 77% on both venues",
+      "summary": "At about 19:06 UTC October 29, Kalshi and Polymarket displayed 77% on their separate December 25-basis-point-hike rows, down three and one points since midday page checks. Quote times and cause are unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-29-evening-december-hike-check",
+      "entrypoint": "research/2026-10-29-evening-december-hike-check/index.html"
+    },
+    {
+      "run_id": "report-fba04198077241fba8be55bf",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-29T13:31:00Z",
+      "completed_at": "2026-10-29T13:34:00Z",
+      "title": "December hike rows ease as GDP and PCE reports arrive",
+      "summary": "At about 13:34 UTC, Kalshi and Polymarket December 25-basis-point-hike displays were 80% and 78%, below yesterday’s checks. BEA released GDP and PCE figures, but the interval does not establish causation.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-29-post-bea-december-check",
+      "entrypoint": "research/2026-10-29-post-bea-december-check/index.html"
+    },
+    {
+      "run_id": "report-54c787e8af6bcde824c6025c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-28T19:01:00Z",
+      "completed_at": "2026-10-28T19:09:53.231Z",
+      "title": "Fed holds 3.75%–4.00%; December hike rows lead",
+      "summary": "The October decision is official: a 10–2 hold. At about 19:05 UTC, Kalshi and Polymarket December 25-basis-point-hike rows showed 81% and 82%; these are separate page observations.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-28-official-hold-december-watch",
+      "entrypoint": "research/2026-10-28-official-hold-december-watch/index.html"
+    },
+    {
       "run_id": "report-b35a1b8585d9270c777cf35f",
       "status": "completed",
       "answer_change": "no_meaningful_change",

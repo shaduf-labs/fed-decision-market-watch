@@ -2,6 +2,156 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-29-evening-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26dec",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi December Fed decision",
+      "claim": "At the 19:06 UTC October 29 page access, December Chance headings showed 77% Hike 25bps, 23% Fed maintains rate and 3% Hike >25bps.",
+      "accessed_at": "2026-10-29T19:06:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-29-evening-poly",
+      "source_url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket December Fed decision",
+      "claim": "At the 19:06 UTC October 29 page access, December named rows showed 77% 25 bps increase, 22% No change and 2% 50+ bps increase.",
+      "accessed_at": "2026-10-29T19:06:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-29-evening-bls",
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+      "source_type": "official calendar",
+      "title": "BLS November 2026 release schedule",
+      "claim": "September job openings: November 3 at 10:00 EST; October employment: November 6 and CPI: November 10 at 08:30 EST.",
+      "accessed_at": "2026-10-29T19:06:07Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-29-evening-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "source_type": "futures-implied method page",
+      "title": "CME FedWatch",
+      "claim": "The accessible page describes futures-implied probabilities but does not expose the live December grid or quote time.",
+      "accessed_at": "2026-10-29T19:06:07Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-29-pce",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "source_type": "official economic release",
+      "title": "BEA September personal income and outlays",
+      "claim": "BEA September 2026 PCE price index: +0.5% month over month, +3.6% year over year; core +0.3% month over month and +3.1% year over year.",
+      "accessed_at": "2026-10-29T13:34:00Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-29-gdp",
+      "source_url": "https://bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "source_type": "official economic release",
+      "title": "BEA advance third-quarter GDP",
+      "claim": "BEA advance 2026 Q3 real GDP: 3.4% annualized, compared with 2.2% in Q2.",
+      "accessed_at": "2026-10-29T13:34:00Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-29-poly",
+      "source_url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket December Fed decision",
+      "claim": "Polymarket December named rows: 78% 25 bps increase, 20% No change, 2% 50+ bps increase.",
+      "accessed_at": "2026-10-29T13:34:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-29-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26dec",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi December Fed decision",
+      "claim": "Kalshi December Chance headings: 80% Hike 25bps, 20% Fed maintains rate, 3% Hike >25bps.",
+      "accessed_at": "2026-10-29T13:34:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-28-cme-embedded",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "source_type": "futures-implied method page",
+      "title": "CME FedWatch",
+      "claim": "The accessible page describes futures-implied probabilities but did not expose the live December grid or quote time.",
+      "accessed_at": "2026-10-28T19:05:20Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-28-bls-next",
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+      "source_type": "official calendar",
+      "title": "BLS November release schedule",
+      "claim": "October employment is scheduled for November 6 and October CPI for November 10 at 08:30 ET.",
+      "accessed_at": "2026-10-28T19:05:20Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-28-bea-next",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "source_type": "official calendar",
+      "title": "BEA release schedule",
+      "claim": "Advance third-quarter GDP and September personal income and outlays are scheduled for October 29 at 08:30 ET.",
+      "accessed_at": "2026-10-28T19:05:20Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-28-polymarket-dec",
+      "source_url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket December Fed decision",
+      "claim": "Named December rows showed 82% for a 25-basis-point increase, 16% no change, and 3% 50+ basis-point increase.",
+      "accessed_at": "2026-10-28T19:05:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-28-kalshi-dec",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26dec",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi December Fed decision",
+      "claim": "December Chance headings showed 81% Hike 25bps, 18% maintains rate, and 3% Hike >25bps.",
+      "accessed_at": "2026-10-28T19:05:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-28-fed-dec-calendar",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "source_type": "official calendar",
+      "title": "Federal Reserve FOMC calendar",
+      "claim": "December 8–9 is the next meeting and is marked for a Summary of Economic Projections.",
+      "accessed_at": "2026-10-28T19:05:20Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
+      "evidence_id": "2026-10-28-fed-oct28-statement",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "source_type": "official statement",
+      "title": "Federal Reserve October 28 FOMC statement",
+      "claim": "The Committee held the target range at 3.75%–4.00% by 10–2; Cook and Hammack preferred a 25-basis-point increase.",
+      "accessed_at": "2026-10-28T19:05:20Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
       "evidence_id": "2026-10-28-kalshi-oct28",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct",
       "source_type": "prediction-market event page",
@@ -52,7 +202,7 @@
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "2026-10-28-bea-next",
+      "evidence_id": "2026-10-28-bea-next-context-133520",
       "source_url": "https://www.bea.gov/news/schedule",
       "source_type": "official calendar",
       "title": "BEA release schedule",
