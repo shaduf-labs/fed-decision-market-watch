@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-cb0d77bee2e0749d44137f7f",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-30T19:01:00Z",
+      "completed_at": "2026-10-30T19:08:05Z",
+      "title": "December hike displays fall to 69% and 70%",
+      "summary": "At about 19:06 UTC October 30, Kalshi and Polymarket separate December 25-basis-point-hike displays read 69% and 70%, down three and two percentage points since midday page checks. Quote times and causes are unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-30-evening-december-hike-check",
+      "entrypoint": "research/2026-10-30-evening-december-hike-check/index.html"
+    },
+    {
       "run_id": "report-29769f567cd09893ac577485",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-30-evening-december-hike-check",
+      "changed_at": "2026-10-30T19:06:09Z",
+      "summary": "Kalshi’s December 25-basis-point-hike heading fell from 72% to 69% and Polymarket’s separate row from 72% to 70% between October 30 page checks. A hike still leads; native quote times and causes are unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-30-december-hike-rows-fall",
       "changed_at": "2026-10-30T13:34:56Z",
       "summary": "December 25-basis-point-hike displays were 72% on both direct pages, five percentage points below the prior evening page checks. Native quote timing and cause are unknown.",
