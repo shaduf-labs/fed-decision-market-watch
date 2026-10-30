@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-29769f567cd09893ac577485",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-30T13:31:00Z",
+      "completed_at": "2026-10-30T13:37:51Z",
+      "title": "December hike rows fall five points to 72%",
+      "summary": "At about 13:35 UTC October 30, Kalshi and Polymarket separate December 25-basis-point-hike displays each read 72%, down five percentage points since the prior evening checks. Quote times and cause are unknown.",
+      "report_path": "/p/fed-decision-market-watch/research/2026-10-30-december-hike-rows-fall",
+      "entrypoint": "research/2026-10-30-december-hike-rows-fall/index.html"
+    },
+    {
       "run_id": "report-f20421ec61d4a36cc9d71dea",
       "status": "completed",
       "answer_change": "meaningful_change",

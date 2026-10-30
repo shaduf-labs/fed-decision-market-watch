@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "2026-10-30-kalshi",
+      "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26dec",
+      "source_type": "prediction-market event page",
+      "title": "Kalshi December Fed decision",
+      "claim": "At the October 30 13:35 UTC page access, Chance headings showed 72% Hike 25bps, 26% Fed maintains rate and 3% Hike >25bps.",
+      "accessed_at": "2026-10-30T13:34:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-30-poly",
+      "source_url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "source_type": "prediction-market event page",
+      "title": "Polymarket December Fed decision",
+      "claim": "At the October 30 13:35 UTC page access, named rows showed 72% 25 bps increase, 25% No change and 2% 50+ bps increase.",
+      "accessed_at": "2026-10-30T13:34:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-30-cme",
+      "source_url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "source_type": "futures-implied method page",
+      "title": "CME FedWatch",
+      "claim": "Accessible page describes fed funds futures-implied probabilities but does not expose the live December grid or quote time.",
+      "accessed_at": "2026-10-30T13:34:56Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "2026-10-30-bls",
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+      "source_type": "official calendar",
+      "title": "BLS November 2026 release schedule",
+      "claim": "September job openings: November 3 at 10:00 EST; October employment: November 6 and CPI: November 10 at 08:30 EST.",
+      "accessed_at": "2026-10-30T13:34:56Z",
+      "relation": "supports",
+      "publication_basis": "public-domain"
+    },
+    {
       "evidence_id": "2026-10-29-evening-kalshi",
       "source_url": "https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26dec",
       "source_type": "prediction-market event page",

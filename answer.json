@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The Fed held at 3.75%–4.00% on October 28; the next scheduled decision is December 9. At about 19:06 UTC October 29, Kalshi’s December 25-basis-point-hike Chance heading and Polymarket’s separate named row both showed 77%. They were 80% and 78% at this pool’s 13:34 UTC page check. The three- and one-percentage-point declines are changes between unsynchronized page checks, not timed trades. BEA released GDP and PCE data earlier today; the quote path and cause of the displays’ changes are unknown.",
+  "current_answer": "The Fed held at 3.75%–4.00% on October 28; the next scheduled decision is December 9. At about 13:35 UTC October 30, Kalshi’s December Hike 25bps Chance heading and Polymarket’s separate 25 bps increase named row each showed 72%, down five percentage points from their October 29 19:06 UTC page checks. Both still favor a quarter-point hike. Page access times are not quote times, and the cause of the decline is unknown.",
   "catalogue_card": {
-    "question": "What do December Fed decision contracts show now?",
-    "text": "At the October 29 19:06 UTC page check, both Kalshi and Polymarket displayed 77% for their separate 25-basis-point-hike rows. The displays fell since 13:34 UTC, but native quote times and cause are unknown."
+    "question": "How far did December hike odds fall?",
+    "text": "At the October 30 13:35 UTC page check, separate Kalshi and Polymarket December 25-basis-point-hike displays were 72%, each five percentage points below the October 29 evening check. Quote times and cause remain unknown."
   },
   "summary": [
     "Next scheduled decision: December 9, 2026. The October 28 result was a hold at 3.75%–4.00%.",
-    "At about 19:06 UTC October 29, Kalshi’s December Hike 25bps Chance heading and Polymarket’s separate 25 bps increase row each showed 77%.",
-    "The same hike displays were 80% and 78% at 13:34 UTC. BEA’s GDP and PCE releases preceded both checks; causation is unproven."
+    "At about 13:35 UTC October 30, the Kalshi December Hike 25bps Chance heading and Polymarket’s separate named 25 bps increase row each showed 72%.",
+    "Both hike displays were 77% at the October 29 19:06 UTC page check; the timing and cause of the decline are unknown."
   ],
   "uncertainty": [
-    "Market-page access times are not venue quote times; displays are unsynchronized and may be cached.",
-    "The observed interval followed BEA’s GDP and PCE releases, but no matched quote-time series establishes cause.",
+    "Market-page access times are not venue quote times; displays are unsynchronized, rounded and may be cached.",
+    "BEA released GDP and PCE data before both comparison checks; these observations do not establish why the rows declined.",
     "CME FedWatch’s live December grid and quote time were not readable in the accessible page."
   ],
-  "checked_at": "2026-10-29T19:06:07Z",
-  "meaningfully_updated_at": "2026-10-29T19:06:07Z",
-  "freshness_note": "Direct event pages accessed about 19:06 UTC October 29; venue quote times unavailable."
+  "checked_at": "2026-10-30T13:34:56Z",
+  "meaningfully_updated_at": "2026-10-30T13:34:56Z",
+  "freshness_note": "Direct event pages accessed about 13:35 UTC October 30; venue quote times unavailable."
 }

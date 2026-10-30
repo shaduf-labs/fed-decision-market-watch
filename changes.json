@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "2026-10-30-december-hike-rows-fall",
+      "changed_at": "2026-10-30T13:34:56Z",
+      "summary": "December 25-basis-point-hike displays were 72% on both direct pages, five percentage points below the prior evening page checks. Native quote timing and cause are unknown.",
+      "path": "/p/fed-decision-market-watch/"
+    },
+    {
       "change_id": "2026-10-29-evening-december-hike-check",
       "changed_at": "2026-10-29T19:06:07Z",
       "summary": "December 25-basis-point-hike displays reached 77% on both direct pages, down three percentage points on Kalshi and one on Polymarket since the midday page checks. Quote times and cause are unknown.",
